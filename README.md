@@ -7,13 +7,15 @@ This repository contains the USFM source files for the English Unlocked Literal 
 
 ## Contributors
 
-If you are a contributor to this project please add your name to the [Contributors](https://github.com/Door43/ulb-en/blob/master/CONTRIBUTORS.md) document.
+If you are a contributor to this project please add your name to the `contributor`
+field in the [manifest.yaml](https://git.door43.org/Door43/en_ulb/src/to_usfm/manifest.yaml)
+file.
 
 ## Viewing
 
-To view the rendered USFM files, go to https://door43.org/en/ulb/ep/home
+To view the rendered USFM files, go to https://live.door43.org/u/Door43/en_ulb/
 
-To view the content in chunks in the translationNotes, go to https://door43.org/en/bible/notes/home
+To view the translationNotes, go to https://git.door43.org/Door43/en_tn
  
 ## Editing
 
@@ -121,7 +123,7 @@ Preferred English renderings appear in bold type.
 
 ### Draft of a sample portion of ULB text
 
-Types of edits to look for:
+#### Types of edits to look for
 
 * awkward phrasing
 * outdated or low frequency vocabulary (and outdated spellings)
@@ -129,12 +131,12 @@ Types of edits to look for:
 * extraneous implied information
 * unclear or unnatural use of pronouns or conjunctions
 * wording that could cause a translation issue
-*implied information that is important for comprehension
-*original information lost
+* implied information that is important for comprehension
+* original information lost
 
-**ULB Luke 12:1-3**
+#### ULB Luke 12:1-3
 
-Original:
+Original, ASV text:
 
 v. 1 In the meantime, when the many thousands of the multitude were gathered together, insomuch that they trod one upon another, he began to say to his disciples first of all, Beware you of the leaven of the Pharisees, which is hypocrisy.
 
@@ -142,7 +144,7 @@ v. 2 But there is nothing covered up, that shall not be revealed; and hid, that 
 
 v. 3 Wherefore whatever you have said in the darkness shall be heard in the light; and what you have spoken in the ear in the inner chambers shall be proclaimed upon the housetops.
 
-Edited:
+Edited ULB text:
 
 v. 1 Meanwhile, while many thousands of people were crowding together so much that they were stepping on each other, Jesus began to say to his disciples first of all, "Be on guard against the yeast of the Pharisees, which is hypocrisy."
 

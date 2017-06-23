@@ -8,7 +8,7 @@ This repository contains the USFM source files for the English Unlocked Literal 
 ## Contributors
 
 If you are a contributor to this project please add your name to the `contributor`
-field in the [manifest.yaml](https://git.door43.org/Door43/en_ulb/src/to_usfm/manifest.yaml)
+field in the [manifest.yaml](https://git.door43.org/Door43/en_ulb/src/master/manifest.yaml)
 file.
 
 ## Viewing

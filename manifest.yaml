@@ -16,12 +16,12 @@ dublin_core:
   description: 'An unrestricted literal Bible'
   format: 'text/usfm'
   identifier: 'ulb'
-  issued: '2016-10-03'
+  issued: '2017-07-05'
   language:
     direction: 'ltr'
     identifier: 'en'
     title: 'English'
-  modified: '2016-11-14'
+  modified: '2017-07-05'
   publisher: 'unfoldingWord'
   relation:
     - 'en/tw'
@@ -36,7 +36,7 @@ dublin_core:
   subject: 'Bible'
   title: 'Unlocked Literal Bible'
   type: 'bundle'
-  version: '7'
+  version: '10'
 
 checking:
   checking_entity:

@@ -12,7 +12,8 @@ dublin_core:
     - 'Bram van den Heuvel'
     - 'C. Harry Harriss'
     - 'Hendrik "Henry" de Vries'
-  creator: 'Wycliffe Associates'
+    - 'Door43 World Missions Community'
+  creator: 'Door43 World Missions Community'
   description: "An open-licensed update of the ASV, intended to provide a 'form-centric' understanding of the Bible. It increases the translator's understanding of the lexical and grammatical composition of the underlying text by adhering closely to the word order and structure of the originals."
   format: 'text/usfm'
   identifier: 'ulb'
@@ -40,7 +41,7 @@ dublin_core:
 
 checking:
   checking_entity:
-    - 'Wycliffe Associates'
+    - 'unfoldingWord'
   checking_level: '3'
 
 projects:

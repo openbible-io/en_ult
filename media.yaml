@@ -1,10 +1,11 @@
-media:
-  -
-   identifier: 'pdf'
-   version: '{latest}'
-   contributor: []
-   url: 'https://cdn.door43.org/en/ulb/v{latest}/pdf/en_ulb_v{latest}.pdf'
-
+resource:
+  version: '{latest}'
+  media:
+    -
+     identifier: 'pdf'
+     version: '{latest}'
+     contributor: []
+     url: 'https://cdn.door43.org/en/ulb/v{latest}/pdf/en_ulb_v{latest}.pdf'
 
 projects:
   -

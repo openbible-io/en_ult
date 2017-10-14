@@ -151,4 +151,3 @@ v. 1 Meanwhile, while many thousands of people were crowding together so much th
 v. 2 But there is nothing covered up that will not be revealed, and nothing hidden that will not be known.
 
 v. 3 Therefore, whatever you say in the darkness will be heard in the light and whatever you have spoken in someone"s ear in a closet will be proclaimed from the roof of a house.
-

@@ -4,7 +4,7 @@
 
 ## Overview
 
-An open-licensed update of the *The American Standard Version*, intended to provide a ‘form-centric’ understanding of the Bible. It increases the translator’s understanding of the lexical and grammatical composition of the underlying text by adhering closely to the word order and structure of the originals.
+The ULB is an open-licensed update of the *The American Standard Version*, intended to provide a ‘form-centric’ understanding of the Bible. It increases the translator’s understanding of the lexical and grammatical composition of the underlying text by adhering closely to the word order and structure of the originals.
 
 ## Viewing
 
@@ -21,7 +21,7 @@ file.
 
 ### Introduction to the ULB
 
-The ULB (Unlocked Literal Bible) is a relatively "literal" version that is intended to be used as a text for presenting the ideas signaled by the biblical Hebrew, Aramaic, and Greek documents, for the purpose of bringing these ideas into other languages. It is intended for English-speaking mother-tongue translators (MTTs) worldwide as a resource for them to turn God's Word into their own languages.
+The ULB (Unlocked Literal Bible) is a form-centric, and thus "literal," version of the Bible in English that is intended to be used alongside the UDB (Unlocked Dynamic Bible) and other translation resources to give English-speaking mother-tongue translators  (MTTs) the most complete understanding possible of the messages communicated in the Bible. For MTTs who do not have reading knowledge of the original biblical languages, the ULB provides a sense of *how* these messages were communicated in those original languages. It is anticipated that the ULB and other resource will be translated from English into the world's gateway languages so that MTTs worldwide can use them as a set of resources for making accurate translations of God's Word into their own languages.
 
 The ULB stays closer to language **forms** in the source documents (SD) than does the UDB (Unlocked Dynamic Bible) text. This means that:
 

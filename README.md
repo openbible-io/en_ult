@@ -2,8 +2,13 @@
 
 *an unrestricted Bible intended for translation into any language*
 
-This work is based on *The American Standard Version*, which is in the public domain.
-This repository contains the USFM source files for the English Unlocked Literal Bible.
+## Overview
+
+An open-licensed update of the *The American Standard Version*, intended to provide a ‘form-centric’ understanding of the Bible. It increases the translator’s understanding of the lexical and grammatical composition of the underlying text by adhering closely to the word order and structure of the originals.
+
+## Viewing
+
+To read or print the ULB, see the [ULB project on Door43](https://door43.org/u/Door43/en_ulb/).
 
 ## Contributors
 
@@ -11,12 +16,7 @@ If you are a contributor to this project please add your name to the `contributo
 field in the [manifest.yaml](https://git.door43.org/Door43/en_ulb/src/master/manifest.yaml)
 file.
 
-## Viewing
 
-To view the rendered USFM files, go to https://live.door43.org/u/Door43/en_ulb/
-
-To view the translationNotes, go to https://git.door43.org/Door43/en_tn
- 
 ## Editing
 
 ### Introduction to the ULB

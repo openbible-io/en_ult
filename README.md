@@ -59,6 +59,7 @@ When translating the ULB, however, this figure of speech should be retained as i
   * All pronouns are lower case (except when beginning sentences and except for the first singular "I").
   * Capitalize titles (Son of Man, King David, the Messiah).
   * Retain the literal nature of the text–it should complement the "dynamic" UDB rather than be similar to it.
+  * Use vocabulary and phrases that differ from the UDB. The two translations fail to help the MTT when they are the same.
   * Where possible, use common vocabulary that is easy to translate into another language.
 
 ### Translation Glossary

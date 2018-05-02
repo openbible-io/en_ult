@@ -8,12 +8,12 @@ The ULT is an open-licensed update of *The American Standard Version*, intended 
 
 ## Viewing
 
-To read or print the ULT, see the [ULT project on Door43](https://door43.org/u/Door43/en_ULT/).
+To read or print the ULT, see the [ULT project on Door43](https://door43.org/u/Door43/en_ult/).
 
 ## Contributors
 
 If you are a contributor to this project please add your name to the `contributor`
-field in the [manifest.yaml](https://git.door43.org/Door43/en_ULT/src/master/manifest.yaml)
+field in the [manifest.yaml](https://git.door43.org/Door43/en_ult/src/master/manifest.yaml)
 file.
 
 

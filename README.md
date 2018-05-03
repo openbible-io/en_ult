@@ -8,12 +8,12 @@ The ULT is an open-licensed update of *The American Standard Version*, intended 
 
 ## Viewing
 
-To read or print the ULT, see the [ULT project on Door43](https://door43.org/u/Door43/en_ulb/).
+To read or print the ULT, see the [ULT project on Door43](https://door43.org/u/Door43/en_ult/).
 
 ## Contributors
 
 If you are a contributor to this project please add your name to the `contributor`
-field in the [manifest.yaml](https://git.door43.org/Door43/en_ulb/src/master/manifest.yaml)
+field in the [manifest.yaml](https://git.door43.org/Door43/en_ult/src/master/manifest.yaml)
 file.
 
 
@@ -66,7 +66,7 @@ When translating the ULT, however, this figure of speech should be retained as i
 
 A list of decisions as to how to translate some senses of the source language words and phrases into another language is called a Translation Glossary (TG). Such a device is especially useful when more than one person works on the same project, because it helps keep everyone using the same English terms.
 
-However, a TG cannot be foolproof, because the source will often use some words to signal more than one sense, depending on context. A TG is therefore a glossary of **word senses**, not a glossary of **words**. Check back often to this page, because this TG is likely to develop for the entire life of the Unfolding Word project.
+However, a TG cannot be foolproof, because the source will often use some words to signal more than one sense, depending on context. A TG is therefore a glossary of **word senses**, not a glossary of **words**. Check back often to this page, because this TG is likely to develop for the entire life of the unfoldingWord project.
 
 Note that occasionally, the TG's specified translation will not be suitable. As always, the text editors must remain in control of the decision-making process. The TG is to guide you as much as is possible. If you must depart from the TG guidelines, do so and insert a note to that effect.
 
@@ -78,18 +78,20 @@ Preferred English renderings appear in bold type.
   * *Call*  in the ASV usage "call his name": update to "**call him**  [+ name]" or "**name him**  [+ name]."
   * *Call*  in the formula of the type, "he shall be called the Son of the Most High" (Luke 1:32): keep this formula in the ULT, but be aware of the metaphor that is operative here: in this verse, Jesus will not only be *called the Son of the Most High*, but he will be the Son of the Most High.
   * *Hand*  indicating power or possession: keep this metaphor in the ULT.
-  * Sentence-initial or preverbal *and*  of the type, "and Joseph said," "and it came about," etc.: translate these without supplying "and." These occurrences of "and" in the ASV and its derivatives usually occur where the ASV translates the preverbal Greek particle *kai* or the Hebrew *vav * in the *wayyiqtol * verb form. The Greek particle *kai* was usually a Hebraism on the part of the New Testament writers that reflected their understanding that the Hebrew *wayyiqtol * form contained the conjunctive *vav* 'and.' This, however, was a misunderstanding, for modern scholarship has shown that the *wayyiqtol* form was a frozen form with parallels in cognate Semitic languages; it was the preferred Hebrew verb form for signaling event verbs in Hebrew narration. Good English style does not normally allow sentences to begin with "and." Only rarely is it allowable in the ULT, for dramatic effect. Otherwise, when you are tempted to start a sentence with "and," change the preceding period to a comma. 
-  * **Shall** versus **will** : in English future expressions in general, use "**will**" instead of "shall," e.g., "he is a prophet, and he <del>shall</del> **will** pray for you" (Gen 20:7). Note that some ASV future expressions are better updated into today's English by using the present tense, e.g., "I shall not drink from...the fruit of the vine, until the kingdom of God shall come" (Luke 22:18) can be updated to "I **will** not drink...until the kingdom of God **comes**." Cases in which "shall" expresses obligation can usually be restructured, e.g., "You shall not steal" becomes " **Do** not steal," and "Shall I go and smite these Philistines?" (1 Sam. 23:2) becomes "**Should ** I go and attack these Philistines?" This general preference for "will" probably conforms to the instincts of most English native speakers. However, in genres such as prophecies, blessings, curses, and in other passages focusing on the expression of the speaker's intentionality, retain the use of "shall" in the ULT, e.g., "Yahweh said, **'Shall** I hide from Abraham what I am about to do...?'" (Gen 18:17), "A deliverer **shall** come to Zion," "every mountain and hill **shall** be made low."
+  * Sentence-initial or preverbal *and*  of the type, "And Joseph said," "And it came about," etc.: translate these without supplying "And." These occurrences of "And" in the ASV and its derivatives usually occur where the ASV translates the preverbal Greek particle *kai* or the Hebrew *vav* in the *wayyiqtol* verb form. The Greek particle *kai* was usually a Hebraism on the part of the New Testament writers that reflected their understanding that the Hebrew *wayyiqtol* form contained the conjunctive *vav* 'and.' This, however, was a misunderstanding, for modern scholarship has shown that the *wayyiqtol* form was a frozen form with parallels in cognate Semitic languages; it was the preferred Hebrew verb form for signaling event verbs in Hebrew narration. Good English style does not normally allow sentences to begin with "and." Only rarely is it allowable in the ULT, for dramatic effect. Otherwise, when you are tempted to start a sentence with "and," change the preceding period to a comma. 
+  * **Shall** vs. **will** : in English future expressions in general, use "**will**" instead of "shall," e.g., "he is a prophet, and he <del>shall</del> **will** pray for you" (Gen 20:7). Note that some ASV future expressions are better updated into today's English by using the present tense, e.g., "I shall not drink from...the fruit of the vine, until the kingdom of God shall come" (Luke 22:18) can be updated to "I **will** not drink...until the kingdom of God **comes**." Cases in which "shall" expresses obligation can usually be restructured, e.g., "You shall not steal" becomes " **Do** not steal," and "Shall I go and smite these Philistines?" (1 Sam. 23:2) becomes "**Should** I go and attack these Philistines?" This general preference for "will" probably conforms to the instincts of most English native speakers. However, in genres such as prophecies, blessings, curses, and in other passages focusing on the expression of the speaker's intentionality, retain the use of "shall" in the ULT, e.g., "Yahweh said, **'Shall** I hide from Abraham what I am about to do...?'" (Gen 18:17), "A deliverer **shall** come to Zion," "every mountain and hill **shall** be made low."
+  * In speech introductions that use two verbs instead of one such as, "**he answered and said**," please retain this formula in the ULT. This will provide a model for languages which also separate the mode of speech from the act of speech, as does Biblical Hebrew and, often, Greek. In the UST for the same issue, only one verb will be used.
+
 
 #### Translation Glossary for the Old Testament ULT
 
   * *wayehi* "**It came about,**" "**It happened that...**"
-  * *hinneh* "**Behold**" (when used in normal narrative passages or in narrative embedded in direct speech, such as when Joseph tells his brothers what happened in his dreams). In conversational passages, translate *hinneh *  as, "**look**," "**see**," "**see here**," or something else suitable for signaling that what immediately follows in the text is prominent. Some conversational contexts may make it almost impossible to give any translation at all of *hinneh*. – However, in direct reported speech of God or his angel, you may use "**behold**," especially if it lends more dignity in English to the divine words than "look" or "see," etc., would do.
+  * *hinneh* "**Behold**" (when used in normal narrative passages or in narrative embedded in direct speech, such as when Joseph tells his brothers what happened in his dreams). In conversational passages, translate *hinneh*  as, "**look**," "**see**," "**see here**," or something else suitable for signaling that what immediately follows in the text is prominent. Some conversational contexts may make it almost impossible to give any translation at all of *hinneh*. – However, in direct reported speech of God or his angel, you may use "**behold**," especially if it lends more dignity in English to the divine words than "look" or "see," etc., would do.
   * *adam*  (ASV: man, men) When referring to humanity in general, use "**mankind**."
   * *YHWH* **Yahweh** (The ASV uses "Jehovah," but we will not.)
   * *Meshiach* "**Messiah**" (almost always, "**the Messiah**," since "Messiah" is a title)
-  * Expressions of the type, "he knew his wife" or "he went into his wife" should be reproduced as is. The context makes their meaning clear.
-  * In speech introductions that use two verbs instead of one such as, "he answered and said," please retain this formula in the ULT. This will provide a model for languages which also separate the mode of speech from the act of speech, as does Biblical Hebrew. In the UST for the same issue, only one verb will be used.
+  * Expressions of the type, "**he knew his wife**" or "**he went into his wife**" should be reproduced as is. The context makes their meaning clear.
+
 
 #### Translation Glossary for the New Testament ULT
 

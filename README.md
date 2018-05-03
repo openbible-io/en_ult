@@ -66,7 +66,7 @@ When translating the ULT, however, this figure of speech should be retained as i
 
 A list of decisions as to how to translate some senses of the source language words and phrases into another language is called a Translation Glossary (TG). Such a device is especially useful when more than one person works on the same project, because it helps keep everyone using the same English terms.
 
-However, a TG cannot be foolproof, because the source will often use some words to signal more than one sense, depending on context. A TG is therefore a glossary of **word senses**, not a glossary of **words**. Check back often to this page, because this TG is likely to develop for the entire life of the Unfolding Word project.
+However, a TG cannot be foolproof, because the source will often use some words to signal more than one sense, depending on context. A TG is therefore a glossary of **word senses**, not a glossary of **words**. Check back often to this page, because this TG is likely to develop for the entire life of the unfoldingWord project.
 
 Note that occasionally, the TG's specified translation will not be suitable. As always, the text editors must remain in control of the decision-making process. The TG is to guide you as much as is possible. If you must depart from the TG guidelines, do so and insert a note to that effect.
 

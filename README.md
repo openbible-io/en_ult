@@ -1,4 +1,4 @@
-# unFoldingWord Literal Text - English
+# unfoldingWord Literal Text - English
 
 *an unrestricted Bible intended for translation into any language*
 
@@ -21,11 +21,11 @@ file.
 
 ### Introduction to the ULT
 
-The ULT (unFoldingWord Literal Text) is a form-centric, and thus "literal," version of the Bible in English that is intended to be used alongside the UST (unFoldingWord Simplified Text) and other translation resources to give English-speaking mother-tongue translators  (MTTs) the most complete understanding possible of the messages communicated in the Bible. For MTTs who do not have reading knowledge of the original biblical languages, the ULT provides a sense of *how* these messages were communicated in those original languages. It is anticipated that the ULT and other resource will be translated from English into the world's Gateway Languages so that MTTs worldwide can use them as a set of resources for making accurate translations of God's Word into their own languages.
+The ULT (unfoldingWord Literal Text) is a form-centric, and thus "literal," version of the Bible in English that is intended to be used alongside the UST (unfoldingWord Simplified Text) and other translation resources to give English-speaking mother-tongue translators  (MTTs) the most complete understanding possible of the messages communicated in the Bible. For MTTs who do not have reading knowledge of the original biblical languages, the ULT provides a sense of *how* these messages were communicated in those original languages. It is anticipated that the ULT and other resource will be translated from English into the world's Gateway Languages so that MTTs worldwide can use them as a set of resources for making accurate translations of God's Word into their own languages.
 
 ### Editing the ULT
 
-The unFoldingWord Literal Text (ULT) is designed to be used in conjunction with the translationNotes (tN) and the unFoldingWord Simplified Text (UST) as a tool for Bible translation. It is not an end-user Bible, which seeks to transform all of the structures of the original biblical languages into those that are natural and idiomatic in the target language. Instead, unlike the UST and unlike an end-user Bible, the ULT is designed to reflect the forms of the source languages, so that the MTT can see what they are. By using the ULT, the MTT can "look through" it to see how the original Bible expressed the biblical ideas. As you edit or translate the ULT, therefore, you must try to retain the grammatical and syntactic structures of the original as far as the target language (English or other Gateway Language) will allow. If the original structure is ungrammatical in the target language, then you will need to change it into a structure that is grammatical. It does no good to make a translation that the MTT using this tool will not be able to understand. But as far as the target language will allow, retain the structures of the original in your editing or translation of the ULT. For English, it is often possible to retain nouns as nouns, verbs as verbs, etc., but their order in the original sentence must be changed.
+The unfoldingWord Literal Text (ULT) is designed to be used in conjunction with the translationNotes (tN) and the unfoldingWord Simplified Text (UST) as a tool for Bible translation. It is not an end-user Bible, which seeks to transform all of the structures of the original biblical languages into those that are natural and idiomatic in the target language. Instead, unlike the UST and unlike an end-user Bible, the ULT is designed to reflect the forms of the source languages, so that the MTT can see what they are. By using the ULT, the MTT can "look through" it to see how the original Bible expressed the biblical ideas. As you edit or translate the ULT, therefore, you must try to retain the grammatical and syntactic structures of the original as far as the target language (English or other Gateway Language) will allow. If the original structure is ungrammatical in the target language, then you will need to change it into a structure that is grammatical. It does no good to make a translation that the MTT using this tool will not be able to understand. But as far as the target language will allow, retain the structures of the original in your editing or translation of the ULT. For English, it is often possible to retain nouns as nouns, verbs as verbs, etc., but their order in the original sentence must be changed.
 
 ### Retaining Original Structures 
 
@@ -117,7 +117,7 @@ Preferred English renderings appear in bold type.
 
 ### The ULT Contrasted with the UST
 
-The ULT seeks to represent the language **forms** of the original in a way that also makes sense in English and other Gateway Languages. The UST (unFoldingWord Simplified Text) seeks to represent the **plain meaning** of the original Bible text. This means that:
+The ULT seeks to represent the language **forms** of the original in a way that also makes sense in English and other Gateway Languages. The UST (unfoldingWord Simplified Text) seeks to represent the **plain meaning** of the original Bible text. This means that:
 
   * the ULT reflects better than the UST the grammatical structures of the biblical languages.
   * the ULT reflects better than the UST the parts of speech of the biblical languages. The ULT, for example, will seek to use nouns where the original uses nouns, adjectives where the original uses adjectives, and so forth. 

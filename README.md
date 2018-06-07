@@ -75,6 +75,7 @@ Note that occasionally, the TG's specified translation will not be suitable. As 
 Preferred English renderings appear in bold type.
 
   * *brethren*  should be updated to **brothers**. When both genders are indicated by the context, a note from the Notes Team should be expected to appear to that effect. Do not replace the ULT text with "brothers and sisters." That change will appear in the UST.
+  * *uioi* as in "sons of Israel" or "sons of God" will remain as "**sons**." The UST will use "children" or another choice.
   * *Call*  in the ASV usage "call his name": update to "**call him**  [+ name]" or "**name him**  [+ name]."
   * *Call*  in the formula of the type, "he shall be called the Son of the Most High" (Luke 1:32): keep this formula in the ULT, but be aware of the metaphor that is operative here: in this verse, Jesus will not only be *called the Son of the Most High*, but he will be the Son of the Most High.
   * *Hand*  indicating power or possession: keep this metaphor in the ULT.

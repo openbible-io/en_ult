@@ -1,5 +1,3 @@
----
-
 dublin_core:
   conformsto: 'rc0.2'
   contributor:
@@ -34,14 +32,14 @@ dublin_core:
     - 'Door43 World Missions Community'
   creator: 'Door43 World Missions Community'
   description: "An open-licensed update of the ASV, intended to provide a 'form-centric' understanding of the Bible. It increases the translator's understanding of the lexical and grammatical composition of the underlying text by adhering closely to the word order and structure of the originals."
-  format: 'text/usfm'
-  identifier: 'ulb'
-  issued: '2017-11-29'
+  format: 'text/usfm3'
+  identifier: 'ult'
+  issued: '2018-08-24'
   language:
     direction: 'ltr'
     identifier: 'en'
     title: 'English'
-  modified: '2017-11-29'
+  modified: '2018-08-24'
   publisher: 'unfoldingWord'
   relation:
     - 'en/tw'
@@ -53,10 +51,10 @@ dublin_core:
       identifier: 'asv'
       language: 'en'
       version: '1901'
-  subject: 'Bible'
+  subject: 'Aligned Bible'
   title: 'unfoldingWord Literal Text'
   type: 'bundle'
-  version: '12'
+  version: '1'
 
 checking:
   checking_entity:

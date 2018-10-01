@@ -1,4 +1,4 @@
-\id GAL EN_ULT en_English_ltr Tue Aug 21 2018 16:14:05 GMT-0400 (EDT) tc
+\id GAL EN_ULT en_English_ltr Mon Oct 01 2018 13:28:30 GMT-0400 (EDT) tc
 \ide UTF-8
 \h Galatians
 \toc1 The Letter of Paul to the Galatians
@@ -2059,20 +2059,26 @@
 \w wrong|x-occurrence="1" x-occurrences="1"\w*
 \zaln-e\*. 
 \v 12
+\zaln-s | x-strong="G35880" x-lemma="ὁ" x-morph="Gr,RD,,,,GNS," x-occurrence="1" x-occurrences="1" x-content="τοῦ"
 \zaln-s | x-strong="G10630" x-lemma="γάρ" x-morph="Gr,CC,,,,,,,," x-occurrence="1" x-occurrences="1" x-content="γὰρ"
+\zaln-s | x-strong="G20640" x-lemma="ἔρχομαι" x-morph="Gr,V,NAA,,,,," x-occurrence="1" x-occurrences="1" x-content="ἐλθεῖν"
 \w Indeed|x-occurrence="1" x-occurrences="1"\w*
+\zaln-e\*
+\zaln-e\*
 \zaln-e\*,
 \zaln-s | x-strong="G42530" x-lemma="πρό" x-morph="Gr,P,,,,,G,,," x-occurrence="1" x-occurrences="1" x-content="πρὸ"
-\zaln-s | x-strong="G35880" x-lemma="ὁ" x-morph="Gr,RD,,,,GNS," x-occurrence="1" x-occurrences="1" x-content="τοῦ"
 \w before|x-occurrence="1" x-occurrences="1"\w*
-\zaln-e\*
 \zaln-e\*
 \zaln-s | x-strong="G51000" x-lemma="τις" x-morph="Gr,RI,,,,AMP," x-occurrence="1" x-occurrences="1" x-content="τινας"
 \w certain|x-occurrence="1" x-occurrences="1"\w*
 \w men|x-occurrence="1" x-occurrences="2"\w*
 \zaln-e\*
+\zaln-s | x-strong="G35880" x-lemma="ὁ" x-morph="Gr,RD,,,,GNS," x-occurrence="1" x-occurrences="1" x-content="τοῦ"
+\zaln-s | x-strong="G10630" x-lemma="γάρ" x-morph="Gr,CC,,,,,,,," x-occurrence="1" x-occurrences="1" x-content="γὰρ"
 \zaln-s | x-strong="G20640" x-lemma="ἔρχομαι" x-morph="Gr,V,NAA,,,,," x-occurrence="1" x-occurrences="1" x-content="ἐλθεῖν"
 \w came|x-occurrence="1" x-occurrences="2"\w*
+\zaln-e\*
+\zaln-e\*
 \zaln-e\*
 \zaln-s | x-strong="G05750" x-lemma="ἀπό" x-morph="Gr,P,,,,,G,,," x-occurrence="1" x-occurrences="1" x-content="ἀπὸ"
 \w from|x-occurrence="1" x-occurrences="2"\w*
@@ -2697,7 +2703,9 @@
 \zaln-s | x-strong="G41020" x-lemma="πίστις" x-morph="Gr,N,,,,,DFS," x-occurrence="1" x-occurrences="1" x-content="πίστει"
 \w faith|x-occurrence="1" x-occurrences="2"\w*
 \zaln-e\*—
+\zaln-s | x-strong="G35880" x-lemma="ὁ" x-morph="Gr,RD,,,,DFS," x-occurrence="1" x-occurrences="1" x-content="τῇ"
 \w faith|x-occurrence="2" x-occurrences="2"\w*
+\zaln-e\*
 \zaln-s | x-strong="G35880" x-lemma="ὁ" x-morph="Gr,EA,,,,GMS," x-occurrence="1" x-occurrences="3" x-content="τοῦ"
 \w in|x-occurrence="3" x-occurrences="3"\w*
 \w the|x-occurrence="3" x-occurrences="3"\w*
@@ -2796,11 +2804,11 @@
 \v 1
 \zaln-s | x-strong="G55990" x-lemma="ὦ" x-morph="Gr,T,,,,,,,,," x-occurrence="1" x-occurrences="1" x-content="ὦ"
 \zaln-s | x-strong="G04530" x-lemma="ἀνόητος" x-morph="Gr,AA,,,,VMP," x-occurrence="1" x-occurrences="1" x-content="ἀνόητοι"
-\zaln-s | x-strong="G10520" x-lemma="Γαλάτης" x-morph="Gr,N,,,,,VMP," x-occurrence="1" x-occurrences="1" x-content="Γαλάται"
 \w Foolish|x-occurrence="1" x-occurrences="1"\w*
+\zaln-e\*
+\zaln-e\*
+\zaln-s | x-strong="G10520" x-lemma="Γαλάτης" x-morph="Gr,N,,,,,VMP," x-occurrence="1" x-occurrences="1" x-content="Γαλάται"
 \w Galatians|x-occurrence="1" x-occurrences="1"\w*
-\zaln-e\*
-\zaln-e\*
 \zaln-e\*!
 \zaln-s | x-strong="G51010" x-lemma="τίς" x-morph="Gr,RT,,,,NMS," x-occurrence="1" x-occurrences="1" x-content="τίς"
 \w Who|x-occurrence="1" x-occurrences="1"\w*
@@ -3718,8 +3726,10 @@
 \w The|x-occurrence="1" x-occurrences="1"\w*
 \w law|x-occurrence="1" x-occurrences="1"\w*
 \zaln-e\*,
-\zaln-s | x-strong="G10960" x-lemma="γίνομαι" x-morph="Gr,V,PEA,NMS," x-occurrence="1" x-occurrences="1" x-content="γεγονὼς"
+\zaln-s | x-strong="G35880" x-lemma="ὁ" x-morph="Gr,EA,,,,NMS," x-occurrence="1" x-occurrences="1" x-content="ὁ"
 \w which|x-occurrence="1" x-occurrences="1"\w*
+\zaln-e\*
+\zaln-s | x-strong="G10960" x-lemma="γίνομαι" x-morph="Gr,V,PEA,NMS," x-occurrence="1" x-occurrences="1" x-content="γεγονὼς"
 \w came|x-occurrence="1" x-occurrences="1"\w*
 \zaln-e\*
 \zaln-s | x-strong="G20940" x-lemma="ἔτος" x-morph="Gr,N,,,,,ANP," x-occurrence="1" x-occurrences="1" x-content="ἔτη"
@@ -3936,11 +3946,13 @@
 \w one|x-occurrence="1" x-occurrences="2"\w*
 \w person|x-occurrence="1" x-occurrences="1"\w*
 \zaln-e\*,
+\zaln-s | x-strong="G35880" x-lemma="ὁ" x-morph="Gr,EA,,,,NMS," x-occurrence="2" x-occurrences="2" x-content="ὁ"
 \zaln-s | x-strong="G11610" x-lemma="δέ" x-morph="Gr,CC,,,,,,,," x-occurrence="2" x-occurrences="2" x-content="δὲ"
-\w but|x-occurrence="1" x-occurrences="1"\w*
-\zaln-e\*
 \zaln-s | x-strong="G23160" x-lemma="θεός" x-morph="Gr,N,,,,,NMS," x-occurrence="1" x-occurrences="1" x-content="Θεὸς"
+\w but|x-occurrence="1" x-occurrences="1"\w*
 \w God|x-occurrence="1" x-occurrences="1"\w*
+\zaln-e\*
+\zaln-e\*
 \zaln-e\*
 \zaln-s | x-strong="G15100" x-lemma="εἰμί" x-morph="Gr,V,IPA3,,S," x-occurrence="1" x-occurrences="1" x-content="ἐστιν"
 \w is|x-occurrence="1" x-occurrences="1"\w*
@@ -7388,8 +7400,12 @@
 \w himself|x-occurrence="1" x-occurrences="1"\w*
 \zaln-e\*. 
 \v 4
+\zaln-s | x-strong="G35880" x-lemma="ὁ" x-morph="Gr,EA,,,,ANS," x-occurrence="1" x-occurrences="2" x-content="τὸ"
 \zaln-s | x-strong="G11610" x-lemma="δέ" x-morph="Gr,CC,,,,,,,," x-occurrence="1" x-occurrences="1" x-content="δὲ"
+\zaln-s | x-strong="G20410" x-lemma="ἔργον" x-morph="Gr,N,,,,,ANS," x-occurrence="1" x-occurrences="1" x-content="ἔργον"
 \w But|x-occurrence="1" x-occurrences="1"\w*
+\zaln-e\*
+\zaln-e\*
 \zaln-e\*
 \zaln-s | x-strong="G15380" x-lemma="ἕκαστος" x-morph="Gr,RI,,,,NMS," x-occurrence="1" x-occurrences="1" x-content="ἕκαστος"
 \w each|x-occurrence="1" x-occurrences="1"\w*
@@ -7403,8 +7419,12 @@
 \w his|x-occurrence="1" x-occurrences="1"\w*
 \w own|x-occurrence="1" x-occurrences="1"\w*
 \zaln-e\*
+\zaln-s | x-strong="G35880" x-lemma="ὁ" x-morph="Gr,EA,,,,ANS," x-occurrence="1" x-occurrences="2" x-content="τὸ"
+\zaln-s | x-strong="G11610" x-lemma="δέ" x-morph="Gr,CC,,,,,,,," x-occurrence="1" x-occurrences="1" x-content="δὲ"
 \zaln-s | x-strong="G20410" x-lemma="ἔργον" x-morph="Gr,N,,,,,ANS," x-occurrence="1" x-occurrences="1" x-content="ἔργον"
 \w work|x-occurrence="1" x-occurrences="1"\w*
+\zaln-e\*
+\zaln-e\*
 \zaln-e\*,
 \zaln-s | x-strong="G25320" x-lemma="καί" x-morph="Gr,CC,,,,,,,," x-occurrence="1" x-occurrences="2" x-content="καὶ"
 \w and|x-occurrence="1" x-occurrences="2"\w*
@@ -7534,11 +7554,13 @@
 \zaln-s | x-strong="G34560" x-lemma="μυκτηρίζω" x-morph="Gr,V,IPP3,,S," x-occurrence="1" x-occurrences="1" x-content="μυκτηρίζεται"
 \w mocked|x-occurrence="1" x-occurrences="1"\w*
 \zaln-e\*,
+\zaln-s | x-strong="G37390" x-lemma="ὅς" x-morph="Gr,RR,,,,ANS," x-occurrence="1" x-occurrences="1" x-content="ὃ"
 \zaln-s | x-strong="G10630" x-lemma="γάρ" x-morph="Gr,CC,,,,,,,," x-occurrence="1" x-occurrences="1" x-content="γὰρ"
-\w for|x-occurrence="1" x-occurrences="1"\w*
-\zaln-e\*
 \zaln-s | x-strong="G14370" x-lemma="ἐάν" x-morph="Gr,T,,,,,,,,," x-occurrence="1" x-occurrences="1" x-content="ἐὰν"
+\w for|x-occurrence="1" x-occurrences="1"\w*
 \w whatever|x-occurrence="1" x-occurrences="1"\w*
+\zaln-e\*
+\zaln-e\*
 \zaln-e\*
 \zaln-s | x-strong="G04440" x-lemma="ἄνθρωπος" x-morph="Gr,N,,,,,NMS," x-occurrence="1" x-occurrences="1" x-content="ἄνθρωπος"
 \w a|x-occurrence="1" x-occurrences="1"\w*
@@ -7646,8 +7668,12 @@
 \w life|x-occurrence="1" x-occurrences="1"\w*
 \zaln-e\*.\s5 
 \v 9
+\zaln-s | x-strong="G35880" x-lemma="ὁ" x-morph="Gr,EA,,,,ANS," x-occurrence="1" x-occurrences="1" x-content="τὸ"
 \zaln-s | x-strong="G11610" x-lemma="δέ" x-morph="Gr,CC,,,,,,,," x-occurrence="1" x-occurrences="1" x-content="δὲ"
+\zaln-s | x-strong="G25700" x-lemma="καλός" x-morph="Gr,NS,,,,ANS," x-occurrence="1" x-occurrences="1" x-content="καλὸν"
 \w But|x-occurrence="1" x-occurrences="1"\w*
+\zaln-e\*
+\zaln-e\*
 \zaln-e\*
 \zaln-s | x-strong="G14555" x-lemma="ἐνκακέω" x-morph="Gr,V,SPA1,,P," x-occurrence="1" x-occurrences="1" x-content="ἐνκακῶμεν"
 \w let|x-occurrence="1" x-occurrences="1"\w*
@@ -7664,8 +7690,12 @@
 \w in|x-occurrence="1" x-occurrences="2"\w*
 \w doing|x-occurrence="1" x-occurrences="1"\w*
 \zaln-e\*
+\zaln-s | x-strong="G35880" x-lemma="ὁ" x-morph="Gr,EA,,,,ANS," x-occurrence="1" x-occurrences="1" x-content="τὸ"
+\zaln-s | x-strong="G11610" x-lemma="δέ" x-morph="Gr,CC,,,,,,,," x-occurrence="1" x-occurrences="1" x-content="δὲ"
 \zaln-s | x-strong="G25700" x-lemma="καλός" x-morph="Gr,NS,,,,ANS," x-occurrence="1" x-occurrences="1" x-content="καλὸν"
 \w good|x-occurrence="1" x-occurrences="1"\w*
+\zaln-e\*
+\zaln-e\*
 \zaln-e\*,
 \zaln-s | x-strong="G10630" x-lemma="γάρ" x-morph="Gr,CC,,,,,,,," x-occurrence="1" x-occurrences="1" x-content="γὰρ"
 \w for|x-occurrence="1" x-occurrences="1"\w*
@@ -8196,7 +8226,7 @@
 \w your|x-occurrence="1" x-occurrences="1"\w*
 \zaln-e\*
 \zaln-s | x-strong="G35880" x-lemma="ὁ" x-morph="Gr,EA,,,,GNS," x-occurrence="2" x-occurrences="2" x-content="τοῦ"
-\zaln-s | x-strong="G41510" x-lemma="πνεῦμα" x-morph="Gr,N,,,,,GNS," x-occurrence="1" x-occurrences="1" x-content="Πνεύματος"
+\zaln-s | x-strong="G41510" x-lemma="πνεῦμα" x-morph="Gr,N,,,,,GNS," x-occurrence="1" x-occurrences="1" x-content="πνεύματος"
 \w spirit|x-occurrence="1" x-occurrences="1"\w*
 \zaln-e\*
 \zaln-e\*,

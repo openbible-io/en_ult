@@ -1,4 +1,4 @@
-\id 2CO EN_ULT en_English_ltr Thu Aug 23 2018 15:45:47 GMT-0400 (EDT) tc
+\id 2CO EN_ULT en_English_ltr Wed Oct 03 2018 16:42:18 GMT-0400 (EDT) tc
 \ide UTF-8
 \h 2 Corinthians
 \toc1 The Second Letter of Paul to the Corinthians
@@ -1056,7 +1056,7 @@
 \w yes|x-occurrence="1" x-occurrences="1"\w*
 \zaln-e\*"\zaln-s | x-strong="G25320" x-lemma="καί" x-morph="Gr,CC,,,,,,,," x-occurrence="1" x-occurrences="1" x-content="καὶ"
 \w and|x-occurrence="1" x-occurrences="1"\w*
-\zaln-e\*"\zaln-s | x-lemma="οὔ" x-morph="Gr,N,,,,,NNSI" x-strong="G37560" x-occurrence="1" x-occurrences="1" x-alignmentIndex="22" x-wordIndex="1" x-alignmentLength="2" x-content="οὒ"
+\zaln-e\*"\zaln-s | x-strong="G37560" x-lemma="οὔ" x-morph="Gr,N,,,,,NNSI" x-occurrence="1" x-occurrences="1" x-content="οὒ"
 \w No|x-occurrence="1" x-occurrences="1"\w*
 \zaln-e\*,
 \zaln-s | x-strong="G37560" x-lemma="οὔ" x-morph="Gr,N,,,,,NNSI" x-occurrence="1" x-occurrences="1" x-content="οὔ"
@@ -5336,12 +5336,8 @@
 \w In|x-occurrence="1" x-occurrences="1"\w*
 \w a|x-occurrence="1" x-occurrences="1"\w*
 \zaln-e\*
-\zaln-s | x-strong="G11840" x-lemma="δεκτός" x-morph="Gr,AA,,,,DMS," x-occurrence="1" x-occurrences="1" x-content="δεκτῷ"
-\w favorable|x-occurrence="1" x-occurrences="1"\w*
-\zaln-e\*
-\zaln-s | x-strong="G25400" x-lemma="καιρός" x-morph="Gr,N,,,,,DMS," x-occurrence="1" x-occurrences="1" x-content="καιρῷ"
-\w time|x-occurrence="1" x-occurrences="1"\w*
-\zaln-e\*
+\w favorable|x-occurrence="1" x-occurrences="2"\w*
+\w time|x-occurrence="1" x-occurrences="2"\w*
 \zaln-s | x-strong="G18730" x-lemma="ἐπακούω" x-morph="Gr,V,IAA1,,S," x-occurrence="1" x-occurrences="1" x-content="ἐπήκουσά"
 \w I|x-occurrence="1" x-occurrences="2"\w*
 \w paid|x-occurrence="1" x-occurrences="1"\w*
@@ -5357,21 +5353,30 @@
 \zaln-s | x-strong="G17220" x-lemma="ἐν" x-morph="Gr,P,,,,,D,,," x-occurrence="1" x-occurrences="1" x-content="ἐν"
 \w in|x-occurrence="1" x-occurrences="1"\w*
 \zaln-e\*
-\w the|x-occurrence="1" x-occurrences="1"\w*
-\zaln-s | x-strong="G22500" x-lemma="ἡμέρα" x-morph="Gr,N,,,,,DFS," x-occurrence="1" x-occurrences="1" x-content="ἡμέρᾳ"
-\w day|x-occurrence="1" x-occurrences="1"\w*
-\zaln-e\*
-\zaln-s | x-strong="G49910" x-lemma="σωτηρία" x-morph="Gr,N,,,,,GFS," x-occurrence="1" x-occurrences="2" x-content="σωτηρίας"
-\w of|x-occurrence="1" x-occurrences="1"\w*
-\w salvation|x-occurrence="1" x-occurrences="1"\w*
-\zaln-e\*
+\w the|x-occurrence="1" x-occurrences="3"\w*
+\w day|x-occurrence="1" x-occurrences="2"\w*
+\w of|x-occurrence="1" x-occurrences="2"\w*
+\w salvation|x-occurrence="1" x-occurrences="2"\w*
 \zaln-s | x-strong="G09970" x-lemma="βοηθέω" x-morph="Gr,V,IAA1,,S," x-occurrence="1" x-occurrences="1" x-content="ἐβοήθησά"
 \w I|x-occurrence="2" x-occurrences="2"\w*
 \w helped|x-occurrence="1" x-occurrences="1"\w*
 \zaln-e\*
 \zaln-s | x-strong="G47710" x-lemma="σύ" x-morph="Gr,RP,,,2D,S," x-occurrence="1" x-occurrences="1" x-content="σοι"
 \w you|x-occurrence="2" x-occurrences="2"\w*
-\zaln-e\*."\m Look, now is the favorable time. Look, now is the day of salvation. 
+\zaln-e\*."\m
+\w Look|x-occurrence="1" x-occurrences="2"\w*,
+\w now|x-occurrence="1" x-occurrences="2"\w*
+\w is|x-occurrence="1" x-occurrences="2"\w*
+\w the|x-occurrence="2" x-occurrences="3"\w*
+\w favorable|x-occurrence="2" x-occurrences="2"\w*
+\w time|x-occurrence="2" x-occurrences="2"\w*.
+\w Look|x-occurrence="2" x-occurrences="2"\w*,
+\w now|x-occurrence="2" x-occurrences="2"\w*
+\w is|x-occurrence="2" x-occurrences="2"\w*
+\w the|x-occurrence="3" x-occurrences="3"\w*
+\w day|x-occurrence="2" x-occurrences="2"\w*
+\w of|x-occurrence="2" x-occurrences="2"\w*
+\w salvation|x-occurrence="2" x-occurrences="2"\w*. 
 \v 3
 \w We|x-occurrence="1" x-occurrences="1"\w*
 \w do|x-occurrence="1" x-occurrences="2"\w*
@@ -5396,7 +5401,7 @@
 \zaln-e\*
 \w wish|x-occurrence="1" x-occurrences="1"\w*
 \w our|x-occurrence="1" x-occurrences="1"\w*
-\zaln-s | x-lemma="διακονία" x-morph="Gr,N,,,,,NFS," x-strong="G12480" x-occurrence="1" x-occurrences="1" x-alignmentIndex="8" x-wordIndex="1" x-alignmentLength="2" x-content="διακονία"
+\zaln-s | x-strong="G12480" x-lemma="διακονία" x-morph="Gr,N,,,,,NFS," x-occurrence="1" x-occurrences="1" x-content="διακονία"
 \w ministry|x-occurrence="1" x-occurrences="1"\w*
 \zaln-e\*
 \w to|x-occurrence="1" x-occurrences="1"\w*
@@ -6067,8 +6072,11 @@
 \zaln-e\*
 \zaln-s | x-strong="G23640" x-lemma="θυγάτηρ" x-morph="Gr,N,,,,,AFP," x-occurrence="1" x-occurrences="1" x-content="θυγατέρας"
 \w daughters|x-occurrence="1" x-occurrences="1"\w*
-\zaln-e\*,"\m says the Lord Almighty.
-
+\zaln-e\*,"\m
+\w says|x-occurrence="1" x-occurrences="1"\w*
+\w the|x-occurrence="1" x-occurrences="1"\w*
+\w Lord|x-occurrence="1" x-occurrences="1"\w*
+\w Almighty|x-occurrence="1" x-occurrences="1"\w*.
 \s5
 \c 7
 \nb 
@@ -6323,7 +6331,7 @@
 \w God|x-occurrence="1" x-occurrences="1"\w*
 \zaln-e\*
 \zaln-e\*,
-\zaln-s | x-lemma="παρακαλέω" x-morph="Gr,V,PPA,NMS," x-strong="G38700" x-occurrence="1" x-occurrences="1" x-alignmentIndex="1" x-wordIndex="1" x-alignmentLength="2" x-content="παρακαλῶν"
+\zaln-s | x-strong="G38700" x-lemma="παρακαλέω" x-morph="Gr,V,PPA,NMS," x-occurrence="1" x-occurrences="1" x-content="παρακαλῶν"
 \w who|x-occurrence="1" x-occurrences="1"\w*
 \w comforts|x-occurrence="1" x-occurrences="1"\w*
 \zaln-e\*
@@ -6912,7 +6920,7 @@
 \zaln-s | x-strong="G52180" x-lemma="ὑπακοή" x-morph="Gr,N,,,,,AFS," x-occurrence="1" x-occurrences="1" x-content="ὑπακοήν"
 \w obedience|x-occurrence="1" x-occurrences="1"\w*
 \zaln-e\*
-\zaln-s | x-lemma="πᾶς" x-morph="Gr,RI,,,,GMP," x-strong="G39560" x-occurrence="1" x-occurrences="1" x-alignmentIndex="9" x-wordIndex="1" x-alignmentLength="2" x-content="πάντων"
+\zaln-s | x-strong="G39560" x-lemma="πᾶς" x-morph="Gr,RI,,,,GMP," x-occurrence="1" x-occurrences="1" x-content="πάντων"
 \w of|x-occurrence="1" x-occurrences="2"\w*
 \w all|x-occurrence="1" x-occurrences="1"\w*
 \zaln-e\*
@@ -7221,7 +7229,7 @@
 \w But|x-occurrence="1" x-occurrences="1"\w*
 \zaln-e\*
 \zaln-s | x-strong="G40520" x-lemma="περισσεύω" x-morph="Gr,V,IPA2,,P," x-occurrence="1" x-occurrences="1" x-content="περισσεύετε"
-\w you|x-occurrence="1" x-occurrences="2"\w*
+\w you|x-occurrence="1" x-occurrences="3"\w*
 \w abound|x-occurrence="1" x-occurrences="1"\w*
 \zaln-e\*
 \zaln-s | x-strong="G17220" x-lemma="ἐν" x-morph="Gr,P,,,,,D,,," x-occurrence="1" x-occurrences="3" x-content="ἐν"
@@ -7256,13 +7264,17 @@
 \w in|x-occurrence="6" x-occurrences="7"\w*
 \zaln-e\*
 \zaln-s | x-strong="G47710" x-lemma="σύ" x-morph="Gr,RP,,,2D,P," x-occurrence="1" x-occurrences="1" x-content="ὑμῖν"
-\w your|x-occurrence="1" x-occurrences="1"\w*
+\w our|x-occurrence="1" x-occurrences="1"\w*
 \zaln-e\*
 \zaln-s | x-strong="G00260" x-lemma="ἀγάπη" x-morph="Gr,N,,,,,DFS," x-occurrence="1" x-occurrences="1" x-content="ἀγάπῃ"
 \w love|x-occurrence="1" x-occurrences="1"\w*
 \zaln-e\*
+\zaln-s | x-strong="G15370" x-lemma="ἐκ" x-morph="Gr,P,,,,,G,,," x-occurrence="1" x-occurrences="1" x-content="ἐξ"
 \w for|x-occurrence="1" x-occurrences="1"\w*
-\w us|x-occurrence="1" x-occurrences="1"\w*.
+\zaln-e\*
+\zaln-s | x-strong="G14730" x-lemma="ἐγώ" x-morph="Gr,RP,,,1G,P," x-occurrence="1" x-occurrences="1" x-content="ἡμῶν"
+\w you|x-occurrence="2" x-occurrences="3"\w*
+\zaln-e\*.\f + \ft The best manuscripts read, \fqa and in our love for you \fqa* . Some other versions read, \fqa and in your love for us \fqa* . \f*
 \zaln-s | x-strong="G24430" x-lemma="ἵνα" x-morph="Gr,CS,,,,,,,," x-occurrence="1" x-occurrences="1" x-content="ἵνα"
 \w So|x-occurrence="1" x-occurrences="1"\w*
 \zaln-e\*
@@ -7272,7 +7284,7 @@
 \w make|x-occurrence="1" x-occurrences="1"\w*
 \w sure|x-occurrence="1" x-occurrences="1"\w*
 \w that|x-occurrence="1" x-occurrences="1"\w*
-\w you|x-occurrence="2" x-occurrences="2"\w*
+\w you|x-occurrence="3" x-occurrences="3"\w*
 \w excel|x-occurrence="1" x-occurrences="1"\w*
 \zaln-s | x-strong="G17220" x-lemma="ἐν" x-morph="Gr,P,,,,,D,,," x-occurrence="3" x-occurrences="3" x-content="ἐν"
 \w in|x-occurrence="7" x-occurrences="7"\w*
@@ -7286,9 +7298,7 @@
 \zaln-s | x-strong="G54850" x-lemma="χάρις" x-morph="Gr,N,,,,,DFS," x-occurrence="1" x-occurrences="1" x-content="χάριτι"
 \w grace|x-occurrence="1" x-occurrences="1"\w*
 \zaln-e\*
-\zaln-e\*.\f + \ft The ULT and UST, together with many other versions, read, \fqa and in your love for us \fqa* . Some other versions read, \fqa and in our love for you \fqa* . \f*
-
-\s5 
+\zaln-e\*.\s5 
 \v 8
 \zaln-s | x-strong="G30040" x-lemma="λέγω" x-morph="Gr,V,IPA1,,S," x-occurrence="1" x-occurrences="1" x-content="λέγω"
 \w I|x-occurrence="1" x-occurrences="2"\w*

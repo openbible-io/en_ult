@@ -1,4 +1,4 @@
-\id 1TH EN_ULT en_English_ltr Thu Aug 23 2018 09:29:26 GMT-0400 (EDT) tc
+\id 1TH EN_ULT en_English_ltr Tue Oct 02 2018 09:49:35 GMT-0400 (EDT) tc
 \ide UTF-8
 \h 1 Thessalonians
 \toc1 The First Letter of Paul to the Thessalonians
@@ -646,8 +646,8 @@
 \v 10
 \zaln-s | x-strong="G25320" x-lemma="καί" x-morph="Gr,CC,,,,,,,," x-occurrence="1" x-occurrences="1" x-content="καὶ"
 \w and|x-occurrence="1" x-occurrences="1"\w*
-\zaln-e\*
 \w that|x-occurrence="1" x-occurrences="1"\w*
+\zaln-e\*
 \zaln-s | x-strong="G03620" x-lemma="ἀναμένω" x-morph="Gr,V,NPA,,,,," x-occurrence="1" x-occurrences="1" x-content="ἀναμένειν"
 \w you|x-occurrence="1" x-occurrences="1"\w*
 \w are|x-occurrence="1" x-occurrences="1"\w*
@@ -763,11 +763,14 @@
 \zaln-s | x-strong="G02350" x-lemma="ἀλλά" x-morph="Gr,CO,,,,,,,," x-occurrence="1" x-occurrences="1" x-content="ἀλλὰ"
 \w But|x-occurrence="1" x-occurrences="1"\w*
 \zaln-e\*
+\zaln-s | x-strong="G25310" x-lemma="καθώς" x-morph="Gr,D,,,,,,,,," x-occurrence="1" x-occurrences="1" x-content="καθὼς"
+\w just|x-occurrence="1" x-occurrences="1"\w*
+\w as|x-occurrence="1" x-occurrences="1"\w*
+\zaln-e\*
 \zaln-s | x-strong="G14920" x-lemma="οἶδα" x-morph="Gr,V,IEA2,,P," x-occurrence="1" x-occurrences="1" x-content="οἴδατε"
 \w you|x-occurrence="1" x-occurrences="2"\w*
 \w know|x-occurrence="1" x-occurrences="1"\w*
-\w that|x-occurrence="1" x-occurrences="1"\w*
-\zaln-e\*
+\zaln-e\*,
 \zaln-s | x-strong="G43100" x-lemma="προπάσχω" x-morph="Gr,V,PAA,NMP," x-occurrence="1" x-occurrences="1" x-content="προπαθόντες"
 \w we|x-occurrence="1" x-occurrences="1"\w*
 \w previously|x-occurrence="1" x-occurrences="1"\w*
@@ -835,14 +838,22 @@
 \w struggling|x-occurrence="1" x-occurrences="1"\w*
 \zaln-e\*.\s5 
 \v 3
+\zaln-s | x-strong="G35880" x-lemma="ὁ" x-morph="Gr,EA,,,,NFS," x-occurrence="1" x-occurrences="1" x-content="ἡ"
 \zaln-s | x-strong="G10630" x-lemma="γάρ" x-morph="Gr,CC,,,,,,,," x-occurrence="1" x-occurrences="1" x-content="γὰρ"
+\zaln-s | x-strong="G38740" x-lemma="παράκλησις" x-morph="Gr,N,,,,,NFS," x-occurrence="1" x-occurrences="1" x-content="παράκλησις"
 \w For|x-occurrence="1" x-occurrences="1"\w*
+\zaln-e\*
+\zaln-e\*
 \zaln-e\*
 \zaln-s | x-strong="G14730" x-lemma="ἐγώ" x-morph="Gr,RP,,,1G,P," x-occurrence="1" x-occurrences="1" x-content="ἡμῶν"
 \w our|x-occurrence="1" x-occurrences="1"\w*
 \zaln-e\*
+\zaln-s | x-strong="G35880" x-lemma="ὁ" x-morph="Gr,EA,,,,NFS," x-occurrence="1" x-occurrences="1" x-content="ἡ"
+\zaln-s | x-strong="G10630" x-lemma="γάρ" x-morph="Gr,CC,,,,,,,," x-occurrence="1" x-occurrences="1" x-content="γὰρ"
 \zaln-s | x-strong="G38740" x-lemma="παράκλησις" x-morph="Gr,N,,,,,NFS," x-occurrence="1" x-occurrences="1" x-content="παράκλησις"
 \w exhortation|x-occurrence="1" x-occurrences="1"\w*
+\zaln-e\*
+\zaln-e\*
 \zaln-e\*
 \zaln-s | x-strong="G15370" x-lemma="ἐκ" x-morph="Gr,P,,,,,G,,," x-occurrence="1" x-occurrences="1" x-content="ἐκ"
 \w was|x-occurrence="1" x-occurrences="1"\w*
@@ -1063,7 +1074,7 @@
 \zaln-e\*
 \zaln-e\*
 \zaln-s | x-strong="G56130" x-lemma="ὡς" x-morph="Gr,CS,,,,,,,," x-occurrence="1" x-occurrences="2" x-content="ὡς"
-\w as|x-occurrence="1" x-occurrences="3"\w*
+\w as|x-occurrence="1" x-occurrences="1"\w*
 \zaln-e\*
 \zaln-s | x-strong="G06520" x-lemma="ἀπόστολος" x-morph="Gr,N,,,,,NMP," x-occurrence="1" x-occurrences="1" x-content="ἀπόστολοι"
 \w apostles|x-occurrence="1" x-occurrences="1"\w*
@@ -1077,11 +1088,12 @@
 \zaln-e\*,
 \zaln-s | x-strong="G10960" x-lemma="γίνομαι" x-morph="Gr,V,IAP1,,P," x-occurrence="1" x-occurrences="1" x-content="ἐγενήθημεν"
 \w we|x-occurrence="1" x-occurrences="1"\w*
-\w were|x-occurrence="1" x-occurrences="1"\w*
+\w became|x-occurrence="1" x-occurrences="1"\w*
+\w like|x-occurrence="1" x-occurrences="1"\w*
 \zaln-e\*
 \zaln-s | x-strong="G35160" x-lemma="νήπιος" x-morph="Gr,NP,,,,NMP," x-occurrence="1" x-occurrences="1" x-content="νήπιοι"
-\w as|x-occurrence="2" x-occurrences="3"\w*
-\w gentle|x-occurrence="1" x-occurrences="1"\w*
+\w little|x-occurrence="1" x-occurrences="1"\w*
+\w children|x-occurrence="1" x-occurrences="2"\w*
 \zaln-e\*
 \zaln-s | x-strong="G17220" x-lemma="ἐν" x-morph="Gr,P,,,,,D,,," x-occurrence="2" x-occurrences="2" x-content="ἐν"
 \zaln-s | x-strong="G33190" x-lemma="μέσος" x-morph="Gr,NS,,,,DNS," x-occurrence="1" x-occurrences="1" x-content="μέσῳ"
@@ -1090,18 +1102,19 @@
 \zaln-e\*
 \zaln-s | x-strong="G47710" x-lemma="σύ" x-morph="Gr,RP,,,2G,P," x-occurrence="1" x-occurrences="1" x-content="ὑμῶν"
 \w you|x-occurrence="1" x-occurrences="1"\w*
-\zaln-e\*
+\zaln-e\*.
 \zaln-s | x-strong="G56130" x-lemma="ὡς" x-morph="Gr,CS,,,,,,,," x-occurrence="2" x-occurrences="2" x-content="ὡς"
-\zaln-s | x-strong="G14370" x-lemma="ἐάν" x-morph="Gr,CS,,,,,,,," x-occurrence="1" x-occurrences="1" x-content="ἐὰν"
-\w as|x-occurrence="3" x-occurrences="3"\w*
+\w As|x-occurrence="1" x-occurrences="1"\w*
 \zaln-e\*
+\zaln-s | x-strong="G14370" x-lemma="ἐάν" x-morph="Gr,CS,,,,,,,," x-occurrence="1" x-occurrences="1" x-content="ἐὰν"
+\w when|x-occurrence="1" x-occurrences="1"\w*
 \zaln-e\*
 \zaln-s | x-strong="G51620" x-lemma="τροφός" x-morph="Gr,N,,,,,NFS," x-occurrence="1" x-occurrences="1" x-content="τροφὸς"
 \w a|x-occurrence="2" x-occurrences="2"\w*
 \w mother|x-occurrence="1" x-occurrences="1"\w*
 \zaln-e\*
 \zaln-s | x-strong="G22820" x-lemma="θάλπω" x-morph="Gr,V,SPA3,,S," x-occurrence="1" x-occurrences="1" x-content="θάλπῃ"
-\w comforting|x-occurrence="1" x-occurrences="1"\w*
+\w comforts|x-occurrence="1" x-occurrences="1"\w*
 \zaln-e\*
 \zaln-s | x-strong="G35880" x-lemma="ὁ" x-morph="Gr,EA,,,,ANP," x-occurrence="1" x-occurrences="1" x-content="τὰ"
 \w her|x-occurrence="1" x-occurrences="1"\w*
@@ -1110,13 +1123,11 @@
 \w own|x-occurrence="1" x-occurrences="1"\w*
 \zaln-e\*
 \zaln-s | x-strong="G50430" x-lemma="τέκνον" x-morph="Gr,N,,,,,ANP," x-occurrence="1" x-occurrences="1" x-content="τέκνα"
-\w children|x-occurrence="1" x-occurrences="1"\w*
-\zaln-e\*.\f + \ft Some other versions read, \fqa Instead, we were like babies among you, as when a mother comforts her own children \fqa* . \f* 
+\w children|x-occurrence="2" x-occurrences="2"\w*
+\zaln-e\*,\f + \ft Some ancient copies read, \fqa Instead, we were as gentle among you as a mother comforting her own children \fqa* . \f* 
 \v 8
 \zaln-s | x-strong="G37790" x-lemma="οὕτως" x-morph="Gr,D,,,,,,,,," x-occurrence="1" x-occurrences="1" x-content="οὕτως"
-\w In|x-occurrence="1" x-occurrences="1"\w*
-\w this|x-occurrence="1" x-occurrences="1"\w*
-\w way|x-occurrence="1" x-occurrences="1"\w*
+\w thus|x-occurrence="1" x-occurrences="1"\w*
 \zaln-e\*
 \zaln-s | x-strong="G24420" x-lemma="ὁμείρομαι" x-morph="Gr,V,PPM,NMP," x-occurrence="1" x-occurrences="1" x-content="ὁμειρόμενοι"
 \w we|x-occurrence="1" x-occurrences="1"\w*
@@ -2111,15 +2122,18 @@
 \zaln-s | x-strong="G25320" x-lemma="καί" x-morph="Gr,CC,,,,,,,," x-occurrence="2" x-occurrences="3" x-content="καὶ"
 \w and|x-occurrence="2" x-occurrences="3"\w*
 \zaln-e\*
-\zaln-s | x-strong="G12490" x-lemma="διάκονος" x-morph="Gr,N,,,,,AMS," x-occurrence="1" x-occurrences="1" x-content="διάκονον"
-\w fellow|x-occurrence="1" x-occurrences="1"\w*
-\w worker|x-occurrence="1" x-occurrences="1"\w*
-\zaln-e\*
 \zaln-s | x-strong="G35880" x-lemma="ὁ" x-morph="Gr,EA,,,,GMS," x-occurrence="1" x-occurrences="2" x-content="τοῦ"
 \zaln-s | x-strong="G23160" x-lemma="θεός" x-morph="Gr,N,,,,,GMS," x-occurrence="1" x-occurrences="1" x-content="Θεοῦ"
-\w for|x-occurrence="1" x-occurrences="1"\w*
 \w God|x-occurrence="1" x-occurrences="1"\w*
 \zaln-e\*
+\zaln-e\*'
+\zaln-s | x-strong="G35880" x-lemma="ὁ" x-morph="Gr,EA,,,,GMS," x-occurrence="1" x-occurrences="2" x-content="τοῦ"
+\zaln-s | x-strong="G23160" x-lemma="θεός" x-morph="Gr,N,,,,,GMS," x-occurrence="1" x-occurrences="1" x-content="Θεοῦ"
+\w s|x-occurrence="1" x-occurrences="1"\w*
+\zaln-e\*
+\zaln-e\*
+\zaln-s | x-strong="G12490" x-lemma="διάκονος" x-morph="Gr,N,,,,,AMS," x-occurrence="1" x-occurrences="1" x-content="διάκονον"
+\w servant|x-occurrence="1" x-occurrences="1"\w*
 \zaln-e\*
 \zaln-s | x-strong="G17220" x-lemma="ἐν" x-morph="Gr,P,,,,,D,,," x-occurrence="1" x-occurrences="1" x-content="ἐν"
 \w in|x-occurrence="1" x-occurrences="1"\w*
@@ -2164,7 +2178,7 @@
 \zaln-s | x-strong="G41020" x-lemma="πίστις" x-morph="Gr,N,,,,,GFS," x-occurrence="1" x-occurrences="1" x-content="πίστεως"
 \w faith|x-occurrence="1" x-occurrences="1"\w*
 \zaln-e\*
-\zaln-e\*,\f + \ft Some other versions read, \fqa We sent Timothy, our brother and God's servant in the gospel of Christ \fqa* . \f* 
+\zaln-e\*,\f + \ft Some other versions read, \fqa we sent Timothy, our brother and fellow worker for God in the gospel of Christ \fqa* . \f* 
 \v 3
 \zaln-s | x-strong="G35880" x-lemma="ὁ" x-morph="Gr,RD,,,,ANS," x-occurrence="1" x-occurrences="1" x-content="τὸ"
 \w so|x-occurrence="1" x-occurrences="1"\w*

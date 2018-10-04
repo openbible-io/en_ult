@@ -1,4 +1,4 @@
-\id EPH EN_ULT en_English_ltr Mon Aug 20 2018 14:13:15 GMT-0400 (EDT) tc
+\id EPH EN_ULT en_English_ltr Thu Oct 04 2018 10:25:53 GMT-0400 (EDT) tc
 \ide UTF-8
 \h Ephesians
 \toc1 The Letter of Paul to the Ephesians
@@ -46,6 +46,13 @@
 \zaln-s | x-strong="G35880" x-lemma="ὁ" x-morph="Gr,RD,,,,DMP," x-occurrence="2" x-occurrences="2" x-content="τοῖς"
 \zaln-s | x-strong="G15100" x-lemma="εἰμί" x-morph="Gr,V,PPA,DMP," x-occurrence="1" x-occurrences="1" x-content="οὖσιν"
 \w who|x-occurrence="1" x-occurrences="1"\w*
+\zaln-e\*
+\zaln-e\*
+\zaln-s | x-strong="G25320" x-lemma="καί" x-morph="Gr,CC,,,,,,,," x-occurrence="1" x-occurrences="1" x-content="καὶ"
+\w also|x-occurrence="1" x-occurrences="1"\w*
+\zaln-e\*
+\zaln-s | x-strong="G35880" x-lemma="ὁ" x-morph="Gr,RD,,,,DMP," x-occurrence="2" x-occurrences="2" x-content="τοῖς"
+\zaln-s | x-strong="G15100" x-lemma="εἰμί" x-morph="Gr,V,PPA,DMP," x-occurrence="1" x-occurrences="1" x-content="οὖσιν"
 \w are|x-occurrence="1" x-occurrences="1"\w*
 \zaln-e\*
 \zaln-e\*
@@ -1615,11 +1622,13 @@
 \zaln-e\*
 \zaln-e\*.\s5 
 \v 4
+\zaln-s | x-strong="G35880" x-lemma="ὁ" x-morph="Gr,EA,,,,NMS," x-occurrence="1" x-occurrences="1" x-content="ὁ"
 \zaln-s | x-strong="G11610" x-lemma="δέ" x-morph="Gr,CC,,,,,,,," x-occurrence="1" x-occurrences="1" x-content="δὲ"
-\w But|x-occurrence="1" x-occurrences="1"\w*
-\zaln-e\*
 \zaln-s | x-strong="G23160" x-lemma="θεός" x-morph="Gr,N,,,,,NMS," x-occurrence="1" x-occurrences="1" x-content="Θεὸς"
+\w But|x-occurrence="1" x-occurrences="1"\w*
 \w God|x-occurrence="1" x-occurrences="1"\w*
+\zaln-e\*
+\zaln-e\*
 \zaln-e\*
 \zaln-s | x-strong="G15100" x-lemma="εἰμί" x-morph="Gr,V,PPA,NMS," x-occurrence="1" x-occurrences="1" x-content="ὢν"
 \w is|x-occurrence="1" x-occurrences="1"\w*
@@ -5962,11 +5971,13 @@
 \w secret|x-occurrence="1" x-occurrences="1"\w*
 \zaln-e\*.\s5 
 \v 13
+\zaln-s | x-strong="G35880" x-lemma="ὁ" x-morph="Gr,RD,,,,NNP," x-occurrence="1" x-occurrences="1" x-content="τὰ"
 \zaln-s | x-strong="G11610" x-lemma="δέ" x-morph="Gr,CC,,,,,,,," x-occurrence="1" x-occurrences="1" x-content="δὲ"
-\w But|x-occurrence="1" x-occurrences="1"\w*
-\zaln-e\*
 \zaln-s | x-strong="G39560" x-lemma="πᾶς" x-morph="Gr,EQ,,,,NNP," x-occurrence="1" x-occurrences="1" x-content="πάντα"
+\w But|x-occurrence="1" x-occurrences="1"\w*
 \w everything|x-occurrence="1" x-occurrences="2"\w*
+\zaln-e\*
+\zaln-e\*
 \zaln-e\*
 \zaln-s | x-strong="G16510" x-lemma="ἐλέγχω" x-morph="Gr,V,PPP,NNP," x-occurrence="1" x-occurrences="1" x-content="ἐλεγχόμενα"
 \w exposed|x-occurrence="1" x-occurrences="1"\w*
@@ -6840,11 +6851,13 @@
 \w will|x-occurrence="3" x-occurrences="3"\w*
 \w become|x-occurrence="1" x-occurrences="1"\w*
 \zaln-e\*
+\zaln-s | x-strong="G15190" x-lemma="εἰς" x-morph="Gr,P,,,,,A,,," x-occurrence="1" x-occurrences="1" x-content="εἰς"
+\zaln-s | x-strong="G45610" x-lemma="σάρξ" x-morph="Gr,N,,,,,AFS," x-occurrence="1" x-occurrences="1" x-content="σάρκα"
 \zaln-s | x-strong="G15200" x-lemma="εἷς" x-morph="Gr,EN,,,,AFS," x-occurrence="1" x-occurrences="1" x-content="μίαν"
 \w one|x-occurrence="1" x-occurrences="1"\w*
-\zaln-e\*
-\zaln-s | x-strong="G45610" x-lemma="σάρξ" x-morph="Gr,N,,,,,AFS," x-occurrence="1" x-occurrences="1" x-content="σάρκα"
 \w flesh|x-occurrence="1" x-occurrences="1"\w*
+\zaln-e\*
+\zaln-e\*
 \zaln-e\*." 
 \v 32
 \zaln-s | x-strong="G37780" x-lemma="οὗτος" x-morph="Gr,ED,,,,NNS," x-occurrence="1" x-occurrences="1" x-content="τοῦτο"

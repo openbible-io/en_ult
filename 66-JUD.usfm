@@ -1,4 +1,4 @@
-\id JUD EN_ULT en_English_ltr Thu Aug 23 2018 14:30:46 GMT-0400 (EDT) tc
+\id JUD EN_ULT en_English_ltr Thu Oct 04 2018 10:32:18 GMT-0400 (EDT) tc
 \ide UTF-8
 \h Jude
 \toc1 The Letter of Jude
@@ -328,8 +328,10 @@
 \zaln-s | x-strong="G37540" x-lemma="ὅτι" x-morph="Gr,CS,,,,,,,," x-occurrence="1" x-occurrences="1" x-content="ὅτι"
 \w that|x-occurrence="1" x-occurrences="2"\w*
 \zaln-e\*
-\w the|x-occurrence="1" x-occurrences="2"\w*
-\w Lord|x-occurrence="1" x-occurrences="1"\w*
+\zaln-s | x-strong="G24240" x-lemma="Ἰησοῦς" x-morph="Gr,N,,,,,NMS," x-occurrence="1" x-occurrences="1" x-content="Ἰησοῦς"
+\w Jesus|x-occurrence="1" x-occurrences="1"\w*
+\zaln-e\*
+\f + \ft Many of the best ancient copies read "Jesus" but some versions read "the Lord" \f*
 \zaln-s | x-strong="G49820" x-lemma="σῴζω" x-morph="Gr,V,PAA,NMS," x-occurrence="1" x-occurrences="1" x-content="σώσας"
 \w saved|x-occurrence="1" x-occurrences="1"\w*
 \zaln-e\*
@@ -342,7 +344,7 @@
 \w of|x-occurrence="1" x-occurrences="2"\w*
 \zaln-e\*
 \zaln-s | x-strong="G10930" x-lemma="γῆ" x-morph="Gr,N,,,,,GFS," x-occurrence="1" x-occurrences="1" x-content="γῆς"
-\w the|x-occurrence="2" x-occurrences="2"\w*
+\w the|x-occurrence="1" x-occurrences="1"\w*
 \w land|x-occurrence="1" x-occurrences="1"\w*
 \zaln-e\*
 \zaln-s | x-strong="G01250" x-lemma="Αἴγυπτος" x-morph="Gr,N,,,,,GFS," x-occurrence="1" x-occurrences="1" x-content="Αἰγύπτου"
@@ -609,12 +611,14 @@
 \w ones|x-occurrence="1" x-occurrences="1"\w*
 \zaln-e\*.\s5 
 \v 9
+\zaln-s | x-strong="G35880" x-lemma="ὁ" x-morph="Gr,EA,,,,NMS," x-occurrence="1" x-occurrences="2" x-content="ὁ"
 \zaln-s | x-strong="G11610" x-lemma="δέ" x-morph="Gr,CC,,,,,,,," x-occurrence="1" x-occurrences="1" x-content="δὲ"
+\zaln-s | x-strong="G34130" x-lemma="Μιχαήλ" x-morph="Gr,N,,,,,NMSI" x-occurrence="1" x-occurrences="1" x-content="Μιχαὴλ"
 \w But|x-occurrence="1" x-occurrences="1"\w*
 \w even|x-occurrence="1" x-occurrences="1"\w*
-\zaln-e\*
-\zaln-s | x-strong="G34130" x-lemma="Μιχαήλ" x-morph="Gr,N,,,,,NMSI" x-occurrence="1" x-occurrences="1" x-content="Μιχαὴλ"
 \w Michael|x-occurrence="1" x-occurrences="1"\w*
+\zaln-e\*
+\zaln-e\*
 \zaln-e\*
 \zaln-s | x-strong="G35880" x-lemma="ὁ" x-morph="Gr,EA,,,,NMS," x-occurrence="2" x-occurrences="2" x-content="ὁ"
 \w the|x-occurrence="1" x-occurrences="4"\w*
@@ -1285,9 +1289,11 @@
 \w Christ|x-occurrence="1" x-occurrences="1"\w*
 \zaln-e\*. 
 \v 18
+\zaln-s | x-strong="G37540" x-lemma="ὅτι" x-morph="Gr,CS,,,,,,,," x-occurrence="1" x-occurrences="1" x-content="ὅτι"
 \zaln-s | x-strong="G30040" x-lemma="λέγω" x-morph="Gr,V,IIA3,,P," x-occurrence="1" x-occurrences="1" x-content="ἔλεγον"
 \w They|x-occurrence="1" x-occurrences="1"\w*
 \w said|x-occurrence="1" x-occurrences="1"\w*
+\zaln-e\*
 \zaln-e\*
 \zaln-s | x-strong="G47710" x-lemma="σύ" x-morph="Gr,RP,,,2D,P," x-occurrence="1" x-occurrences="1" x-content="ὑμῖν"
 \w to|x-occurrence="1" x-occurrences="1"\w*

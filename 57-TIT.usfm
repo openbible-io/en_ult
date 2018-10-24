@@ -1,4 +1,4 @@
-\id TIT EN_ULT en_English_ltr Wed Sep 19 2018 12:40:17 GMT-0400 (EDT) tc
+\id TIT EN_ULT en_English_ltr Wed Oct 24 2018 17:05:30 GMT-0400 (EDT) tc
 \ide UTF-8
 \h Titus
 \toc1 The Letter of Paul to Titus
@@ -2025,9 +2025,6 @@
 \w is|x-occurrence="1" x-occurrences="1"\w*
 \w trustworthy|x-occurrence="1" x-occurrences="1"\w*
 \zaln-e\*.
-\zaln-s | x-strong="G25320" x-lemma="καί" x-morph="Gr,CC,,,,,,,," x-occurrence="1" x-occurrences="2" x-content="καὶ"
-\w And|x-occurrence="1" x-occurrences="1"\w*
-\zaln-e\*
 \zaln-s | x-strong="G10140" x-lemma="βούλομαι" x-morph="Gr,V,IPM1,,S," x-occurrence="1" x-occurrences="1" x-content="βούλομαί"
 \w I|x-occurrence="1" x-occurrences="1"\w*
 \w want|x-occurrence="1" x-occurrences="1"\w*
@@ -2039,8 +2036,10 @@
 \w to|x-occurrence="1" x-occurrences="2"\w*
 \w insist|x-occurrence="1" x-occurrences="1"\w*
 \zaln-e\*
+\zaln-s | x-strong="G25320" x-lemma="καί" x-morph="Gr,CC,,,,,,,," x-occurrence="1" x-occurrences="2" x-content="καὶ"
 \zaln-s | x-strong="G40120" x-lemma="περί" x-morph="Gr,P,,,,,G,,," x-occurrence="1" x-occurrences="1" x-content="περὶ"
 \w on|x-occurrence="1" x-occurrences="1"\w*
+\zaln-e\*
 \zaln-e\*
 \zaln-s | x-strong="G37780" x-lemma="οὗτος" x-morph="Gr,RD,,,,GNP," x-occurrence="1" x-occurrences="1" x-content="τούτων"
 \w these|x-occurrence="1" x-occurrences="1"\w*

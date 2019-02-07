@@ -1,4 +1,4 @@
-\id EPH EN_ULT en_English_ltr Fri Jan 11 2019 11:40:01 GMT-0500 (EST) tc
+\id EPH EN_ULT en_English_ltr unfoldingWord Literal Text Thu Feb 07 2019 09:56:05 GMT-0500 (EST) tc
 \ide UTF-8
 \h Ephesians
 \toc1 The Letter of Paul to the Ephesians
@@ -40,9 +40,7 @@
 \zaln-e\*
 \zaln-s | x-strong="G00400" x-lemma="ἅγιος" x-morph="Gr,NS,,,,DMP," x-occurrence="1" x-occurrences="1" x-content="ἁγίοις"
 \w saints|x-occurrence="1" x-occurrences="1"\w*
-\zaln-e\*
-\w in|x-occurrence="1" x-occurrences="2"\w*
-\w Ephesus|x-occurrence="1" x-occurrences="1"\w*, 
+\zaln-e\* \f + \ft Many early versions have, \fqa in Ephesus \fqa*. This expression was probably in Paul's original letter.\f* 
 \zaln-s | x-strong="G35880" x-lemma="ὁ" x-morph="Gr,RD,,,,DMP," x-occurrence="2" x-occurrences="2" x-content="τοῖς"
 \zaln-s | x-strong="G15100" x-lemma="εἰμί" x-morph="Gr,V,PPA,DMP," x-occurrence="1" x-occurrences="1" x-content="οὖσιν"
 \w who|x-occurrence="1" x-occurrences="1"\w*
@@ -60,7 +58,7 @@
 \w faithful|x-occurrence="1" x-occurrences="1"\w*
 \zaln-e\*
 \zaln-s | x-strong="G17220" x-lemma="ἐν" x-morph="Gr,P,,,,,D,,," x-occurrence="1" x-occurrences="1" x-content="ἐν"
-\w in|x-occurrence="2" x-occurrences="2"\w*
+\w in|x-occurrence="1" x-occurrences="1"\w*
 \zaln-e\*
 \zaln-s | x-strong="G55470" x-lemma="χριστός" x-morph="Gr,N,,,,,DMS," x-occurrence="1" x-occurrences="1" x-content="Χριστῷ"
 \w Christ|x-occurrence="2" x-occurrences="2"\w*
@@ -68,7 +66,6 @@
 \zaln-s | x-strong="G24240" x-lemma="Ἰησοῦς" x-morph="Gr,N,,,,,DMS," x-occurrence="2" x-occurrences="2" x-content="Ἰησοῦ"
 \w Jesus|x-occurrence="2" x-occurrences="2"\w*
 \zaln-e\*.
-\f + \ft Some early versions do not have, \fqa in Ephesus, \fqa* but this expression is probably in Paul's original letter.\f* 
 \v 2
 \zaln-s | x-strong="G54850" x-lemma="χάρις" x-morph="Gr,N,,,,,NFS," x-occurrence="1" x-occurrences="1" x-content="χάρις"
 \w Grace|x-occurrence="1" x-occurrences="1"\w*
@@ -887,8 +884,10 @@
 \zaln-s | x-strong="G25320" x-lemma="καί" x-morph="Gr,CC,,,,,,,," x-occurrence="1" x-occurrences="1" x-content="καὶ"
 \w and|x-occurrence="1" x-occurrences="1"\w*
 \zaln-e\*
+\zaln-s | x-strong="G35880" x-lemma="ὁ" x-morph="Gr,RD,,,,AFS," x-occurrence="2" x-occurrences="2" x-content="τὴν"
 \w your|x-occurrence="2" x-occurrences="2"\w*
 \w love|x-occurrence="1" x-occurrences="1"\w*
+\zaln-e\*  \f + \ft Some manuscripts do not include, \fqa love \fqa*, but the best manuscripts include it. \f* 
 \zaln-s | x-strong="G15190" x-lemma="εἰς" x-morph="Gr,P,,,,,A,,," x-occurrence="1" x-occurrences="1" x-content="εἰς"
 \w for|x-occurrence="1" x-occurrences="1"\w*
 \zaln-e\*
@@ -6091,7 +6090,7 @@
 \zaln-e\*
 \zaln-s | x-strong="G54570" x-lemma="φῶς" x-morph="Gr,N,,,,,NNS," x-occurrence="1" x-occurrences="1" x-content="φῶς"
 \w light|x-occurrence="2" x-occurrences="2"\w*
-\zaln-e\*.  
+\zaln-e\*. 
 \v 14
 \zaln-s | x-strong="G13520" x-lemma="διό" x-morph="Gr,CC,,,,,,,," x-occurrence="1" x-occurrences="1" x-content="διὸ"
 \w Therefore|x-occurrence="1" x-occurrences="1"\w*
@@ -8249,7 +8248,7 @@
 \zaln-e\*
 \zaln-s | x-strong="G39560" x-lemma="πᾶς" x-morph="Gr,RI,,,,ANP," x-occurrence="1" x-occurrences="1" x-content="πάντα"
 \w everything|x-occurrence="1" x-occurrences="1"\w*
-\zaln-e\*,  
+\zaln-e\*, 
 \v 22
 \zaln-s | x-strong="G37390" x-lemma="ὅς" x-morph="Gr,RR,,,,AMS," x-occurrence="1" x-occurrences="1" x-content="ὃν"
 \w whom|x-occurrence="1" x-occurrences="1"\w*

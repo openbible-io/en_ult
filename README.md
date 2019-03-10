@@ -74,8 +74,8 @@ Note that occasionally, the TG's specified translation will not be suitable. As 
 
 Preferred English renderings appear in bold type.
 
-  * *brethren*  should be updated to **brothers**. When both genders are indicated by the context, a note from the Notes Team should be expected to appear to that effect. Do not replace the ULT text with "brothers and sisters." That change will appear in the UST.
-  * *uioi* as in "sons of Israel" or "sons of God" will remain as "**sons**." The UST will use "children" or another choice.
+  * *brethren*  should be updated to **brothers**. When both genders are indicated by the context, a note from the Notes Team should be expected to appear to that effect. Do not replace the ULT text with "brothers and sisters." 
+  * *uioi* as in "sons of Israel" or "sons of God" will remain as "**sons**." 
   * *Call*  in the ASV usage "call his name": update to "**call him**  [+ name]" or "**name him**  [+ name]."
   * *Call*  in the formula of the type, "he shall be called the Son of the Most High" (Luke 1:32): keep this formula in the ULT, but be aware of the metaphor that is operative here: in this verse, Jesus will not only be *called the Son of the Most High*, but he will be the Son of the Most High.
   * *Hand*  indicating power or possession: keep this metaphor in the ULT.
@@ -87,7 +87,7 @@ Preferred English renderings appear in bold type.
 #### Translation Glossary for the Old Testament ULT
 
   * *wayehi* "**It came about,**" "**It happened that...**"
-  * *hinneh* "**Behold**" (when used in normal narrative passages or in narrative embedded in direct speech, such as when Joseph tells his brothers what happened in his dreams). In conversational passages, translate *hinneh*  as, "**look**," "**see**," "**see here**," or something else suitable for signaling that what immediately follows in the text is prominent. Some conversational contexts may make it almost impossible to give any translation at all of *hinneh*. – However, in direct reported speech of God or his angel, you may use "**behold**," especially if it lends more dignity in English to the divine words than "look" or "see," etc., would do.
+  * *hinneh* "**Behold**" (when used in normal narrative passages or in narrative embedded in direct speech, such as when Joseph tells his brothers what happened in his dreams). In conversational passages, translate *hinneh*  as, "**look**," "**see**," "**see here**," or something else suitable for signaling that what immediately follows in the text is prominent. Some conversational contexts may make it almost impossible to give any translation at all of *hinneh*. – However, in direct reported speech of God, his angel, or his prophet, use "**behold**," since it lends more dignity in English to the divine words than "look" or "see," etc., would do.
   * *adam*  (ASV: man, men) When referring to humanity in general, use "**mankind**."
   * *YHWH* **Yahweh** (The ASV uses "Jehovah," but we will not.)
   * *Meshiach* "**Messiah**" (almost always, "**the Messiah**," since "Messiah" is a title)
@@ -99,7 +99,7 @@ Preferred English renderings appear in bold type.
   * *nomikos* "**expert in the Jewish law**"
   * *grammateus*  "**scribe**"
   * *egeneto de*, *kai egeneto*  "**It came about**" (See: "Sentence-initial or preverbal *and*" above).
-  * *idou* "**Behold**" (when used in normal narrative passages or in narrative embedded in direct speech. In conversational passages, translate  *idou preferably* as, "**look**," "**see**," "**see here**," or at need as something else suitable for signaling that what immediately follows in the text is prominent. Some conversational contexts may make it almost impossible to give any translation at all of *idou.* – However, in direct reported speech of God or his angel, you may use "**behold**," especially if it lends more dignity in English to the divine words than "look" or "see," etc., would do.
+  * *idou* "**Behold**" (when used in normal narrative passages or in narrative embedded in direct speech. In conversational passages, translate  *idou preferably* as, "**look**," "**see**," "**see here**," or at need as something else suitable for signaling that what immediately follows in the text is prominent. Some conversational contexts may make it almost impossible to give any translation at all of *idou.* – However, in direct reported speech of God, his angel, or his prophet, use "**behold**," since it lends more dignity in English to the divine words than "look" or "see," etc., would do.
   * *anthropos*  (ASV: man, men) When referring to humanity in general, use "**mankind**."
   * *Messiah*  This term sometimes appears in the NT in transliterated Greek. In this case, this term should be translated, "**Messiah**."
   * *Xristos* "**Christ**" or "**the Christ**" (the definite article is appropriate if the term is being clearly used as a title; Paul often seems to use *Xristos *  as a second name for Jesus, but at times he clearly uses it as a title).

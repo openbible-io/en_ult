@@ -30,16 +30,16 @@ dublin_core:
     - 'Nicholas Alsop'
     - 'Michael Francis'
     - 'Door43 World Missions Community'
-  creator: 'Door43 World Missions Community'
+  creator: 'unfoldingWord'
   description: "An open-licensed update of the ASV, intended to provide a 'form-centric' understanding of the Bible. It increases the translator's understanding of the lexical and grammatical composition of the underlying text by adhering closely to the word order and structure of the originals."
   format: 'text/usfm3'
   identifier: 'ult'
-  issued: '2018-12-05'
+  issued: '2019-05-09'
   language:
     direction: 'ltr'
     identifier: 'en'
     title: 'English'
-  modified: '2018-12-05'
+  modified: '2019-05-09'
   publisher: 'unfoldingWord'
   relation:
     - 'en/tw'
@@ -52,9 +52,9 @@ dublin_core:
       language: 'en'
       version: '1901'
   subject: 'Aligned Bible'
-  title: 'unfoldingWord Literal Text'
+  title: 'unfoldingWord® Literal Text'
   type: 'bundle'
-  version: '2'
+  version: '3'
 
 checking:
   checking_entity:

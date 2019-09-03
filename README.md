@@ -65,6 +65,7 @@ When translating the ULT, however, this figure of speech should be retained as i
   * Retain the literal nature of the text–it should complement the “dynamic” UST rather than be similar to it.
   * Use vocabulary and phrases that differ from the UST. The two translations fail to help the MTT when they are the same.
   * Where possible, use common vocabulary that is easy to translate into another language.
+  * Spell out numbers up to two words (e.g., five hundred). If they are longer than two words, use numerals (e.g., 123).
 
 ### Translation Glossary
 

@@ -136,3 +136,85 @@ The ULT seeks to represent the language **forms** of the original in a way that 
   * the ULT is not meant to be a refined, polished English version. It is meant to present the structure of the original in a way that is as meaningful as possible, so that it can, in turn, be translated into other languages.
   * even when the ULT is ambiguous or not entirely clear (as is often true of the original), **the ULT must never promote to the MTT the wrong meaning**.
 
+### Alignment Instructions
+
+In the tC (translationCore) Word Alignment tool, the GL (Gateway Language) chapters and verses are listed down the left side. When you click on a verse to open it, the words of that verse appear in a vertical list, ordered from top to bottom, just to the right of the list of chapters and verses. Each word is in a separate box.
+
+The words of the original language (Greek, Hebrew, or Aramaic) text for that verse are also in separate boxes in a field to the right of the GL word list. There is a space under each of the source word boxes outlined with a dotted line.
+
+To align the GL text:
+
+#. Click and drag each word box of the GL text into the space under the word box of the source text that the GL word corresponds to.
+#. Drop the GL word by releasing the mouse button.
+
+When the GL word is over a word box of the original, the dotted outline will turn blue to let you know that the word will drop there. If you make a mistake or decide that the GL word belongs somewhere else, simply drag it again to where it belongs. GL words can also be dragged back to the list.
+
+When the same GL word occurs more than once in a verse, each instance of the word will have a small superscript number after it. This number will help you to align each repeated GL word to the correct original word in the correct order.
+
+Merge and Unmerge Notes
+^^^^^^^^^^^^^^^^^^^^^^^
+
+tC supports one-to-one, one-to-many, many-to-one, and many-to-many alignments. That means that one or more :abbr:`GL (Gateway Language)` words can be aligned to one or more original language words, as necessary to get the most accurate alignment of the **meaning** conveyed by the two languages.
+
+* To align multiple GL words to a single original language word, simply drag and drop the GL words onto the box below the desired original language word.
+* When it is desired to align GL word(s) to a combination of original language words, first drag one of the combination original language words into the same box as the other original language word. Multiple original language words can be merged together in this fashion.
+* To unmerge previously merged original language words, drag the rightmost original language word slightly to the right. A small new alignment box will appear, and the unmerged word can be dropped into that box.
+* The leftmost original language word can also be unmerged by dragging and dropping it into the original language word box immediately to its left.
+* Any GL words that were aligned with that original language word return to the word list.
+* The original language words should remain in the proper order. If the merge contains 3 or more original language words, unmerge the rightmost original language word first. Un-merging the center word(s) first may result in the original language words becoming out of order. When that happens, unmerge the remaining words in that box to properly return the original language words to their original order.
+
+Alignment Philosophy
+--------------------
+
+Because each GL will have different requirements for sentence structure and the amount of explicit information that must be provided there is often not a one-to-one correspondence of the original language word and the GL word. In these cases, the GL words that are provided should be aligned with the original language word that implies them.
+
+For English, we follow these principles, but your :abbr:`GL (Gateway Language)` may need a different list to support full alignment.
+
+* Align indefinite articles to their “head word.”  For example, both “a” and “servant” should align to *doulos* in Titus 1:1.
+* Definite articles that English supplies should also be aligned to their “head word.” For example, both “the” and “faith” should align to *pistin* in Titus 1:1.
+* Original language definite articles that English does not use need to be combined with their original language head word. For example, *ton* and *logon* need to be combined, then “word” aligned with that combination in Titus 1:3.
+* Implicit verbs in the original language that are translated explicitly in the target language should be aligned with the predicate. For example, “he should be” that is supplied in English should be aligned to *philoxenon* along with “hospitable” in Titus 1:8.
+* Words with apostrophes will be split and show up as two words in the word panel. This allows for proper alignment of the two parts of meaning. In most cases in English these are used to represent possession and will be aligned to a single original language word in the genitive case.  For example, both “God” and “s” will align to *theou* in Titus 1:1.
+* Often the original language and GL part of speech won’t match. That is inevitable. Often an original language word will be translated as a :abbr:`GL (Gateway Language)` phrase. For example, the three words “does not lie” in English all align with the single word *apseudes* in Titus 1:2.
+* Sometimes particles in the original language are not translated in the GL. These should be aligned to make the alignment between the original language and the GL as precise as possible. For example, in most cases the Hebrew direct object marker should be merged with the Hebrew direct object and aligned with that translated word in the GL.  However, in cases where the direct object marker has a conjunction prefix that must be translated in the GL, then the Hebrew word containing the conjunction and direct object marker should be aligned with the translated conjunction in the GL.
+
+Other alignment issues pertinent to Biblical Hebrew include the following:
+
+* When an infinitive absolute is paired with a finite verb, the infinitive absolute should be aligned separately, if possible. Usually, the infinitive absolute will be translated as an adverb, and it should be aligned with the adverb.
+* As a general rule, the ULT should translate the conjunction in Hebrew verbal forms. The translated conjunction should then be aligned with that Hebrew verb.
+* When aligning construct phrases in Hebrew, the English word "of" should be aligned with the construct noun. If the English translation of the construct phrase uses a single definite article "the", then it should be aligned with the absolute noun. When the English translation uses multiple instances of the definite article "the", then each definite article should be aligned with the corresponding Hebrew noun.
+* When aligning a verbless clause in Hebrew, the supplied "to be" verb should usually be aligned with the predicate instead of the subject. An exception to this rule occurs when the subject is a demonstrative pronoun (or carries some sort of deictic function). In those cases, the supplied "to be" verb should be aligned with the subject of the verbless clause.
+* Sometimes a verb in Hebrew requires an accompanying preposition that is not required in English, or vice versa. In these cases, align with whichever part of speech fits best on a case-by-case basis.  For example, take the phrase "...to pay on our fields..." in Nehemiah 14:4 in the UST. The English preposition "on" fits better semantically with the noun ("on our fields") rather than with the infinitive ("to pay on").  However, the reverse is true in v.15 in the phrase "...even their servants oppressed the people..." (Heb. שׁלטוּ על־העמ). In this case, the Hebrew שׁלט requires an accompanying preposition, and the concept is already incorporated into the English translation of the verb itself, "oppressed."  So in this case, it is best to merge the Hebrew verb and preposition together, then align both with the English "oppressed."
+
+Alignment Philosophy for the ULT
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+The ULT (unfoldingWord Literal Text) is intended to be a fairly literal translation of the original, so that it reproduces the structure of the original language when that is also understandable in the GL. Ideally, then, there would be one GL word aligned with each original language word. Of course, this is not possible, because languages work very differently from each other.
+
+Therefore, we expect that you must align words or phrases in the GL with words or phrases in the original language that differ in the number of words, order of words, and parts of speech, as described above. Always, however, you should align the GL words to the original language words whose meaning they express, in whatever combination is necessary to produce the most accurate alignment of the meaning.
+
+After aligning a verse, there may be words in the GL text that are left over and seem to be extra. If those words are truly necessary for the GL text to make sense, then find the original word or words that they help to express and align them there. But if those words do not express a meaning found in the original text, then it may be that those words should be deleted from the GL translation. See :ref:`glalignment-wordsnotfound` for more information.
+
+Sometimes, in the process of aligning a verse, you will find:
+
+    * An original language word that is not represented in the GL translation.
+    * A mistake in the GL translation.
+    * Words in the GL translation that do not represent anything in the original text.
+    * A better or more literal way to express something in the :abbr:`GL (Gateway Language)` translation.
+
+In the above cases, if you are an authorized editor, you will want to edit the :abbr:`GL (Gateway Language)` translation so that it is more accurate to the original. Otherwise, contact the :abbr:`GL (Gateway Language)` translation team to let them know about the issue.
+
+If you notice places where the ULT (unfoldingWord Literal Text) is wrong or potentially wrong, create an issue for it at https://git.door43.org/unfoldingWord/en_ult/issues and we’ll address it in the next release. In the meantime, align the text as well as possible.
+
+.. _glalignment-wordsnotfound:
+
+Words Not Found in the Original Language
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+In the process of alignment according to the instructions above, you may find that the :abbr:`GL (Gateway Language)` text has words or phrases that do not represent any meaning in the original language text and are not there because the GL sentence needs them to make sense. If this occurs, follow these recommendations:
+
+#. If possible, consider editing the GL text to match the original language text.
+#. You may consult other Greek or Hebrew manuscripts to see if there is textual support for your translation (see the `Biblical Humanities Dashboard <http://biblicalhumanities.org/dashboard/>` for other manuscripts).
+#. If you find support for your translation, make sure to include a comment or note about where you found it and why the translation should include it.
+#. You should consider placing these GL words in brackets or in a footnote.
+

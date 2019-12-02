@@ -79,8 +79,7 @@ Note that occasionally, the TG’s specified translation will not be suitable. A
 
 Preferred English renderings appear in bold type.
 
-  * *brethren*  should be updated to **brothers**. When both genders are indicated by the context, a note from the Notes Team should be expected to appear to that effect. Do not replace the ULT text with “brothers and sisters.” 
-  * *uioi* as in “sons of Israel” or “sons of God” will remain as “**sons**.” 
+  * *brethren*  should be updated to **brothers**. When both genders are indicated by the context, a note from the Notes Team should be expected to appear to that effect. Do not replace the ULT text with “brothers and sisters.”  
   * *Call*  in the ASV usage “call his name”: update to “**call him**  [+ name]” or “**name him**  [+ name].”
   * *Call*  in the formula of the type, “he shall be called the Son of the Most High” (Luke 1:32): keep this formula in the ULT, but be aware of the metaphor that is operative here: in this verse, Jesus will not only be *called the Son of the Most High*, but he will be the Son of the Most High.
   * *Hand*  indicating power or possession: keep this metaphor in the ULT.
@@ -91,15 +90,18 @@ Preferred English renderings appear in bold type.
 
 #### Translation Glossary for the Old Testament ULT
 
-  * *wayehi* “**It came about,**” “**It happened that…**”
-  * *hinneh* “**Behold**” (when used in normal narrative passages or in narrative embedded in direct speech, such as when Joseph tells his brothers what happened in his dreams). In conversational passages, translate *hinneh*  as, “**look**,” “**see**,” “**see here**,” or something else suitable for signaling that what immediately follows in the text is prominent. Some conversational contexts may make it almost impossible to give any translation at all of *hinneh*. – However, in direct reported speech of God, his angel, or his prophet, use “**behold**,” since it lends more dignity in English to the divine words than “look” or “see,” etc., would do.
   * *adam*  (ASV: man, men) When referring to humanity in general, use “**mankind**.”
-  * *YHWH* **Yahweh** (The ASV uses “Jehovah,” but we will not.)
-  * *Meshiach* “**Messiah**” (almost always, “**the Messiah**,” since “Messiah” is a title)
+  * Ark of the Covenant –– The ULT will use the word "**Vessel**" ("Vessel of the Testimony" in Exodus, "Vessel of the Covenant of Yahweh" in Joshua, etc.), and the UST will use the term "**sacred chest**."
   * Expressions of the type, “**he knew his wife**” or “**he went into his wife**” should be reproduced as is. The context makes their meaning clear.
   * *herem* This concept should be translated according to what it appears to mean locally in its immediate context.  This might include either the concept of a **"ban"** or the concept of **"complete destruction"**, etc.
-  * *na'* This Hebrew particle (נָא) must be translated on a case-by-case basis and always with great sensitivity to the specific context of the speech in which it occurs. Some general guidelines are as follows.  When the particle appears with a verb in the context of a request made by a person of inferior position to a person of superior position, it can be translated as "please."  When the particle appears with a verb in the context of a command given by a person of superior position to a person of inferior position, it can be translated as "now."  However, many instances of the particle occur in contexts between these two extremes, where translating the particle as a separate word in English may import too much meaning into the English rendering. Because this particle is an emotive word in Hebrew, in cases like these one might use an exclamation point at the end of the specific clause in order to reflect in the English translation the emotion intended by the use of the particle. It is also acceptable to leave the particle untranslated if any of these three options changes the meaning from the Hebrew too much.
-
+  * *hinneh* “**Behold**” (when used in normal narrative passages or in narrative embedded in direct speech, such as when Joseph tells his brothers what happened in his dreams). In conversational passages, translate *hinneh*  as, “**look**,” “**see**,” “**see here**,” or something else suitable for signaling that what immediately follows in the text is prominent. Some conversational contexts may make it almost impossible to give any translation at all of *hinneh*. – However, in direct reported speech of God, his angel, or his prophet, use “**behold**,” since it lends more dignity in English to the divine words than “look” or “see,” etc., would do.
+  * horns –– The Hebrew terms for the various kinds of horns should be rendered as follows: *qeren* = "**horn**;"  *shofar* = "**horn**" ("long horn" or "large horn" in UST); *hatzotzerah* = "**trumpet**." The term *shofar* should never be translated as "trumpet."
+  * *Meshiach* “**Messiah**” (almost always, “**the Messiah**,” since “Messiah” is a title)
+  * *na'* This Hebrew particle (נָא) must be translated on a case-by-case basis and always with great sensitivity to the specific context of the speech in which it occurs. The term often means something like, "I know/fear that you don't want to do what I am about to tell/ask you to do, but I want you to do it anyway." There is no direct translational equivalent for this term in English, but some general guidelines are as follows. When the particle appears with a verb in the context of a request made by a person of inferior position to a person of superior position, it can be translated as "please." But the particle also occurs often in situations where a person of superior position gives a command to a person of inferior position, and in these cases the particle must be rendered in accordance with the interpretation of the specific context. Many instances of the particle occur in contexts where translating the particle as a separate word in English may import too much meaning into the English rendering. Because this particle is an emotive word in Hebrew, in cases like these one might use an exclamation point at the end of the specific clause in order to reflect in the English translation the emotion intended by the use of the particle. It is also acceptable to leave the particle untranslated if translating it would change the meaning from the Hebrew too much.
+  * *tebah* will remain as "**ark**"
+  * *uioi* as in “sons of Israel” or “sons of God” will remain as “**sons**.”
+  * *wayehi* “**It came about,**” “**It happened that…**”
+  * *YHWH* **Yahweh** (The ASV uses “Jehovah,” but we will not.)
 
 #### Translation Glossary for the New Testament ULT
 

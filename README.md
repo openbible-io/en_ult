@@ -91,7 +91,7 @@ Preferred English renderings appear in bold type.
 #### Translation Glossary for the Old Testament ULT
 
   * *adam*  (ASV: man, men) When referring to humanity in general, use “**mankind**.”
-  * Ark of the Covenant –– The ULT will use the word "**Vessel**" ("Vessel of the Testimony" in Exodus, "Vessel of the Covenant of Yahweh" in Joshua, etc.), and the UST will use the term "**sacred chest**."
+  * Ark of the Covenant –– The ULT will use the word "**Box**" ("Vessel of the Testimony" in Exodus, "Box of the Covenant of Yahweh" in Joshua, etc.), and the UST will use the term "**sacred chest**."
   * Expressions of the type, “**he knew his wife**” or “**he went into his wife**” should be reproduced as is. The context makes their meaning clear.
   * *herem* This concept should be translated according to what it appears to mean locally in its immediate context.  This might include either the concept of a **"ban"** or the concept of **"complete destruction"**, etc.
   * *hinneh* “**Behold**” (when used in normal narrative passages or in narrative embedded in direct speech, such as when Joseph tells his brothers what happened in his dreams). In conversational passages, translate *hinneh*  as, “**look**,” “**see**,” “**see here**,” or something else suitable for signaling that what immediately follows in the text is prominent. Some conversational contexts may make it almost impossible to give any translation at all of *hinneh*. – However, in direct reported speech of God, his angel, or his prophet, use “**behold**,” since it lends more dignity in English to the divine words than “look” or “see,” etc., would do.

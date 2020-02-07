@@ -1,11 +1,11 @@
 <img src="https://cdn.door43.org/assets/uw-icons/logo-ult-256.png" alt="drawing" width="100"/>
 # unfoldingWord® Literal Text - English
 
-*an unrestricted Bible intended for translation into any language*
+*an unrestricted literal version of the Bible intended for translation into any language as a tool for use by Bible translators*
 
 ## Overview
 
-The ULT is an open-licensed update of *The American Standard Version*, intended to provide a ‘form-centric’ understanding of the Bible. It increases the translator’s understanding of the lexical and grammatical composition of the underlying text by adhering closely to the word order and structure of the biblical text in the original languages.
+The ULT (English) is an open-licensed revision of *The American Standard Version*, intended to provide a ‘form-centric’ rendering of the biblical text from the original languages (Biblical Hebrew, Biblical Aramaic, and Koiné Greek) into English. This increases a translator’s understanding of the lexical and grammatical composition of the biblical text by adhering closely to the grammatical (i.e. parts of speech) and syntactic (i.e. word order) stuctures of the original languages.
 
 ## Viewing
 
@@ -18,92 +18,116 @@ field in the [manifest.yaml](https://git.door43.org/unfoldingWord/en_ult/src/mas
 file.
 
 
-## Editing
+## Introducing the ULT
 
-### Introduction to the ULT
+The ULT (unfoldingWord® Literal Text) is a form-centric (and thus “literal”) version of the Bible in English. It is intended to be used alongside the UST (unfoldingWord® Simplified Text) and other translation resources to give English-speaking mother-tongue translators (MTTs) a more complete understanding of the messages communicated in the Bible. For MTTs who do not have reading knowledge of the original biblical languages, the ULT provides a sense of *how* these messages were communicated in those original languages. It is anticipated that the ULT and other resources will be translated from English into the world’s Gateway Languages (GLs) so that MTTs worldwide can use them as a set of resources for making accurate translations of the Bible into their own languages.
 
-The ULT (unfoldingWord® Literal Text) is a form-centric, and thus “literal,” version of the Bible in English that is intended to be used alongside the UST (unfoldingWord® Simplified Text) and other translation resources to give English-speaking mother-tongue translators  (MTTs) the most complete understanding possible of the messages communicated in the Bible. For MTTs who do not have reading knowledge of the original biblical languages, the ULT provides a sense of *how* these messages were communicated in those original languages. It is anticipated that the ULT and other resources will be translated from English into the world’s Gateway Languages so that MTTs worldwide can use them as a set of resources for making accurate translations of God’s Word into their own languages.
+### Retain Original Forms and Structures
 
-### Editing the ULT
+The unfoldingWord® Literal Text (ULT) is designed to be used as a tool for Bible translation in conjunction with the [unfoldingWord® Simplified Text (UST)](https://git.door43.org/unfoldingWord/en_ust), the [unfoldingWord® Translation Words (UTW)](https://git.door43.org/unfoldingWord/en_tw), and the [unfoldingWord® Translation Notes (UTN)](https://git.door43.org/unfoldingWord/en_tn). It is not an end-user Bible, which seeks to transform all of the structures of the original biblical languages into those that are natural and idiomatic in the target language. Instead, unlike the UST and unlike an end-user Bible, the ULT is designed to reflect the forms of the source languages, so that the MTT can see what they are. By using the ULT, the MTT can “look through” it to see how the original Bible expressed the biblical ideas. 
 
-The unfoldingWord® Literal Text (ULT) is designed to be used in conjunction with the [unfoldingWord® Translation Notes (UTN)](https://git.door43.org/unfoldingWord/en_tn) and the [unfoldingWord® Simplified Text (UST)](https://git.door43.org/unfoldingWord/en_ust) as a tool for Bible translation. It is not an end-user Bible, which seeks to transform all of the structures of the original biblical languages into those that are natural and idiomatic in the target language. Instead, unlike the UST and unlike an end-user Bible, the ULT is designed to reflect the forms of the source languages, so that the MTT can see what they are. By using the ULT, the MTT can “look through” it to see how the original Bible expressed the biblical ideas. As you edit or translate the ULT, therefore, you must try to retain the grammatical and syntactic structures of the original as far as the target language (English or other Gateway Language) will allow. If the original structure is ungrammatical in the target language, then you will need to change it into a structure that is grammatical. It does no good to make a translation that the MTT using this tool will not be able to understand. But as far as the target language will allow, retain the structures of the original in your editing or translation of the ULT. For English, it is often possible to retain nouns as nouns, verbs as verbs, etc., but their order in the original sentence must be changed.
+Therefore, as you (an editor or translator of the ULT) edit or translate the ULT, you must retain the grammatical and syntactic structures of the original as much as the target language (English or other Gateway Language) will reasonably allow. If the original structure is ungrammatical in the target language, then you will need to change it into a structure that is grammatical in the target language. It does no good to make a translation that a MTT using this tool cannot understand. But as much as the target language will allow, retain the structures of the original while editing or translating the ULT. For English, it is often possible to retain nouns as nouns, verbs as verbs, etc., but their order in the original sentence must be changed.
 
-### Retaining Original Structures 
+In addition to the grammatical forms, the ULT must also retain the idioms and the figures of speech found in the original languages so that the MTT can consider them and use them if they communicate the right thing in his target language (i.e. a minority or Other Language [OL], not Gateway Language). If these aspects of the original language text are changed in the English version (or other Gateway Language translation) of the ULT, then the OL translator will never see them. Furthermore, their accompanying explanations (found in the unfoldingWord® Translation Notes) will not make sense. 
 
-The ULT needs to retain the grammatical forms (as far as is possible), the idioms, and the figures of speech of the original languages so that the MTT can consider them and use them if they communicate the right thing in his or her target language (minority or Other Language (OL), not Gateway Language). If those forms are removed in the English or get changed in a Gateway Language (GL) translation of the ULT, then the OL translator will never see them and the UTN about them will not make sense. Keep in mind that the ULT and the UST are complementary translation tools for the use of the OL translator. We want these tools to be as useful as possible. For the ULT, this means that it should retain structures that we would not always retain in an end-user Bible. The English editor and the GL translator must understand that this means that the ULT will often lack naturalness and sometimes also lack clarity because it is aiming at reproducing these original language structures and figures of speech that the GL may not normally use. Wherever the ULT translation lacks clarity, however, there will also be a Translation Note to explain the meaning of the structure for the OL translator, as well as a clear rendering of the original meaning in the UST. The UTN and the UST will provide the meaning wherever that meaning is in doubt in the ULT. In this way, the tools will work together to provide the OL translator with a full set of information about both the form and the meaning of the original Bible.
+The ULT and the UST are designed to be complementary tools for use by an OL translator. These tools should be as useful as possible, which means that the ULT should retain original language structures that would not always be retained in an end-user Bible. Therefore, you must understand that the ULT will often lack naturalness (and sometimes also lack clarity) because it aims to reproduce the original language structures and figures of speech that the GL may not normally use. However, in places where the ULT lacks clarity, there will be BOTH a Translation Note to explain the meaning of the structure for the OL translator AND a clear rendering of the original meaning in the UST. Together, the UTN and the UST will provide the meaning of the text wherever that meaning is in doubt in the ULT. In this way, the various tools work together to provide an OL translator with more complete information about both the form and the meaning of the biblical text as written in the original languages.
 
-#### Examples
+One specific way in which the ULT and UST are complementary tools concerns the selection of meaning in the original language texts. There are many instances in the biblical text where the meaning of a word or phrase in the original languages is ambiguous. In those cases, the ULT should retain the ambiguity of meaning, if possible. In contrast, the UST should select the most probable meaning and express that meaning according to its own translation method. NOTE: It is acceptable for the ULT to select meaning in cases where the meaning of the original language is linguistically ambiguous but seems clear from the context.
 
-##### Grammatical Forms
+### Examples
 
-The ULT of Luke 2:47 reproduces a grammatical form from the Greek source language that is also natural in English, but that might not be natural in other languages. When talking about the boy Jesus at the temple, it says, “All who heard him were amazed at his understanding and his answers.” The nouns “understanding” and “answers” refer to events, not things, and so must be translated as verbs in many languages.
+#### Grammatical Forms
+
+Luke 2:47 (ULT) reproduces a grammatical form from the Greek source language that is natural in English but might not be natural in other languages. When talking about the boy Jesus at the temple, the ULT reads, “All who heard him were amazed at his understanding and his answers.” The nouns “understanding” and “answers” refer to events, not things, and so must be translated as verbs in many languages.
 The UST of the same verse gives an example of how these nouns can be translated as verbs. It says, “All the people who heard what he said were amazed at how much he understood and how well he answered the questions that the teachers asked.”
 
 When editing or translating the ULT, however, nouns should be retained as nouns if that will make sense in the target language.
 
-##### Idioms
+#### Idioms
 
-The ULT of Matthew 2:20 reproduces an idiom from the Greek source language. It refers to Herod and his soldiers who were trying to kill the child Jesus as, “those who sought the child’s life.” In some languages this is clear, and in others it is not.
+Matthew 2:20 (ULT) reproduces an idiom from the Greek source language. It refers to Herod and his soldiers who were trying to kill the child Jesus as, “those who sought the child’s life.” In some languages this is clear, but in other languages it is not.
 
-The UST of the same verse tries to make the meaning clear by translating this idiom as, “the people who were trying to kill the child.” When editing or translating the ULT, however, this idiom should be retained as it is, so that the Other Language translator can consider it and use it if it makes sense. The UST and the UTN will always provide the meaning.
+The UST of the same verse tries to make the meaning clear by translating this idiom as, “the people who were trying to kill the child.” When editing or translating the ULT, however, this idiom should be retained as it is, so that the Other Language translator can consider it and use it if it makes sense. The UST and the UTN should always provide the meaning.
 
-##### Figures of Speech
+#### Figures of Speech
 
-The ULT of John 1:17 reproduces a figure of speech from the Greek source language. It says, “grace and truth came through Jesus Christ.” (This figure of speech is called “personification.”) This figure of speech talks as if grace and truth were like people who can come and go, and it talks as if Jesus Christ were like a doorway that they can come through. In some languages this makes sense, but in other languages it does not. The plain meaning is that Jesus Christ acted toward us with grace and taught us true things about God.
+John 1:17 (ULT) reproduces a figure of speech from the Greek source language. It says, “grace and truth came through Jesus Christ.” (This figure of speech is called “personification.”) This figure of speech talks as if grace and truth were like people who can come and go, and it talks as if Jesus Christ were like a doorway that they can come through. In some languages this makes sense, but in other languages it does not. The plain meaning is that Jesus Christ acted toward us with grace and taught us true things about God.
 
 The UST of the same verse tries to make this plain meaning clear by translating it as, “Jesus Christ was kind to us far beyond what we deserved and taught us true things about God.”
-When translating the ULT, however, this figure of speech should be retained as it is, so that the Other Language translator can consider it and use it if it makes sense. If it does not, the UST provides an alternative way to translate it.
+When translating the ULT, however, this figure of speech should be retained as it is, so that the OL translator can consider it and use it if it makes sense. If it does not, the UST should provide an alternative way to translate it.
 
-### Specific Editing Guidelines
+### The ULT Contrasted with the UST
+
+The unfoldingWord® Literal Text (ULT) seeks to represent the language **forms** of the original in a way that also makes sense in English (or other Gateway Languages). The unfoldingWord® Simplified Text (UST) seeks to represent the **plain meaning** of the original Bible text. This means that:
+
+  * the ULT reflects better than the UST the grammatical structures of the biblical languages.
+  * the ULT reflects better than the UST the parts of speech of the biblical languages. The ULT, for example, will seek to use nouns where the original uses nouns, adjectives where the original uses adjectives, and so forth. 
+  * the ULT should reproduce the form of the logical connections in the biblical languages. For example, the ULT will read, *the righteousness of faith*, even though the logical relationship between *righteousness* and *faith* is not further specified. (Is it the righteousness that comes by faith? Is it the righteousness that vindicates faith?) All that *the righteousness of faith* explicitly signals is: that there is some close association in the text between *righteousness* and *faith*; and that we can probably rule out **a number of** conceivable logical relationships between the two concepts, but not **all** possible relationships (as the foregoing example illustrates). In contrast, the UST will choose the one logical relationship that seems most likely.
+  * the ULT should reproduce the linear succession of ideas found in the original languages, even when English may prefer a different arrangement of the same ideas.
+  * the ULT should not present information that is only **implied** in the original. For example, in Matt. 26:5 *For they were saying, “Not during the feast, so that a riot does not arise among the people.”*  the implied information is, “Let us not arrest Jesus [during the feast].” The ULT will not overtly represent this implied information, while the UST will include it.
+  * the ULT should reflect as much as reasonably possible the written style of the original. It reads, for example, “Paul…to Timothy…” instead of the preferred (in English), “Dear Timothy, [new paragraph] this is Paul.”
+  * the ULT should depart from closely representing the structures of the original only when it must do so for the sake of clarity in English.
+  * the ULT is not meant to be a refined, polished English version. It is meant to present the structure of the original in a way that is as meaningful as possible, so that it can, in turn, be translated into other languages.
+  * even when the ULT is ambiguous or not entirely clear (as is often true of the original), **the ULT must never promote to the MTT an incorrect meaning**.
+
+## Editing the ULT
+
+Here are some guidelines for composing or editing biblical text in the ULT:
 
   * Only use quotation marks at the beginning and ending of direct speech. Do not put quotation marks at the beginning of each verse, even though the speech may span several verses.
   * Do not use contractions.
   * Punctuation marks go inside the quote marks.
-  * Capitalization issues: in general, we are following the practice of the 2011 NIV.
-  * All pronouns are lower case (except when beginning sentences and except for the first singular “I”).
-  * Capitalize titles (Son of Man, King David, the Messiah).
-  * Retain the literal nature of the text–it should complement the “dynamic” UST rather than be similar to it.
-  * Use vocabulary and phrases that differ from the UST. The two translations fail to help the MTT when they are the same.
+  * Capitalization: in general, follow the practice of the 2011 NIV.
+  * All pronouns are lower case (even when referring to God) except when a pronoun begins a sentence. Of course, the first person singular ("I") is always capitalized.
+  * Proper titles should be capitalized (Son of Man, King David, the Messiah).
+  * Retain the literal nature of the text. The ULT should complement the UST rather than be similar to it.
+  * Use vocabulary and phrases that differ from the UST as much as possible. The complementary tools fail to help the MTT when they are the same.
   * Where possible, use common vocabulary that is easy to translate into another language.
   * Spell out numbers up to and including ten (e.g., one, two…). For numbers larger than ten, use numerals (e.g., 11, 12…).
+  * As a general rule, the English ULT uses far demonstrative pronouns ("that, those") when referring backward in the text, and near demonstrative pronouns ("this, these") when referring forward in the text. However, there are occasional exceptions to this rule, usually for the sake of naturalness in the English rendering.
 
-### Translation Glossary
+## Translating the ULT from the Original Languages
 
-A list of decisions as to how to translate some senses of the source language words and phrases into another language is called a Translation Glossary (TG). Such a device is especially useful when more than one person works on the same project, because it helps keep everyone using the same English terms.
+### Translation of Terms Regarding Gender
 
-However, a TG cannot be foolproof, because the source will often use some words to signal more than one sense, depending on context. A TG is therefore a glossary of **word senses**, not a glossary of **words**. Check back often to this page, because this TG is likely to develop for the entire life of the unfoldingWord project.
+Both Biblical Hebrew and Koiné Greek utilize different word forms to indicate grammatical gender, which may or may not correspond either to the actual gender of a person or to the lack of gender in an object.  For example, the Hebrew phrase *beney yisrael* ("sons of Israel") sometimes literally means  "male children of the man named Israel" (Gen 42:5). However, most of the time in the Old Testament this phrase refers figuratively to the entire Israelite nation as a whole, both men and women. In a similar way, the Greek term *adelphoi* ("brothers") can sometimes literally mean "a male person who has the same father and/or mother" (Mark 3:22), but most of the time in the New Testament refers figuratively to Christian believers, both men and women. This linguistic feature of "engendered language" poses significant problems for translation. The meaning of the original Hebrew/Aramaic/Greek text is not always clear; also, some languages do not use engendered language, which makes the translation of gender very difficult.
 
-Note that occasionally, the TG’s specified translation will not be suitable. As always, the text editors must remain in control of the decision-making process. The TG is to guide you as much as is possible. If you must depart from the TG guidelines, do so and insert a note to that effect.
+The ULT should retain the engendered language of Hebrew/Aramaic/Greek terms as much as possible. However, a notable exception to this rule concerns the translation of masculine participles (that is, verbal nouns and/or verbal adjectives) which actually refer to both men and women together; those terms can be translated without specifying gender.
 
-#### Translation Glossary for the ULT
+### Translation Glossary for the ULT
 
-Preferred English renderings appear in bold type.
+A list of decisions as to how to translate some senses of the source language words and phrases into another language is called a Translation Glossary (TG). Such a device is especially useful when more than one person works on the same project, because it helps keep everyone using the same English terms. However, a TG cannot be foolproof, because the source will often use some words to signal more than one sense, depending on context. A TG is therefore a glossary of **word senses**, not a glossary of **words**. Check back often to this page, because this TG is likely to develop for the entire life of the unfoldingWord project.
 
-  * *brethren*  should be updated to **brothers**. When both genders are indicated by the context, a note from the Notes Team should be expected to appear to that effect. Do not replace the ULT text with “brothers and sisters.”  
+NOTE: Occasionally, the TG’s specified translation will not be suitable. As always, the text editors must remain in control of the decision-making process. The TG is to guide you as much as is possible. If you must depart from the TG guidelines, do so and insert a Translation Note to explain the meaning.
+
+Preferred English renderings for the ULT appear in bold type.
+
+  * *brethren*  should be updated to **brothers**. When both genders are indicated by the context, a note from the Notes team should be expected to appear to that effect. Do not replace the ULT text with “brothers and sisters.”  
   * *Call*  in the ASV usage “call his name”: update to “**call him**  [+ name]” or “**name him**  [+ name].”
   * *Call*  in the formula of the type, “he shall be called the Son of the Most High” (Luke 1:32): keep this formula in the ULT, but be aware of the metaphor that is operative here: in this verse, Jesus will not only be *called the Son of the Most High*, but he will be the Son of the Most High.
   * *Hand*  indicating power or possession: keep this metaphor in the ULT.
   * Sentence-initial or preverbal *and*  of the type, “And Joseph said,” “And it came about,” etc.: these should be rendered in English somehow, usually as the conjunction "**and**." However, a different conjunction ("**but**", "**so**", etc.) may be selected in cases where a specific logical relationship is clear from the context.
-  * **Shall** vs. **will** : in English future expressions in general, use “**will**” instead of “shall,” e.g., “he is a prophet, and he <del>shall</del> **will** pray for you” (Gen 20:7). Note that some ASV future expressions are better updated into today’s English by using the present tense, e.g., “I shall not drink from…the fruit of the vine, until the kingdom of God shall come” (Luke 22:18) can be updated to “I **will** not drink…until the kingdom of God **comes**.” Cases in which “shall” expresses obligation can usually be restructured, e.g., “You shall not steal” becomes “ **Do** not steal,” and “Shall I go and smite these Philistines?” (1 Sam. 23:2) becomes “**Should** I go and attack these Philistines?” This general preference for “will” probably conforms to the instincts of most English native speakers. However, in genres such as prophecies, blessings, curses, and in other passages focusing on the expression of the speaker’s intentionality, retain the use of “shall” in the ULT, e.g., “Yahweh said, **’Shall** I hide from Abraham what I am about to do…?’” (Gen 18:17), “A deliverer **shall** come to Zion,” “every mountain and hill **shall** be made low.”
-  * In speech introductions that use two verbs instead of one such as, “**he answered and said**,” please retain this formula in the ULT. This will provide a model for languages which also separate the mode of speech from the act of speech, as does Biblical Hebrew and, often, Greek. In the UST for the same issue, only one verb will be used.
+  * **Shall** vs. **will** : in English future expressions in general, use “**will**” instead of “shall,” e.g., “he is a prophet, and he <del>shall</del> **will** pray for you” (Gen 20:7). Note that some ASV future expressions are better updated into today’s English by using the present tense, e.g., “I shall not drink from…the fruit of the vine, until the kingdom of God shall come” (Luke 22:18) can be updated to “I **will** not drink…until the kingdom of God **comes**.” Cases in which “shall” expresses obligation can usually be restructured, e.g., “You shall not steal” becomes “ **Do** not steal;” and, “Shall I go and smite these Philistines?” (1 Sam. 23:2) becomes “**Should** I go and attack these Philistines?” This general preference for “will” probably conforms to the instincts of most English native speakers. However, in genres such as prophecies, blessings, curses, and in other passages focusing on the expression of the speaker’s intentionality, retain the use of “shall” in the ULT. For example: “Yahweh said, **’Shall** I hide from Abraham what I am about to do…?’” (Gen 18:17); “A deliverer **shall** come to Zion;” “every mountain and hill **shall** be made low.”
+  * In speech introductions that use two verbs instead of one such as, “**he answered and said**,” retain this formula in the ULT. This will provide a model for languages which also separate the mode of speech from the act of speech, as does Biblical Hebrew and (often) Koiné Greek. In the UST, however, only one verb should be used in these cases.
 
 
-#### Translation Glossary for the Old Testament ULT
+### Translation Glossary for the Old Testament
 
   * *adam*  (ASV: man, men) When referring to humanity in general, use “**mankind**.”
-  * Ark of the Covenant –– The ULT will use the word "**Box**" ("Vessel of the Testimony" in Exodus, "Box of the Covenant of Yahweh" in Joshua, etc.), and the UST will use the term "**sacred chest**."
+  * *Ark of the Covenant* –– The ULT will use the word "**Box**" ("Box of the Testimony" in Exodus, "Box of the Covenant of Yahweh" in Joshua, etc.), and the UST will use the term "**sacred chest**."
+  * *ben, beney* as in "son of a night" or “sons of Israel” or “sons of God” should remain as "**son**" or “**sons**.”
   * Expressions of the type, “**he knew his wife**” or “**he went into his wife**” should be reproduced as is. The context makes their meaning clear.
   * *herem* This concept should be translated according to what it appears to mean locally in its immediate context.  This might include either the concept of a **"ban"** or the concept of **"complete destruction"**, etc.
+  * *hesed* should be translated as "**covenant faithfulness**" except in cases where the context is clear that a different meaning is warranted.
   * *hinneh* “**Behold**” (when used in normal narrative passages or in narrative embedded in direct speech, such as when Joseph tells his brothers what happened in his dreams). In conversational passages, translate *hinneh*  as, “**look**,” “**see**,” “**see here**,” or something else suitable for signaling that what immediately follows in the text is prominent. Some conversational contexts may make it almost impossible to give any translation at all of *hinneh*. – However, in direct reported speech of God, his angel, or his prophet, use “**behold**,” since it lends more dignity in English to the divine words than “look” or “see,” etc., would do.
   * horns –– The Hebrew terms for the various kinds of horns should be rendered as follows: *qeren* = "**horn**;"  *shofar* = "**horn**" ("long horn" or "large horn" in UST); *hatzotzerah* = "**trumpet**." The term *shofar* should never be translated as "trumpet."
   * *Meshiach* “**Messiah**” (almost always, “**the Messiah**,” since “Messiah” is a title)
   * *na'* This Hebrew particle (נָא) must be translated on a case-by-case basis and always with great sensitivity to the specific context of the speech in which it occurs. The term often means something like, "I know/fear that you don't want to do what I am about to tell/ask you to do, but I want you to do it anyway." There is no direct translational equivalent for this term in English, but some general guidelines are as follows. When the particle appears with a verb in the context of a request made by a person of inferior position to a person of superior position, it can be translated as "please." But the particle also occurs often in situations where a person of superior position gives a command to a person of inferior position, and in these cases the particle must be rendered in accordance with the interpretation of the specific context. Many instances of the particle occur in contexts where translating the particle as a separate word in English may import too much meaning into the English rendering. Because this particle is an emotive word in Hebrew, in cases like these one might use an exclamation point at the end of the specific clause in order to reflect in the English translation the emotion intended by the use of the particle. It is also acceptable to leave the particle untranslated if translating it would change the meaning from the Hebrew too much.
-  * *tebah* will remain as "**ark**"
-  * *uioi* as in “sons of Israel” or “sons of God” will remain as “**sons**.”
+  * *tebah* should remain as "**ark**"
   * *wayehi* “**It came about,**” “**It happened that…**”
-  * *YHWH* **Yahweh** (The ASV uses “Jehovah,” but we will not.)
+  * *YHWH* **Yahweh** (The ASV uses “Jehovah,” but it should be changed to "Yahweh" in the ULT.)
 
-#### Translation Glossary for the New Testament ULT
+### Translation Glossary for the New Testament
 
   * *nomikos* “**expert in the Jewish law**”
   * *grammateus*  “**scribe**”
@@ -111,71 +135,61 @@ Preferred English renderings appear in bold type.
   * *idou* “**Behold**” (when used in normal narrative passages or in narrative embedded in direct speech. In conversational passages, translate  *idou preferably* as, “**look**,” “**see**,” “**see here**,” or at need as something else suitable for signaling that what immediately follows in the text is prominent. Some conversational contexts may make it almost impossible to give any translation at all of *idou.* – However, in direct reported speech of God, his angel, or his prophet, use “**behold**,” since it lends more dignity in English to the divine words than “look” or “see,” etc., would do.
   * *anthropos*  (ASV: man, men) When referring to humanity in general, use “**mankind**.”
   * *Messiah*  This term sometimes appears in the NT in transliterated Greek. In this case, this term should be translated, “**Messiah**.”
-  * *Xristos* “**Christ**” or “**the Christ**” (the definite article is appropriate if the term is being clearly used as a title; Paul often seems to use *Xristos *  as a second name for Jesus, but at times he clearly uses it as a title).
-  * *gospel* **gospel** will be used in most cases in the ULT, while the UST will use “good news.”
+  * *Xristos* “**Christ**” or “**the Christ**” (the definite article is appropriate if the term is being clearly used as a title; Paul often seems to use *Xristos*  as a second name for Jesus, but at times he clearly uses it as a title).
+  * *euangelion* **gospel** will be used in most cases in the ULT, while the UST will use “good news.”
   * *hagioi* When referring to people, “**saints**.” When referring to heavenly beings, “**holy ones**.”
 
 ### Notes About Making a “Literal” Translation
 
-1. It is not possible to maintain a one-for-one correspondence between words in translation. One word from the source language may require a phrase for its translation in the target language, and vice-versa. 
-2. Even though the ULT is a “literal” text, that does not mean that every word from the original language will be translated in the same way each time it occurs. We will always seek to use the meaning that the word has in its context, using whatever English word or phrase is closest to that meaning.
-3. Both Greek and Hebrew can make a sentence without using a verb, while English cannot. For the ULT to make sense, the verb will always be supplied (usually “is”).
-4. Greek makes abundant use of participial clauses. For the English of the ULT to make sense, often this must be changed to a relative or adverbial clause.
-5. The general rule is, retain the structures of the original unless English sense does not allow it. If not, make the adjustments necessary.  
+1. It is not possible to maintain a strict one-for-one correspondence between words in translation. One word from the source language may require a phrase for its translation in the target language, and vice-versa. 
+2. Even though the ULT is a “literal” text, that does not mean that every word from the original language will be translated in the same way each time it occurs. The ULT always seeks to use the most correct meaning for a word in its context, using whatever English word or phrase is closest to that meaning.
+3. Both Greek and Hebrew can make a sentence without using a verb, while English cannot. For the ULT to make sense, the verb should always be supplied (usually “is”).
+4. Greek makes abundant use of participial clauses. For the English of the ULT to make sense, often this must be changed to either a relative or adverbial clause.
+5. The general rule is, retain the structures of the original unless English sense does not allow it. If not, make the necessary adjustments.  
+6. If the King James Version, the New American Standard Version, or the English Standard Version are more literal than the ULT, then we still have more work to do.
 
-### The ULT Contrasted with the UST
-
-The ULT seeks to represent the language **forms** of the original in a way that also makes sense in English and other Gateway Languages. The UST (unfoldingWord® Simplified Text) seeks to represent the **plain meaning** of the original Bible text. This means that:
-
-  * the ULT reflects better than the UST the grammatical structures of the biblical languages.
-  * the ULT reflects better than the UST the parts of speech of the biblical languages. The ULT, for example, will seek to use nouns where the original uses nouns, adjectives where the original uses adjectives, and so forth. 
-  * the ULT will reproduce the form of the biblical language logical connections. Thus, for example, the ULT will read, *the righteousness of faith*, even though the logical relationship between *righteousness* and *faith* is not further specified. (Is it the righteousness that comes by faith? Is it the righteousness that vindicates faith?) All that *the righteousness of faith* explicitly signals is that there is some close association in the text between *righteousness* and *faith*, and that we can probably rule out **a number of** conceivable logical relationships between the two concepts, but not **all** possible relationships, as the foregoing example illustrates. In contrast, the UST will choose the one logical relationship that seems most likely.
-  * the ULT will reproduce the linear succession of ideas found in the original, even when English may prefer a different arrangement of the same ideas.
-  * the ULT will not present information that is only **implied** in the original. For example, in Matt. 26:5 *For they were saying, “Not during the feast, so that a riot does not arise among the people.”*  the implied information is, “Let us not arrest Jesus [during the feast].” The ULT will not overtly represent this implied information, while the UST will include it.
-  * the ULT reflects as much as reasonably possible the written style of the original. It reads, for example, “Paul…to Timothy…” instead of English’s preferred, “Dear Timothy, [new paragraph] this is Paul.”
-  * the ULT will depart from closely representing the structures of the original only when it must do so for the sake of clarity in English.
-  * the ULT is not meant to be a refined, polished English version. It is meant to present the structure of the original in a way that is as meaningful as possible, so that it can, in turn, be translated into other languages.
-  * even when the ULT is ambiguous or not entirely clear (as is often true of the original), **the ULT must never promote to the MTT the wrong meaning**.
-
-### Alignment Instructions
+## Aligning the ULT
 
 In the tC (translationCore) Word Alignment tool, the GL (Gateway Language) chapters and verses are listed down the left side. When you click on a verse to open it, the words of that verse appear in a vertical list, ordered from top to bottom, just to the right of the list of chapters and verses. Each word is in a separate box.
 
-The words of the original language (Greek, Hebrew, or Aramaic) text for that verse are also in separate boxes in a field to the right of the GL word list. There is a space under each of the source word boxes outlined with a dotted line.
+The words of the original language (Hebrew, Aramaic, or Greek) text for that verse are also in separate boxes in a field to the right of the GL word list. There is a space under each of the source word boxes outlined with a dotted line.
+
+### Alignment Process for the ULT
 
 To align the GL text:
 
-* Click and drag each word box of the GL text into the space under the word box of the source text that the GL word corresponds to.
+* Click and drag each word box of the GL text into the space under the word box of the source text to which the GL word corresponds.
 * Drop the GL word by releasing the mouse button.
 
-When the GL word is over a word box of the original, the dotted outline will turn blue to let you know that the word will drop there. If you make a mistake or decide that the GL word belongs somewhere else, simply drag it again to where it belongs. GL words can also be dragged back to the list.
+When the GL word is over a word box of the original, the dotted outline will turn blue to let you know that the word will drop there. If you make a mistake, or if you decide that the GL word belongs somewhere else, simply drag it again to where it belongs. GL words can also be dragged back to the list.
 
-When the same GL word occurs more than once in a verse, each instance of the word will have a small superscript number after it. This number will help you to align each repeated GL word to the correct original word in the correct order.
+When the same GL word occurs more than once in a verse, each instance of the word will have a small superscript number after it. This number will help you to align each repeated GL word to the correct original word in the correct order.  **When aligning, check to ensure that these numbered words are in their proper places, since it is easy to miss the numbers and align repeated words incorrectly.**
 
-#### Merge and Unmerge Notes
+#### Process to Merge and Unmerge Original Language Words
 
 translationCore supports one-to-one, one-to-many, many-to-one, and many-to-many alignments. That means that one or more GL words can be aligned to one or more original language words, as necessary to get the most accurate alignment of the **meaning** conveyed by the two languages.
 
 * To align multiple GL words to a single original language word, simply drag and drop the GL words onto the box below the desired original language word.
-* When it is desired to align GL word(s) to a combination of original language words, first drag one of the combination original language words into the same box as the other original language word. Multiple original language words can be merged together in this fashion.
-* To unmerge previously merged original language words, drag the rightmost original language word slightly to the right. A small new alignment box will appear, and the unmerged word can be dropped into that box.
-* The leftmost original language word can also be unmerged by dragging and dropping it into the original language word box immediately to its left.
-* Any GL words that were aligned with that original language word return to the word list.
-* The original language words should remain in the proper order. If the merge contains 3 or more original language words, unmerge the rightmost original language word first. Un-merging the center word(s) first may result in the original language words becoming out of order. When that happens, unmerge the remaining words in that box to properly return the original language words to their original order.
+* When it is desired to align GL word(s) to a combination of original language words, first drag one of the combination of original language words into the same box as the other original language word. Multiple original language words can be merged together in this fashion.
+* To unmerge previously merged original language words, perform the following steps. For Hebrew, drag the leftmost original language word slightly to the left. A small new alignment box will appear, and the unmerged word can be dropped into that box. For Greek, drag the rightmost original language word slightly to the right. A small new alignment box will appear, and the unmerged word can be dropped into that box. In both cases, any GL words that were aligned with that original language word return to the word list.
+* The original language words should remain in the proper order. If the merge contains 3 or more original language words, unmerge either the leftmost or rightmost original language word first. Un-merging the center word(s) first may result in the original language words becoming out of order. If that happens, unmerge the remaining words in that box to properly return the original language words to their original order.
 
 ### Alignment Philosophy for the ULT
 
-Because each GL will have different requirements for sentence structure and the amount of explicit information that must be provided there is often not a one-to-one correspondence of the original language word and the GL word. In these cases, the GL words that are provided should be aligned with the original language word that implies them.
+Because each GL has different requirements for sentence structure and the amount of explicit information that must be provided, there is often not a one-to-one correspondence between an original language word and a GL word. In these cases, the GL words that are provided should be aligned with the original language word that implies them.
+
+**When aligning a GL translation to the original language text, the precision of the alignment between the two languages is the highest priority. The most important function of the aligned text is to show the ULT user as specifically as possible from which word in the original language text the GL meaning is derived.  In practice, this means that original language words should be merged together ONLY *when absolutely necessary for the accuracy of the alignment*. Otherwise, original language words should not be merged together. In other words, the aligning should be done so that the smallest number of GL words are aligned to the smallest number of original language words that accurately represent their shared meaning.**
 
 For English, we follow these principles, but your GL may need a different list to support full alignment.
 
 * Align indefinite articles to their “head word.”  For example, both “a” and “servant” should align to *doulos* in Titus 1:1.
-* Definite articles that English supplies should also be aligned to their “head word.” For example, both “the” and “faith” should align to *pistin* in Titus 1:1.
-* Original language definite articles that English does not use need to be combined with their original language head word. For example, *ton* and *logon* need to be combined, then “word” aligned with that combination in Titus 1:3.
+* Definite articles that English supplies should also be aligned to their “head word.” For example, both “the” and “faith” should align to *pistin* in Titus 1:1. 
+* Original language definite articles that English does not use should be combined with their original language head word, if possible. For example, *ton* and *logon* need to be combined, then “word” aligned with that combination in Titus 1:3. If the article and head word are separated by other words and cannot be combined, and English does not have an article in that place, then leave the original language article unaligned.
 * Implicit verbs in the original language that are translated explicitly in the target language should be aligned with the predicate. For example, “he should be” that is supplied in English should be aligned to *philoxenon* along with “hospitable” in Titus 1:8.
 * Words with apostrophes will be split and show up as two words in the word panel. This allows for proper alignment of the two parts of meaning. In most cases in English these are used to represent possession and will be aligned to a single original language word in the genitive case.  For example, both “God” and “s” will align to *theou* in Titus 1:1.
 * Often the original language and GL part of speech won’t match. That is inevitable. Often an original language word will be translated as a :abbr:`GL (Gateway Language)` phrase. For example, the three words “does not lie” in English all align with the single word *apseudes* in Titus 1:2.
-* Sometimes particles in the original language are not translated in the GL. These should be aligned to make the alignment between the original language and the GL as precise as possible. For example, in most cases the Hebrew direct object marker should be merged with the Hebrew direct object and aligned with that translated word in the GL.  However, in cases where the direct object marker has a conjunction prefix that must be translated in the GL, then the Hebrew word containing the conjunction and direct object marker should be aligned with the translated conjunction in the GL.
+* Sometimes particles in the original language are not translated in the :abbr:`GL (Gateway Language)`. These should be aligned to make the alignment between the original language and the GL as precise as possible. For example, in most cases the Hebrew direct object marker should be merged with the Hebrew direct object and aligned with that translated word in the :abbr:`GL (Gateway Language)`.  However, in cases where the direct object marker has a conjunction prefix that must be translated in the :abbr:`GL (Gateway Language)`, then the Hebrew word containing the conjunction and direct object marker should be aligned with the translated conjunction in the :abbr:`GL (Gateway Language)`.
+* When aligning verbal negations, align any English helping verbs with the original language verb.  Only align the English term(s) of negation with the negative particle in the original language.
 
 Other alignment issues pertinent to Biblical Hebrew include the following:
 
@@ -183,27 +197,24 @@ Other alignment issues pertinent to Biblical Hebrew include the following:
 * As a general rule, the ULT should translate the conjunction in Hebrew verbal forms. The translated conjunction should then be aligned with that Hebrew verb.
 * When aligning construct phrases in Hebrew, the English word "of" should be aligned with the construct noun. If the English translation of the construct phrase uses a single definite article "the", then it should be aligned with the absolute noun. When the English translation uses multiple instances of the definite article "the", then each definite article should be aligned with the corresponding Hebrew noun.
 * When aligning a verbless clause in Hebrew, the supplied "to be" verb should usually be aligned with the predicate instead of the subject. An exception to this rule occurs when the subject is a demonstrative pronoun (or carries some sort of deictic function). In those cases, the supplied "to be" verb should be aligned with the subject of the verbless clause.
-* When aligning verbal negations, align any English helping verbs with the the Hebrew verb.  Only align the English term(s) of negation with the negative particle in Hebrew.
 * Sometimes a verb in Hebrew requires an accompanying preposition that is not required in English, or vice versa. In these cases, align with whichever part of speech fits best on a case-by-case basis.  For example, take the phrase "...to pay on our fields..." in Nehemiah 14:4 in the UST. The English preposition "on" fits better semantically with the noun ("on our fields") rather than with the infinitive ("to pay on").  However, the reverse is true in v.15 in the phrase "...even their servants oppressed the people..." (Heb. שׁלטוּ על־העמ). In this case, the Hebrew שׁלט requires an accompanying preposition, and the concept is already incorporated into the English translation of the verb itself, "oppressed."  So in this case, it is best to merge the Hebrew verb and preposition together, then align both with the English "oppressed."
 
-The ULT (unfoldingWord Literal Text) is intended to be a fairly literal translation of the original, so that it reproduces the structure of the original language when that is also understandable in the GL. Ideally, then, there would be one GL word aligned with each original language word. Of course, this is not possible, because languages work very differently from each other.
-
-Therefore, we expect that you must align words or phrases in the GL with words or phrases in the original language that differ in the number of words, order of words, and parts of speech, as described above. Always, however, you should align the GL words to the original language words whose meaning they express, in whatever combination is necessary to produce the most accurate alignment of the meaning.
+You should expect that sometimes you must align words/phrases in the GL with words in the original language that differ in the number of words, order of words, and/or parts of speech (as described above). However, you should ALWAYS align the GL words to the original language words whose meaning they express, in whatever combination is necessary to produce the most accurate alignment of the meaning.
 
 After aligning a verse, there may be words in the GL text that are left over and seem to be extra. If those words are truly necessary for the GL text to make sense, then find the original word or words that they help to express and align them there. But if those words do not express a meaning found in the original text, then it may be that those words should be deleted from the GL translation. See :ref:`glalignment-wordsnotfound` for more information.
 
 Sometimes, in the process of aligning a verse, you will find:
 
-    * An original language word that is not represented in the GL translation.
-    * A mistake in the GL translation.
-    * Words in the GL translation that do not represent anything in the original text.
-    * A better or more literal way to express something in the :abbr:`GL (Gateway Language)` translation.
+* An original language word that is not represented in the GL translation.
+* A mistake in the GL translation.
+* Words in the GL translation that do not represent anything in the original text.
+* A better or more literal way to express something in the GL translation.
 
-In the above cases, if you are an authorized editor, you will want to edit the :abbr:`GL (Gateway Language)` translation so that it is more accurate to the original. Otherwise, contact the :abbr:`GL (Gateway Language)` translation team to let them know about the issue.
+For the above cases: if you are an authorized editor, you will want to edit the GL translation so that it is more accurate to the original. Otherwise, contact the GL translation team to let them know about the issue.
 
-If you notice places where the ULT (unfoldingWord Literal Text) is wrong or potentially wrong, create an issue for it at https://git.door43.org/unfoldingWord/en_ult/issues and we’ll address it in the next release. In the meantime, align the text as well as possible.
+If you notice places where the ULT (unfoldingWord Literal Text) is wrong or potentially wrong, create an issue for it at https://git.door43.org/unfoldingWord/en_ult/issues so we can address it in the next release. In the meantime, align the text as well as possible.
 
-#### Words Not Found in the Original Language
+### Words Not Found in the Original Language
 
 In the process of alignment according to the instructions above, you may find that the :abbr:`GL (Gateway Language)` text has words or phrases that do not represent any meaning in the original language text and are not there because the GL sentence needs them to make sense. If this occurs, follow these recommendations:
 
@@ -211,4 +222,3 @@ In the process of alignment according to the instructions above, you may find th
 * You may consult other Greek or Hebrew manuscripts to see if there is textual support for your translation (see the `Biblical Humanities Dashboard <http://biblicalhumanities.org/dashboard/>` for other manuscripts).
 * If you find support for your translation, make sure to include a comment or note about where you found it and why the translation should include it.
 * You should consider placing these GL words in brackets or in a footnote.
-

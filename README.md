@@ -5,7 +5,7 @@
 
 ## Overview
 
-The ULT (English) is an open-licensed revision of *The American Standard Version*, intended to provide a ‘form-centric’ rendering of the biblical text from the original languages (Biblical Hebrew, Biblical Aramaic, and Koiné Greek) into English. This increases a translator’s understanding of the lexical and grammatical composition of the biblical text by adhering closely to the grammatical (i.e. parts of speech) and syntactic (i.e. word order) stuctures of the original languages.
+The ULT (English) is an open-licensed adaptation of *The American Standard Version*, intended to provide a ‘form-centric’ rendering of the biblical text from the original languages (Biblical Hebrew, Biblical Aramaic, and Koiné Greek) into English. This increases a translator’s understanding of the lexical and grammatical composition of the biblical text by adhering closely to the grammatical (i.e. parts of speech) and syntactic (i.e. word order) stuctures of the original languages.
 
 ## Viewing
 

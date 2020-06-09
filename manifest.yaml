@@ -14,7 +14,7 @@ dublin_core:
     - 'Jesse Griffin, BA Biblical Studies, MA Biblical Languages'
     - 'James N. Pohlig, M.Div., MA in Linguistics, D. Litt. in Biblical Languages'
     - 'Larry T Brooks, M.Div., Assemblies of God Theological Seminary'
-    - 'Larry Sallee, Th.M Dallas Theological Seminary, D.Min. Columbia Biblical Seminary' 
+    - 'Larry Sallee, Th.M Dallas Theological Seminary, D.Min. Columbia Biblical Seminary'
     - 'Paul M Fahnestock, M.Div. Reformed Theological Seminary, D. Min. Pittsburgh Theological Seminary'
     - 'Perry Oakes, PhD in Old Testament, MA in Linguistics'
     - 'Peter Smircich, BA Philosophy'
@@ -34,12 +34,12 @@ dublin_core:
   description: "An open-licensed update of the ASV, intended to provide a 'form-centric' understanding of the Bible. It increases the translator's understanding of the lexical and grammatical composition of the underlying text by adhering closely to the word order and structure of the originals."
   format: 'text/usfm3'
   identifier: 'ult'
-  issued: '2020-03-25'
+  issued: '2020-06-09'
   language:
     direction: 'ltr'
     identifier: 'en'
     title: 'English'
-  modified: '2020-03-25'
+  modified: '2020-06-09'
   publisher: 'unfoldingWord'
   relation:
     - 'en/tw'
@@ -58,11 +58,11 @@ dublin_core:
     -
       identifier: 'uhb'
       language: 'hbo'
-      version: '2.1.12'
+      version: '2.1.13'
   subject: 'Aligned Bible'
   title: 'unfoldingWord® Literal Text'
   type: 'bundle'
-  version: '10'
+  version: '11'
 
 checking:
   checking_entity:

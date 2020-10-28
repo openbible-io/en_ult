@@ -54,12 +54,12 @@ dublin_core:
   description: "An open-licensed update of the ASV, intended to provide a 'form-centric' understanding of the Bible. It increases the translator's understanding of the lexical and grammatical composition of the underlying text by adhering closely to the word order and structure of the originals."
   format: 'text/usfm3'
   identifier: 'ult'
-  issued: '2020-09-10'
+  issued: '2020-10-29'
   language:
     direction: 'ltr'
     identifier: 'en'
     title: 'English'
-  modified: '2020-09-10'
+  modified: '2020-10-29'
   publisher: 'unfoldingWord'
   relation:
     - 'en/tw'
@@ -74,7 +74,7 @@ dublin_core:
     -
       identifier: 'ugnt'
       language: 'el-x-koine'
-      version: '0.14'
+      version: '0.15'
     -
       identifier: 'uhb'
       language: 'hbo'
@@ -82,7 +82,7 @@ dublin_core:
   subject: 'Aligned Bible'
   title: 'unfoldingWord® Literal Text'
   type: 'bundle'
-  version: '14'
+  version: '15'
 
 checking:
   checking_entity:
@@ -97,7 +97,7 @@ projects:
     identifier: 'gen'
     sort: 1
     path: './01-GEN.usfm'
-    categories: [ 'bible-ot'  ]
+    categories: [ 'bible-ot' ]
 
   -
     title: 'Exodus'
@@ -105,7 +105,7 @@ projects:
     identifier: 'exo'
     sort: 2
     path: './02-EXO.usfm'
-    categories: [ 'bible-ot'  ]
+    categories: [ 'bible-ot' ]
 
   -
     title: 'Leviticus'

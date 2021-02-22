@@ -54,12 +54,12 @@ dublin_core:
   description: "An open-licensed update of the ASV, intended to provide a ‘form-centric’ understanding of the Bible. It increases the translator's understanding of the lexical and grammatical composition of the underlying text by adhering closely to the word order and structure of the originals."
   format: 'text/usfm3'
   identifier: 'ult'
-  issued: '2021-02-17'
+  issued: '2021-02-22'
   language:
     direction: 'ltr'
     identifier: 'en'
     title: 'English'
-  modified: '2021-02-17'
+  modified: '2021-02-22'
   publisher: 'unfoldingWord'
   relation:
     - 'en/tw'
@@ -72,17 +72,17 @@ dublin_core:
       language: 'en'
       version: '1901'
     -
+      identifier: 'uhb'
+      language: 'hbo'
+      version: '2.1.17'
+    -
       identifier: 'ugnt'
       language: 'el-x-koine'
       version: '0.18'
-    -
-      identifier: 'uhb'
-      language: 'hbo'
-      version: '2.1.16'
   subject: 'Aligned Bible'
   title: 'unfoldingWord® Literal Text'
   type: 'bundle'
-  version: '21'
+  version: '23'
 
 checking:
   checking_entity:

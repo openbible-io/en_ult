@@ -98,12 +98,6 @@ Both Biblical Hebrew and Koiné Greek utilize different word forms to indicate g
 
 The ULT should retain the engendered language of Hebrew/Aramaic/Greek terms as much as possible. However, a notable exception to this rule concerns the translation of masculine participles (that is, verbal nouns and/or verbal adjectives) which actually refer to both men and women together; those terms can be translated without specifying gender.
 
-Some other general translation guidelines specifically for the English ULT include:
-
-* The ULT should follow formal American English usage, using “**that**” without a comma before restrictive relative clauses and “**which**” after a comma before non-restrictive clauses. British and informal American usage are more flexible about this, often saying “which” without a comma before restrictive relative clauses (which is ambiguous). The ULT should make clear whether a relative clause is restrictive or non-restrictive, using the above principle.
-* In speech introductions that use two verbs instead of one such as, “**he answered and said**,” retain this formula in the ULT. This will provide a model for languages which also separate the mode of speech from the act of speech, as does Biblical Hebrew and (often) Koiné Greek. In the UST, however, only one verb should be used in these cases.
-* When selecting a translation gloss to render an OrigL verb, mimic the formal verbal concept as much as possible. Any idiomatic or metaphorical use of the verbal concept will be included or explained in either the UST or UTN.
-
 ### Translation Glossary for the ULT
 
 A list of decisions as to how to translate some senses of the OrigL words and phrases into another language is called a Translation Glossary (TG). Such a device is especially useful when more than one person works on the same project, because it helps keep everyone using the same English terms. However, a TG cannot be foolproof, because the source will often use some words to signal more than one sense, depending on context. A TG is therefore a glossary of **word senses**, not a glossary of **words**. Check back often to this page, because this TG is likely to develop for the entire life of the unfoldingWord project.
@@ -117,6 +111,10 @@ Preferred English renderings for the ULT appear in bold type.
 * *Hand* indicating power or possession: keep this metaphor in the ULT.
 * Sentence-initial or preverbal *and* of the type, “And Joseph said,” “And it came about,” etc.: these should be rendered in English somehow, usually as the conjunction “**and**.” However, a different word (“**but**”, “**so**”, etc.) may be selected in rare cases, where the discourse function of the conjunction is foregrounded and the specific conjunctive meaning is so strong as to be contextually undeniable.
 * **Shall** vs. **will**: in English future expressions in general, use “**will**” instead of “shall,” e.g., “he is a prophet, and he <del>shall</del> **will** pray for you” (Gen 20:7). Note that some ASV future expressions are better updated into today’s English by using the present tense, e.g., “I shall not drink from…the fruit of the vine, until the kingdom of God shall come” (Luke 22:18) can be updated to “I **will** not drink…until the kingdom of God **comes**.” This general preference for “will” probably conforms to the instincts of most English native speakers. However, in genres such as prophecies, blessings, curses, and in other passages focusing on the expression of the speaker’s intentionality, retain the use of “shall” in the ULT. For example: “Yahweh said, **’Shall** I hide from Abraham what I am about to do…?’” (Gen 18:17); “A deliverer **shall** come to Zion;” “every mountain and hill **shall** be made low.”
+* The ULT should follow formal American English usage, using “**that**” without a comma before restrictive relative clauses and “**which**” after a comma before non-restrictive clauses. British and informal American usage are more flexible about this, often saying “which” without a comma before restrictive relative clauses (which is ambiguous). The ULT should make clear whether a relative clause is restrictive or non-restrictive, using the above principle.
+* In speech introductions that use two verbs instead of one such as, “**answering, he said**,” retain this formula in the ULT. This will provide a model for languages which also separate the mode of speech from the act of speech, as does Biblical Hebrew and (often) Koiné Greek. In the UST, however, only one verb should be used in these cases.
+* When selecting a translation gloss to render an OrigL verb, mimic the formal verbal concept as much as possible. Any idiomatic or metaphorical use of the verbal concept will be included or explained in either the UST or UTN.
+
 
 ### Translation Glossary for the Old Testament
 
@@ -158,7 +156,7 @@ Preferred English renderings for the ULT appear in bold type.
 
 * *nomikos* “**expert in the Jewish law**”
 * *grammateus* “**scribe**”
-* *egeneto de*, *kai egeneto* “**It came about**” (See: “Sentence-initial or preverbal *and*” above).
+* *egeneto de*, *kai egeneto* “**It happened that**” without a following comma (See: “Sentence-initial or preverbal *and*” above).
 * *idou* This term is normally rendered as “**behold**” unless the context indicates that a more colloquial meaning is appropriate, such as “**look**,” “**see**,” “**see here**,” or something else to indicate that what immediately follows in the text is prominent.
 * *anthropos* (ASV: man, men) When referring to humanity in general, use “**mankind**.”
 * *Messiah* This term sometimes appears in the NT in transliterated Greek. In this case, this term should be translated, “**Messiah**.”

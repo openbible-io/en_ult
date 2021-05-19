@@ -40,25 +40,7 @@ One specific way in which the ULT and UST are complementary tools concerns the s
 
 ### Examples
 
-#### Grammatical Forms
-
-Luke 2:47 (ULT) reproduces a grammatical form from the Greek source language that is natural in English but might not be natural in other languages. When talking about the boy Jesus at the temple, the ULT reads, “All who heard him were amazed at his understanding and his answers.” The nouns “understanding” and “answers” refer to events, not things, and so must be translated as verbs in many languages.
-The UST of the same verse gives an example of how these nouns can be translated as verbs. It says, “All the people who heard what he said were amazed at how much he understood and how well he answered the questions that the teachers asked.”
-
-When editing or translating the ULT, however, nouns should be retained as nouns if that will make sense in the target language.
-
-#### Idioms
-
-Matthew 2:20 (ULT) reproduces an idiom from the Greek source language. It refers to Herod and his soldiers who were trying to kill the child Jesus as, “those who sought the child’s life.” In some languages this is clear, but in other languages it is not.
-
-The UST of the same verse tries to make the meaning clear by translating this idiom as, “the people who were trying to kill the child.” When editing or translating the ULT, however, this idiom should be retained as it is, so that the Other Language translator can consider it and use it if it makes sense. The UST and the UTN should always provide the meaning.
-
-#### Figures of Speech
-
-John 1:17 (ULT) reproduces a figure of speech from the Greek source language. It says, “grace and truth came through Jesus Christ.” (This figure of speech is called “personification.”) This figure of speech talks as if grace and truth were like people who can come and go, and it talks as if Jesus Christ were like a doorway that they can come through. In some languages this makes sense, but in other languages it does not. The plain meaning is that Jesus Christ acted toward us with grace and taught us true things about God.
-
-The UST of the same verse tries to make this plain meaning clear by translating it as, “Jesus Christ was kind to us far beyond what we deserved and taught us true things about God.”
-When translating the ULT, however, this figure of speech should be retained as it is, so that the OL translator can consider it and use it if it makes sense. If it does not, the UST should provide an alternative way to translate it.
+For examples see `Examples <https://gl-manual.readthedocs.io/en/latest/gl_translation.html#examples>`_
 
 ### The ULT Contrasted with the UST
 

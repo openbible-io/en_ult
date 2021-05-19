@@ -45,33 +45,12 @@ For examples see the [Examples](https://gl-manual.readthedocs.io/en/latest/gl_tr
 
 ### The ULT Contrasted with the UST
 
-The unfoldingWord® Literal Text (ULT) seeks to represent the language **forms** of the original in a way that also makes sense in English (or other Gateway Languages). The unfoldingWord® Simplified Text (UST) seeks to represent the **plain meaning** of the original Bible text. This means that:
-
-* the ULT reflects better than the UST the grammatical structures of the biblical languages.
-* the ULT reflects better than the UST the parts of speech of the biblical languages. The ULT, for example, will seek to use nouns where the original uses nouns, adjectives where the original uses adjectives, and so forth.
-* the ULT should reproduce the form of the logical connections in the biblical languages. For example, the ULT will read, *the righteousness of faith*, even though the logical relationship between *righteousness* and *faith* is not further specified. (Is it the righteousness that comes by faith? Is it the righteousness that vindicates faith?) All that *the righteousness of faith* explicitly signals is: that there is some close association in the text between *righteousness* and *faith*; and that we can probably rule out **a number of** conceivable logical relationships between the two concepts, but not **all** possible relationships (as the foregoing example illustrates). In contrast, the UST will choose the one logical relationship that seems most likely.
-* the ULT should reproduce the linear succession of ideas found in the original languages, even when English may prefer a different arrangement of the same ideas.
-* the ULT should not present information that is only **implied** in the original. For example, in Matt. 26:5 *For they were saying, “Not during the feast, so that a riot does not arise among the people.”* the implied information is, “Let us not arrest Jesus [during the feast].” The ULT will not overtly represent this implied information, while the UST will include it.
-* the ULT should reflect as much as reasonably possible the written style of the original. It reads, for example, “Paul…to Timothy…” instead of the preferred (in English), “Dear Timothy, [new paragraph] this is Paul.”
-* the ULT should depart from closely representing the structures of the original only when it must do so for the sake of clarity in English.
-* the ULT is not meant to be a refined, polished English version. It is meant to present the structure of the original in a way that is as meaningful as possible, so that it can, in turn, be translated into other languages.
-* even when the ULT is ambiguous or not entirely clear (as is often true of the original), **the ULT must never promote to the MTT an incorrect meaning**.
+See the [The ULT Contrasted with the UST](https://gl-manual.readthedocs.io/en/latest/gl_translation.html#the-ult-contrasted-with-the-ust) in the Gateway Language Manual.
 
 ## Editing the ULT
 
-Here are some guidelines for composing or editing biblical text in the ULT:
+See [Specific Editing Guidelines for the ULT](https://gl-manual.readthedocs.io/en/latest/gl_guidelines.html#specific-editing-guidelines-for-the-ult) in the Gateway Language Manual.
 
-* Only use quotation marks at the beginning and ending of direct speech. Do not put quotation marks at the beginning of each verse, even though the speech may span several verses.
-* Do not use contractions.
-* Punctuation marks go inside the quote marks.
-* Capitalization: in general, follow the practice of the 2011 NIV. Exception: the word “law” will not be capitalized except in the rare title, “the Book of the Law.”
-* All pronouns are lower case (even when referring to God) except when a pronoun begins a sentence. Of course, the first person singular (“I”) is always capitalized.
-* Proper titles should be capitalized (Son of Man, King David, the Messiah).
-* Retain the grammatical parts of the speech and syntactic expressions of the OrigL as much as is understandable in the GL. The ULT should complement the UST rather than be similar to it.
-* Use vocabulary and phrases that differ from the UST as much as possible. The complementary tools fail to help the MTT when they are the same.
-* Where possible, use common vocabulary that is easy to translate into another language.
-* Spell out numbers up to and including ten (e.g., one, two…). For numbers larger than ten, use numerals (e.g., 11, 12…).
-* As a general rule, the English ULT uses far demonstrative pronouns (“that, those”) when referring backward in the text, and near demonstrative pronouns (“this, these”) when referring forward in the text. However, there are occasional exceptions to this rule, usually for the sake of naturalness in the English rendering.
 
 ## Translating the ULT from the Original Language (OrigL)
 
@@ -83,86 +62,34 @@ The ULT should retain the engendered language of Hebrew/Aramaic/Greek terms as m
 
 ### Translation Glossary for the ULT
 
-A list of decisions as to how to translate some senses of the OrigL words and phrases into another language is called a Translation Glossary (TG). Such a device is especially useful when more than one person works on the same project, because it helps keep everyone using the same English terms. However, a TG cannot be foolproof, because the source will often use some words to signal more than one sense, depending on context. A TG is therefore a glossary of **word senses**, not a glossary of **words**. Check back often to this page, because this TG is likely to develop for the entire life of the unfoldingWord project.
-
-NOTE: Occasionally, the TG’s specified translation will not be suitable. As always, the text editors must remain in control of the decision-making process. The TG is to guide you as much as is possible. If you must depart from the TG guidelines, do so and insert a Translation Note to explain the meaning.
-
-Preferred English renderings for the ULT appear in bold type.
-
-* *brethren* should be updated to **brothers**. When both genders are indicated by the context, a note from the Notes team should be expected to appear to that effect. Do not replace the ULT text with “brothers and sisters.”
-* *Call* in the formula of the type, “he shall be called the Son of the Most High” (Luke 1:32): keep this formula in the ULT, but be aware of the metaphor that is operative here: in this verse, Jesus will not only be *called the Son of the Most High*, but he will be the Son of the Most High.
-* *Hand* indicating power or possession: keep this metaphor in the ULT.
-* Sentence-initial or preverbal *and* of the type, “And Joseph said,” “And it came about,” etc.: these should be rendered in English somehow, usually as the conjunction “**and**.” However, a different word (“**but**”, “**so**”, etc.) may be selected in rare cases, where the discourse function of the conjunction is foregrounded and the specific conjunctive meaning is so strong as to be contextually undeniable.
-* **Shall** vs. **will**: in English future expressions in general, use “**will**” instead of “shall,” e.g., “he is a prophet, and he <del>shall</del> **will** pray for you” (Gen 20:7). Note that some ASV future expressions are better updated into today’s English by using the present tense, e.g., “I shall not drink from…the fruit of the vine, until the kingdom of God shall come” (Luke 22:18) can be updated to “I **will** not drink…until the kingdom of God **comes**.” This general preference for “will” probably conforms to the instincts of most English native speakers. However, in genres such as prophecies, blessings, curses, and in other passages focusing on the expression of the speaker’s intentionality, retain the use of “shall” in the ULT. For example: “Yahweh said, **’Shall** I hide from Abraham what I am about to do…?’” (Gen 18:17); “A deliverer **shall** come to Zion;” “every mountain and hill **shall** be made low.”
-* The ULT should follow formal American English usage, using “**that**” without a comma before restrictive relative clauses and “**which**” after a comma before non-restrictive clauses. British and informal American usage are more flexible about this, often saying “which” without a comma before restrictive relative clauses (which is ambiguous). The ULT should make clear whether a relative clause is restrictive or non-restrictive, using the above principle.
-* In speech introductions that use two verbs instead of one such as, “**answering, he said**,” retain this formula in the ULT. This will provide a model for languages which also separate the mode of speech from the act of speech, as does Biblical Hebrew and (often) Koiné Greek. In the UST, however, only one verb should be used in these cases.
-* When selecting a translation gloss to render an OrigL verb, mimic the formal verbal concept as much as possible. Any idiomatic or metaphorical use of the verbal concept will be included or explained in either the UST or UTN.
+See the [Combined ULT-UST Translation Glossary](https://gl-manual.readthedocs.io/en/latest/gl_guidelines.html#combined-ult-ust-translation-glossary) in the Gateway Language Manual.
 
 
 ### Translation Glossary for the Old Testament
 
-* *adam* (ASV: man, men) When referring to humanity in general, use “**mankind**.”
-* *’af* should be rendered “**nose**” when it appears in the singular form and **nostrils** when it appears in the dual form.
-* *’al* (עַל) When used causatively, this preposition should be rendered “**on account of**” to differentiate it from the causative use of מִן. When used quatitatively, this preposition should be rendered “**in accordance with**” to differentiate it from the quantitative use of כְּ. However, these are only general principles. The specific translation gloss used should always be determined by the specific context.
-* *Ark of the Covenant* – The ULT will use the word “**Box**” (“Box of the Testimony” in Exodus, “Box of the Covenant of Yahweh” in Joshua, etc.), and the UST will use the term “**sacred chest**.”
-* *be* (בְּ) As a general rule, this preposition should usually be rendered as “**in**,” “**at**,” or “**by**.” However, the specific translation gloss used should always be determined by the specific context.
-* *ben, beney* as in “son of a night” or “sons of Israel” or “sons of God” should remain as “**son**” or “**sons**.”
-* construct phrases – It is preferable for Hebrew and Aramaic construct phrases to be rendered as “**[construct noun] of [abstract noun]**” as much as possible to be understandable in English. Some notable exceptions to this rule include phrases that use the construct form of כֹּל or כָּל, construct phrases that include numerals, and phrases where the absolute noun functions adjectivally. If using the standard “of” construction is not understandable in English, often the next best alternative is to render the absolute noun as an attributive adjective. For example, in Lev 2:2 the phrase קֹ֥דֶשׁ קָֽדָשִׁ֖ים is rendered as “holiest holy thing” in the ULT.
-* *’ebed* (עֶבֶד) This term can be rendered as “**servant**” or “**slave**” or whichever English term(s) best fits the specific context.
-* Expressions of the type, “**he knew his wife**” or “**he went into his wife**” should be reproduced as is. The context makes their meaning clear.
-* *herem* This concept should be translated according to what it appears to mean locally in its immediate context. This might include either the concept of a **“ban”** or the concept of **“complete destruction”**, etc.
-* *hesed* should be translated as “**covenant faithfulness**” except in cases where the context is clear that a different meaning is warranted.
-* *hinneh* This term is normally rendered as “**behold**” unless the context indicates that a more colloquial meaning is appropriate, such as “**look**,” “**see**,” “**see here**,” or something else to indicate that what immediately follows in the text is prominent.
-* Hiphil stem – This form of the verb shouls be rendered explicitly as causative (“**cause to…**” or “**made to…**”) if possible, unless a suitable English verb can be used that implies the causative action. For example, the English verbs “**bring**” or “**take**” are acceptable for the Hiphil of **בּוֹא** (“to cause to come” or “to cause to go”).
-* horns – The Hebrew terms for the various kinds of horns should be rendered as follows: *qeren* = “**horn**;” *shofar* = “**horn**” (“long horn” or “large horn” in UST); *hatzotzerah* = “**trumpet**.” The term *shofar* should never be translated as “trumpet.”
-* *kal*/*kol* It is more preferable for this term to be rendered as “**all**” or “**every**” or “**whole**” than as “any” or “each”.
-* *kapporeth* (כַּפֹּרֶת) “**atonement lid**”
-* *ke* (כְּ) When used quantitatively, this preposition should be rendered “**according to**” to differentiate it from the quantitative use of עַל. However, this is only a general principle. The specific translation gloss used should always be determined by the specific context.
-* *koh ’amar yhwh* (כֹּה אָמַר יהוה) “**Thus says Yahweh**”
-* *lifney* (לִפְנֵי) This should be rendered as a phrase and not as a single preposition, usually either “**to the face of**” or “**before the face of**,” etc.
-* *Meshiach* “**Messiah**” (almost always, “**the Messiah**,” since “Messiah” is a title)
-* *min* (מִן) When used causatively, this preposition should be rendered “**because of**.” However, this is only a general principle. The specific translation gloss used should always be determined by the specific context.
-* *mishpat* (מִשְׁפָּט) should be rendered “**judgments**” wherever possible, because it is the derivative noun of שׁפט (to judge). However, in instances where it clearly does not mean “judgments”, then the English term “**ordinance**” should be used when referring to a religious rule, and another word such as “**regulation**” when referring to a more civil or legal rule.
-* *na’* This Hebrew particle (נָא) must be translated on a case-by-case basis and always with great sensitivity to the specific context of the speech in which it occurs. The term often means something like, “I know/fear that you don’t want to do what I am about to tell/ask you to do, but I want you to do it anyway.” There is no direct translational equivalent for this term in English, but some general guidelines are as follows. When the particle appears with a verb in the context of a request made by a person of inferior position to a person of superior position, it can be translated as “please.” But the particle also occurs often in situations where a person of superior position gives a command to a person of inferior position, and in these cases the particle must be rendered in accordance with the interpretation of the specific context. Many instances of the particle occur in contexts where translating the particle as a separate word in English may import too much meaning into the English rendering. Because this particle is an emotive word in Hebrew, in cases like these one might use an exclamation point at the end of the specific clause in order to reflect in the English translation the emotion intended by the use of the particle. It is also acceptable to leave the particle untranslated if translating it would change the meaning from the Hebrew too much.
-* *ne’um yhwh* (נְאֻם יהוה) “**the declaration of Yahweh**” or “**This is the declaration of Yahweh**”
-* *nephesh* () It is preferable for this term to be rendered as “**spirit**” or “**life**” rather than “**soul**,” except in cases where the specific context demands it.
-* Niphal stem – This form of the verb should be rendered according to the sense of each individual context, usually as a **passive**, **reflexive**, or **stative**.
-* numerals – Retain the Hebrew use of ordinal and cardinal numbers as much as possible, except in cases where it makes the English rendering unable to be understood. In these cases, use standard English convention for ordinal and cardinal numerals.
-* participles – Hebrew definite participles should be rendered as “**the ones who…**” if possible, unless it makes the English reading too awkward or unable to be understood. Retain the verbal sense of the participle (“**those who live**”) rather than making it a noun (“inhabitants”) wherever possible.
-* pleonasms – There are many instances where Hebrew convention repeats a referent (especially in relative phrases) that has already been stipulated earlier in the sentence. For example, a very literal rendering of the relative phrase in Ruth 2:19 would read, “…the man whom she had worked with **him**…”. The term “him” is redundant in English and should be omitted in the ULT rendering. Instead, this phrase should read, “…the man with whom she had worked…” in accordance with standard English convention.
-* *tebah* should remain as “**ark**”
-* *tzara’at* (צָרַעַת) should be rendered as “**skin disease**” (not “leprosy”)
-* *wayehi* “**[conjunction] it came about,**” “**[conjunction] it happened…**”
-* *YHWH* **Yahweh** (The ASV uses “Jehovah,” but it should be changed to “Yahweh” in the ULT.)
+See the [Translation Glossary for the Old Testament](https://gl-manual.readthedocs.io/en/latest/gl_guidelines.html#translation-glossary-for-the-old-testament) in the Gateway Language Manual.
+
 
 ### Translation Glossary for the New Testament
 
-* *nomikos* “**expert in the Jewish law**”
-* *grammateus* “**scribe**”
-* *egeneto de*, *kai egeneto* “**It happened that**” without a following comma (See: “Sentence-initial or preverbal *and*” above).
-* *idou* This term is normally rendered as “**behold**” unless the context indicates that a more colloquial meaning is appropriate, such as “**look**,” “**see**,” “**see here**,” or something else to indicate that what immediately follows in the text is prominent.
-* *anthropos* (ASV: man, men) When referring to humanity in general, use “**mankind**.”
-* *Messiah* This term sometimes appears in the NT in transliterated Greek. In this case, this term should be translated, “**Messiah**.”
-* *Xristos* “**Christ**” or “**the Christ**” (the definite article is appropriate if the term is being clearly used as a title; Paul often seems to use *Xristos* as a second name for Jesus, but at times he clearly uses it as a title).
-* *euangelion* **gospel** will be used in most cases in the ULT, while the UST will use “good news.”
-* *hagioi* When referring to people, “**saints**.” When referring to heavenly beings, “**holy ones**.”
+See the [Translation Glossary for the New Testament](https://gl-manual.readthedocs.io/en/latest/gl_guidelines.html#translation-glossary-for-the-new-testament) in the Gateway Language Manual.
+
 
 ### Notes About Making a “Literal” Translation
 
-1. It is not possible to maintain a strict one-for-one correspondence between words in translation. One word from the source language may require a phrase for its translation in the target language, and vice-versa.
-2. Even though the ULT is a “literal” text, that does not mean that every word from the OrigL will be translated in the same way each time it occurs. The ULT always seeks to use the most correct meaning for a word in its context, using whatever English word or phrase is closest to that meaning.
-3. Both Greek and Hebrew can make a sentence without using a verb, while English cannot. For the ULT to make sense, the verb should always be supplied (usually “is”).
-4. Greek makes abundant use of participial clauses. For the English of the ULT to make sense, often this must be changed to either a relative or adverbial clause.
-5. The general rule is, retain the structures of the OrigL unless English sense does not allow it. If not, make the necessary adjustments.
-6. If the King James Version, the New American Standard Version, or the English Standard Version are more literal than the ULT, then we still have more work to do.
+See the [Notes About Making a “Literal” Translation](https://gl-manual.readthedocs.io/en/latest/gl_translation.html?highlight=literal%20translation#notes-about-making-a-literal-translation) section in the Gateway Language Manual.
+
 
 ## Aligning the ULT
+
 
 In the tC (translationCore) Word Alignment tool, the English chapters and verses are listed down the left side. When you click on a verse to open it, the words of that verse appear in a vertical list, ordered from top to bottom, just to the right of the list of chapters and verses. Each word is in a separate box.
 
 The words of the OrigL (Hebrew, Aramaic, or Greek) text for that verse are also in separate boxes in a field to the right of the English word list. There is a space under each of the source word boxes outlined with a dotted line.
 
+
 ### Alignment Process for the ULT
+
 
 To align the English text:
 
@@ -183,6 +110,7 @@ translationCore supports one-to-one, one-to-many, many-to-one, and many-to-many 
 * The OrigL words should remain in the proper order. If the merge contains 3 or more OrigL words, unmerge either the leftmost or rightmost OrigL word first. Un-merging the center word(s) first may result in the OrigL words becoming out of order. If that happens, unmerge the remaining words in that box to properly return the OrigL words to their original order.
 
 ### Alignment Philosophy for the ULT
+
 
 Because English has different requirements for sentence structure and the amount of explicit information that must be provided, there is often not a one-to-one correspondence between an OrigL word and an English word. In these cases, the English words that are provided should be aligned with the OrigL word that implies them.
 

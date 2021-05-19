@@ -40,7 +40,8 @@ One specific way in which the ULT and UST are complementary tools concerns the s
 
 ### Examples
 
-For examples see `Examples<https://gl-manual.readthedocs.io/en/latest/gl_translation.html#examples>`_
+For examples see 
+Examples `<https://gl-manual.readthedocs.io/en/latest/gl_translation.html#examples>`_
 
 ### The ULT Contrasted with the UST
 

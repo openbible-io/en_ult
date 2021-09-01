@@ -1,6 +1,6 @@
 <img src="https://cdn.door43.org/assets/uw-icons/logo-ult-256.png" alt="drawing" width="100"/>
 
-# unfoldingWord® Literal Text - English
+# unfoldingWord® Literal Text—English
 
 *an unrestricted literal version of the Bible intended for translation into any language as a tool for use by Bible translators*
 

@@ -25281,7 +25281,7 @@
 \w yourself|x-occurrence="1" x-occurrences="2"\w*
 \w said|x-occurrence="1" x-occurrences="1"\w*
 \w to|x-occurrence="1" x-occurrences="1"\w*
-\w me|x-occurrence="1" x-occurrences="1"\w*, “\w Purchase|x-occurrence="1" x-occurrences="1"\w*
+\w me|x-occurrence="1" x-occurrences="1"\w*, ‘\w Purchase|x-occurrence="1" x-occurrences="1"\w*
 \w a|x-occurrence="1" x-occurrences="1"\w*
 \w field|x-occurrence="1" x-occurrences="1"\w*
 \w for|x-occurrence="1" x-occurrences="1"\w*
@@ -25305,7 +25305,7 @@
 \w hand|x-occurrence="1" x-occurrences="1"\w*
 \w of|x-occurrence="1" x-occurrences="1"\w*
 \w the|x-occurrence="2" x-occurrences="2"\w*
-\w Chaldeans|x-occurrence="1" x-occurrences="1"\w*.”
+\w Chaldeans|x-occurrence="1" x-occurrences="1"\w*.’”
 
 \ts\*
 \p
@@ -38347,11 +38347,11 @@
 \w will|x-occurrence="3" x-occurrences="3"\w*
 \w shout|x-occurrence="1" x-occurrences="1"\w*
 \w to|x-occurrence="1" x-occurrences="1"\w*
-\w them|x-occurrence="2" x-occurrences="2"\w*, “\w Terror|x-occurrence="1" x-occurrences="1"\w*
+\w them|x-occurrence="2" x-occurrences="2"\w*, ‘\w Terror|x-occurrence="1" x-occurrences="1"\w*
 \w is|x-occurrence="1" x-occurrences="1"\w*
 \w on|x-occurrence="1" x-occurrences="1"\w*
 \w every|x-occurrence="1" x-occurrences="1"\w*
-\w side|x-occurrence="1" x-occurrences="1"\w*!”
+\w side|x-occurrence="1" x-occurrences="1"\w*!’
 
 \ts\*
 \q

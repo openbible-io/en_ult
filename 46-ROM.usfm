@@ -1,4 +1,4 @@
-\id ROM EN_ULT en_English_ltr Sat Nov 26 2022 14:14:13 GMT-0500 (Eastern Standard Time) tc
+\id ROM EN_ULT en_English_ltr Fri Dec 02 2022 14:22:28 GMT-0500 (Eastern Standard Time) tc
 \usfm 3.0
 \ide UTF-8
 \h Romans
@@ -1457,9 +1457,7 @@
 \w as|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*
 \zaln-s |x-strong="G11250" x-lemma="γράφω" x-morph="Gr,V,IEP3,,S," x-occurrence="1" x-occurrences="1" x-content="γέγραπται"\*\w it|x-occurrence="2" x-occurrences="2"\w*
 \w is|x-occurrence="1" x-occurrences="1"\w*
-\w written|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*,
-\q1
-“\zaln-s |x-strong="G37040" x-lemma="ὅπως" x-morph="Gr,CS,,,,,,,," x-occurrence="1" x-occurrences="1" x-content="ὅπως"\*\w So|x-occurrence="1" x-occurrences="1"\w*
+\w written|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*, “\zaln-s |x-strong="G37040" x-lemma="ὅπως" x-morph="Gr,CS,,,,,,,," x-occurrence="1" x-occurrences="1" x-content="ὅπως"\*\w So|x-occurrence="1" x-occurrences="1"\w*
 \w that|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*
 \zaln-s |x-strong="G03020" x-lemma="ἄν" x-morph="Gr,T,,,,,,,,," x-occurrence="1" x-occurrences="1" x-content="ἂν"\*\zaln-s |x-strong="G13440" x-lemma="δικαιόω" x-morph="Gr,V,SAP2,,S," x-occurrence="1" x-occurrences="1" x-content="δικαιωθῇς"\*\w you|x-occurrence="1" x-occurrences="3"\w*
 \w might|x-occurrence="1" x-occurrences="1"\w*
@@ -1468,7 +1466,6 @@
 \zaln-s |x-strong="G17220" x-lemma="ἐν" x-morph="Gr,P,,,,,D,,," x-occurrence="1" x-occurrences="2" x-content="ἐν"\*\w in|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*
 \zaln-s |x-strong="G47710" x-lemma="σύ" x-morph="Gr,RP,,,2G,S," x-occurrence="1" x-occurrences="1" x-content="σου"\*\w your|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*
 \zaln-s |x-strong="G35880" x-lemma="ὁ" x-morph="Gr,EA,,,,DMP," x-occurrence="1" x-occurrences="1" x-content="τοῖς"\*\zaln-s |x-strong="G30560" x-lemma="λόγος" x-morph="Gr,N,,,,,DMP," x-occurrence="1" x-occurrences="1" x-content="λόγοις"\*\w words|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*\zaln-e\*
-\q1
 \zaln-s |x-strong="G25320" x-lemma="καί" x-morph="Gr,CC,,,,,,,," x-occurrence="1" x-occurrences="1" x-content="καὶ"\*\w and|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*
 \zaln-s |x-strong="G35280" x-lemma="νικάω" x-morph="Gr,V,IFA2,,S," x-occurrence="1" x-occurrences="1" x-content="νικήσεις"\*\w you|x-occurrence="2" x-occurrences="3"\w*
 \w will|x-occurrence="1" x-occurrences="1"\w*
@@ -2862,8 +2859,8 @@
 \zaln-s |x-strong="G02660" x-lemma="ἁμαρτία" x-morph="Gr,N,,,,,NFS," x-occurrence="2" x-occurrences="2" x-content="ἁμαρτία"\*\w sin|x-occurrence="2" x-occurrences="2"\w*\zaln-e\*
 \zaln-s |x-strong="G16770" x-lemma="ἐλλογέω" x-morph="Gr,V,IPP3,,S," x-occurrence="1" x-occurrences="1" x-content="ἐλλογεῖται"\*\w is|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*
 \zaln-s |x-strong="G37560" x-lemma="οὐ" x-morph="Gr,D,,,,,,,,," x-occurrence="1" x-occurrences="1" x-content="οὐκ"\*\w not|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*
-\zaln-s |x-strong="G16770" x-lemma="ἐλλογέω" x-morph="Gr,V,IPP3,,S," x-occurrence="1" x-occurrences="1" x-content="ἐλλογεῖται"\*\w charged|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*,
-\zaln-s |x-strong="G15100" x-lemma="εἰμί" x-morph="Gr,V,PPA,GMS," x-occurrence="1" x-occurrences="1" x-content="ὄντος"\*\w being|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*
+\zaln-s |x-strong="G16770" x-lemma="ἐλλογέω" x-morph="Gr,V,IPP3,,S," x-occurrence="1" x-occurrences="1" x-content="ἐλλογεῖται"\*\w charged|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*, {\zaln-s |x-strong="G15100" x-lemma="εἰμί" x-morph="Gr,V,PPA,GMS," x-occurrence="1" x-occurrences="1" x-content="ὄντος"\*\w there|x-occurrence="1" x-occurrences="1"\w*}
+\w being|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*
 \zaln-s |x-strong="G33610" x-lemma="μή" x-morph="Gr,D,,,,,,,,," x-occurrence="1" x-occurrences="1" x-content="μὴ"\*\w no|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*
 \zaln-s |x-strong="G35510" x-lemma="νόμος" x-morph="Gr,N,,,,,GMS," x-occurrence="2" x-occurrences="2" x-content="νόμου"\*\w law|x-occurrence="2" x-occurrences="2"\w*\zaln-e\*.
 

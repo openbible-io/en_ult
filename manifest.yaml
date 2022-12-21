@@ -5,7 +5,7 @@ dublin_core:
     - Scott Bayer
     - 'Larry T Brooks, M.Div., Assemblies of God Theological Seminary'
     - Matt Carlton
-    - "George â\x80\x9CDrewâ\x80\x9D Curley, M.Div., PhD, Professor of Biblical Languages"
+    - "George &#65533;\x80\x9CDrew&#65533;\x80\x9D Curley, M.Div., PhD, Professor of Biblical Languages"
     - Dan Dennison
     - Jamie Duguid
     - >-
@@ -50,7 +50,7 @@ dublin_core:
     - 'David Trombold, M. Div.'
     - 'Aaron Valdizan, M.Div., Th.M. in Old Testament, The Masters Seminary'
     - James Vigen
-    - "Hendrik â\x80\x9CHenryâ\x80\x9D de Vries"
+    - "Hendrik &#65533;\x80\x9CHenry&#65533;\x80\x9D de Vries"
     - >-
       Thomas Warren, M.Div., Trinity Evangelical Divinity School, D.Min,
       Reformed Theological Seminary
@@ -60,15 +60,15 @@ dublin_core:
     - 'Grant Ailie, BA Biblical Studies, M.Div.'
     - Door43 World Missions Community
   creator: unfoldingWord
-  description: "An open-licensed update of the ASV, intended to provide a â\x80\x98form-centricâ\x80\x99 understanding of the Bible. It increases the translator's understanding of the lexical and grammatical composition of the underlying text by adhering closely to the word order and structure of the originals."
+  description: "An open-licensed update of the ASV, intended to provide a &#65533;\x80\x98form-centric&#65533;\x80\x99 understanding of the Bible. It increases the translator's understanding of the lexical and grammatical composition of the underlying text by adhering closely to the word order and structure of the originals."
   format: text/usfm3
   identifier: ult
-  issued: '2022-12-20'
+  issued: '2022-12-21'
   language:
     direction: ltr
     identifier: en
     title: English
-  modified: '2022-12-20'
+  modified: '2022-12-21'
   publisher: unfoldingWord
   relation:
     - en/tw?v=36
@@ -89,11 +89,11 @@ dublin_core:
       version: '0.26'
     - identifier: ult
       language: en
-      version: '41'
+      version: '42'
   subject: Aligned Bible
-  title: unfoldingWordÂ® Literal Text
+  title: unfoldingWord® Literal Text
   type: bundle
-  version: '42'
+  version: '43'
 checking:
   checking_entity:
     - unfoldingWord

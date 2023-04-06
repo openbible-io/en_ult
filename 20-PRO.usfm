@@ -1,4 +1,4 @@
-\id PRO EN_ULT en_English_ltr Wed Apr 05 2023 15:06:12 GMT-0700 (Pacific Daylight Time) tc
+\id PRO EN_ULT en_English_ltr Thu Apr 06 2023 16:50:45 GMT-0700 (Pacific Daylight Time) tc
 \usfm 3.0
 \ide UTF-8
 \h Proverbs
@@ -3962,7 +3962,8 @@
 \w out|x-occurrence="1" x-occurrences="2"\w*\zaln-e\*
 \zaln-s |x-strong="H5291" x-lemma="נַעֲרָה" x-morph="He,Ncfpc:Sp3fs" x-occurrence="1" x-occurrences="1" x-content="נַעֲרֹתֶ֣י⁠הָ"\*\w her|x-occurrence="1" x-occurrences="1"\w*
 \w young|x-occurrence="1" x-occurrences="1"\w*
-\w maids|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*,
+\w female|x-occurrence="1" x-occurrences="1"\w*
+\w attendants|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*,
 \q \zaln-s |x-strong="H7121" x-lemma="קָרָא" x-morph="He,Vqi3fs" x-occurrence="1" x-occurrences="1" x-content="תִקְרָ֑א"\*\w she|x-occurrence="1" x-occurrences="1"\w*
 \w calls|x-occurrence="1" x-occurrences="1"\w*
 \w out|x-occurrence="2" x-occurrences="2"\w*\zaln-e\*
@@ -4206,14 +4207,14 @@
 \w the|x-occurrence="2" x-occurrences="3"\w*
 \w dead|x-occurrence="1" x-occurrences="1"\w*\zaln-e\* {\zaln-s |x-strong="H8033" x-lemma="שָׁם" x-morph="He,D" x-occurrence="1" x-occurrences="1" x-content="שָׁ֑ם"\*\w are|x-occurrence="1" x-occurrences="2"\w*}
 \w there|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*;
-\q \zaln-s |x-strong="H7121" x-lemma="קָרָא" x-morph="He,Vqsmpc:Sp3fs" x-occurrence="1" x-occurrences="1" x-content="קְרֻאֶֽי⁠הָ"\*\w her|x-occurrence="1" x-occurrences="1"\w*
-\w called|x-occurrence="1" x-occurrences="1"\w*
-\w ones|x-occurrence="1" x-occurrences="1"\w*\zaln-e\* {\zaln-s |x-strong="b:H6012" x-lemma="עָמֵק" x-morph="He,R:Ncmpc" x-occurrence="1" x-occurrences="1" x-content="בְּ⁠עִמְקֵ֖י"\*\w are|x-occurrence="2" x-occurrences="2"\w*}
-\w in|x-occurrence="1" x-occurrences="1"\w*
+\q \zaln-s |x-strong="b:H6012" x-lemma="עָמֵק" x-morph="He,R:Ncmpc" x-occurrence="1" x-occurrences="1" x-content="בְּ⁠עִמְקֵ֖י"\*\w in|x-occurrence="1" x-occurrences="1"\w*
 \w the|x-occurrence="3" x-occurrences="3"\w*
 \w depths|x-occurrence="1" x-occurrences="1"\w*
 \w of|x-occurrence="2" x-occurrences="2"\w*\zaln-e\*
-\zaln-s |x-strong="H7585" x-lemma="שְׁאוֹל" x-morph="He,Np" x-occurrence="1" x-occurrences="1" x-content="שְׁא֣וֹל"\*\w Sheol|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*.
+\zaln-s |x-strong="H7585" x-lemma="שְׁאוֹל" x-morph="He,Np" x-occurrence="1" x-occurrences="1" x-content="שְׁא֣וֹל"\*\w Sheol|x-occurrence="1" x-occurrences="1"\w*\zaln-e\* {\zaln-s |x-strong="b:H6012" x-lemma="עָמֵק" x-morph="He,R:Ncmpc" x-occurrence="1" x-occurrences="1" x-content="בְּ⁠עִמְקֵ֖י"\*\w are|x-occurrence="2" x-occurrences="2"\w*\zaln-e\*}
+\zaln-s |x-strong="H7121" x-lemma="קָרָא" x-morph="He,Vqsmpc:Sp3fs" x-occurrence="1" x-occurrences="1" x-content="קְרֻאֶֽי⁠הָ"\*\w her|x-occurrence="1" x-occurrences="1"\w*
+\w called|x-occurrence="1" x-occurrences="1"\w*
+\w ones|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*.
 
 \ts\*
 \c 10
@@ -13755,8 +13756,9 @@
 \w life|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*
 \zaln-s |x-strong="l:H5291" x-lemma="נַעֲרָה" x-morph="He,R:Ncfpc:Sp2ms" x-occurrence="1" x-occurrences="1" x-content="לְ⁠נַעֲרוֹתֶֽי⁠ךָ"\*\w for|x-occurrence="3" x-occurrences="3"\w*
 \w your|x-occurrence="3" x-occurrences="3"\w*
+\w young|x-occurrence="1" x-occurrences="1"\w*
 \w female|x-occurrence="2" x-occurrences="2"\w*
-\w servants|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*.
+\w attendants|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*.
 
 \ts\*
 \c 28
@@ -15697,8 +15699,9 @@
 \w decree|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*
 \zaln-s |x-strong="l:H5291" x-lemma="נַעֲרָה" x-morph="He,R:Ncfpc:Sp3fs" x-occurrence="1" x-occurrences="1" x-content="לְ⁠נַעֲרֹתֶֽי⁠הָ"\*\w to|x-occurrence="2" x-occurrences="2"\w*
 \w her|x-occurrence="2" x-occurrences="2"\w*
+\w young|x-occurrence="1" x-occurrences="1"\w*
 \w female|x-occurrence="1" x-occurrences="1"\w*
-\w servants|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*.
+\w attendants|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*.
 
 \ts\*
 \q \v 16 \zaln-s |x-strong="H2161" x-lemma="זָמַם" x-morph="He,Vqp3fs" x-occurrence="1" x-occurrences="1" x-content="זָמְמָ֣ה"\*\w She|x-occurrence="1" x-occurrences="1"\w*

@@ -245,7 +245,9 @@
 \w would|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*
 \zaln-s |x-strong="G33610" x-lemma="μή" x-morph="Gr,DO,,,,,,,," x-occurrence="1" x-occurrences="1" x-content="μὴ"\*\w not|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*
 \zaln-s |x-strong="G15100" x-lemma="εἰμί" x-morph="Gr,V,SPA1,,P," x-occurrence="1" x-occurrences="1" x-content="ὦμεν"\*\w be|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*
-\zaln-s |x-strong="G39820" x-lemma="πείθω" x-morph="Gr,V,PEA,NMP," x-occurrence="1" x-occurrences="1" x-content="πεποιθότες"\*\w trusting|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*
+\zaln-s |x-strong="G39820" x-lemma="πείθω" x-morph="Gr,V,PEA,NMP," x-occurrence="1" x-occurrences="1" x-content="πεποιθότες"\*\w having|x-occurrence="1" x-occurrences="1"\w*
+\w become|x-occurrence="1" x-occurrences="1"\w*
+\w confident|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*
 \zaln-s |x-strong="G19090" x-lemma="ἐπί" x-morph="Gr,P,,,,,D,,," x-occurrence="1" x-occurrences="1" x-content="ἐφ’"\*\w in|x-occurrence="1" x-occurrences="2"\w*\zaln-e\*
 \zaln-s |x-strong="G14380" x-lemma="ἑαυτοῦ" x-morph="Gr,RE,,,1DMP," x-occurrence="2" x-occurrences="2" x-content="ἑαυτοῖς"\*\w ourselves|x-occurrence="3" x-occurrences="3"\w*\zaln-e\*,
 \zaln-s |x-strong="G02350" x-lemma="ἀλλά" x-morph="Gr,CO,,,,,,,," x-occurrence="1" x-occurrences="1" x-content="ἀλλ’"\*\w but|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*
@@ -696,7 +698,8 @@
 \zaln-s |x-strong="G54630" x-lemma="χαίρω" x-morph="Gr,V,NPA,,,,," x-occurrence="1" x-occurrences="1" x-content="χαίρειν"\*\w to|x-occurrence="1" x-occurrences="1"\w*
 \w rejoice|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*,
 \zaln-s |x-strong="G39820" x-lemma="πείθω" x-morph="Gr,V,PEA,NMS," x-occurrence="1" x-occurrences="1" x-content="πεποιθὼς"\*\w having|x-occurrence="2" x-occurrences="2"\w*
-\w confidence|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*
+\w become|x-occurrence="1" x-occurrences="1"\w*
+\w confident|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*
 \zaln-s |x-strong="G19090" x-lemma="ἐπί" x-morph="Gr,P,,,,,A,,," x-occurrence="1" x-occurrences="1" x-content="ἐπὶ"\*\w in|x-occurrence="2" x-occurrences="2"\w*\zaln-e\*
 \zaln-s |x-strong="G39560" x-lemma="πᾶς" x-morph="Gr,RI,,,,AMP," x-occurrence="1" x-occurrences="1" x-content="πάντας"\*\w all|x-occurrence="1" x-occurrences="2"\w*\zaln-e\*
 \zaln-s |x-strong="G47710" x-lemma="σύ" x-morph="Gr,RP,,,2A,P," x-occurrence="1" x-occurrences="1" x-content="ὑμᾶς"\*\w of|x-occurrence="1" x-occurrences="3"\w*
@@ -4312,7 +4315,7 @@
 \zaln-s |x-strong="G14870" x-lemma="εἰ" x-morph="Gr,CS,,,,,,,," x-occurrence="1" x-occurrences="1" x-content="εἴ"\*\w If|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*
 \zaln-s |x-strong="G51000" x-lemma="τις" x-morph="Gr,RI,,,,NMS," x-occurrence="1" x-occurrences="1" x-content="τις"\*\w anyone|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*
 \zaln-s |x-strong="G39820" x-lemma="πείθω" x-morph="Gr,V,IEA3,,S," x-occurrence="1" x-occurrences="1" x-content="πέποιθεν"\*\w is|x-occurrence="1" x-occurrences="3"\w*
-\w convinced|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*
+\w confident|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*
 \zaln-s |x-strong="G14380" x-lemma="ἑαυτοῦ" x-morph="Gr,RE,,,3DMS," x-occurrence="1" x-occurrences="1" x-content="ἑαυτῷ"\*\w in|x-occurrence="1" x-occurrences="1"\w*
 \w himself|x-occurrence="1" x-occurrences="2"\w*\zaln-e\*
 \zaln-s |x-strong="G39820" x-lemma="πείθω" x-morph="Gr,V,IEA3,,S," x-occurrence="1" x-occurrences="1" x-content="πέποιθεν"\*\w that|x-occurrence="1" x-occurrences="2"\w*\zaln-e\*

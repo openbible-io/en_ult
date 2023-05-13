@@ -1,0 +1,20 @@
+name: Pull upstream
+on:
+  schedule:
+    - cron: '0 0 * * *'
+  workflow_dispatch:
+permissions:
+  contents: write
+
+jobs:
+  pull-upstream:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+        with:
+          ref: master
+      - name: Pull upstream
+        run: |
+          git remote add upstream 'https://git.door43.org/unfoldingWord/en_ult.git'
+          git pull --no-rebase upstream master
+          git push

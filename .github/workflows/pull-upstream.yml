@@ -13,6 +13,7 @@ jobs:
       - uses: actions/checkout@v3
         with:
           ref: master
+          fetch-depth: 10
       - name: Pull upstream
         run: |
           git remote add upstream 'https://git.door43.org/unfoldingWord/en_ult.git'

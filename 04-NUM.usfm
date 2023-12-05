@@ -1,4 +1,4 @@
-\id NUM EN_ULT en_English_ltr Fri Dec 01 2023 15:49:39 GMT-0800 (Pacific Standard Time) tc
+\id NUM EN_ULT en_English_ltr Mon Dec 04 2023 08:45:24 GMT-0800 (Pacific Standard Time) tc
 \usfm 3.0
 \ide UTF-8
 \h Numbers
@@ -4704,9 +4704,9 @@
 \w mouth|x-occurrence="1" x-occurrences="1"\w*
 \w of|x-occurrence="1" x-occurrences="2"\w*\zaln-e\*
 \zaln-s |x-strong="H3068" x-lemma="יְהֹוָה" x-morph="He,Np" x-occurrence="1" x-occurrences="1" x-content="יְהוָ֜ה"\*\w Yahweh|x-occurrence="1" x-occurrences="2"\w*\zaln-e\*
-\w they|x-occurrence="1" x-occurrences="1"\w*
-\w were|x-occurrence="1" x-occurrences="2"\w*
-\w counted|x-occurrence="1" x-occurrences="2"\w*
+\zaln-s |x-strong="H0853" x-lemma="אֵת" x-morph="He,To:Sp3mp" x-occurrence="1" x-occurrences="1" x-content="אוֹתָ⁠ם֙"\*\w they|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*
+\zaln-s |x-strong="H6485a" x-lemma="פָּקַד" x-morph="He,Vqp3ms" x-occurrence="1" x-occurrences="1" x-content="פָּקַ֤ד"\*\w were|x-occurrence="1" x-occurrences="2"\w*
+\w counted|x-occurrence="1" x-occurrences="2"\w*\zaln-e\*
 \zaln-s |x-strong="b:H3027" x-lemma="יָד" x-morph="He,R:Ncbsc" x-occurrence="1" x-occurrences="1" x-content="בְּ⁠יַד"\*\w by|x-occurrence="1" x-occurrences="2"\w*
 \w the|x-occurrence="2" x-occurrences="2"\w*
 \w hand|x-occurrence="1" x-occurrences="1"\w*
@@ -4726,11 +4726,11 @@
 \w with|x-occurrence="3" x-occurrences="3"\w*\zaln-e\*
 \zaln-s |x-strong="H4853a" x-lemma="מַשָּׂא" x-morph="He,Ncmsc:Sp3ms" x-occurrence="1" x-occurrences="1" x-content="מַשָּׂא֑⁠וֹ"\*\w his|x-occurrence="2" x-occurrences="3"\w*
 \w load|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*.
-\w So|x-occurrence="1" x-occurrences="1"\w* {\w these|x-occurrence="1" x-occurrences="1"\w*
+\zaln-s |x-strong="c:H6485a" x-lemma="פָּקַד" x-morph="He,C:Vqsmpc:Sp3ms" x-occurrence="1" x-occurrences="1" x-content="וּ⁠פְקֻדָ֕י⁠ו"\*\w So|x-occurrence="1" x-occurrences="1"\w*\zaln-e\* {\zaln-s |x-strong="c:H6485a" x-lemma="פָּקַד" x-morph="He,C:Vqsmpc:Sp3ms" x-occurrence="1" x-occurrences="1" x-content="וּ⁠פְקֻדָ֕י⁠ו"\*\w these|x-occurrence="1" x-occurrences="1"\w*
 \w were|x-occurrence="2" x-occurrences="2"\w*}
-\zaln-s |x-strong="c:H6485a" x-lemma="פָּקַד" x-morph="He,C:Vqsmpc:Sp3ms" x-occurrence="1" x-occurrences="1" x-content="וּ⁠פְקֻדָ֕י⁠ו"\*\w his|x-occurrence="3" x-occurrences="3"\w*\zaln-e\*
+\w his|x-occurrence="3" x-occurrences="3"\w*
 \w counted|x-occurrence="2" x-occurrences="2"\w*
-\zaln-s |x-strong="c:H6485a" x-lemma="פָּקַד" x-morph="He,C:Vqsmpc:Sp3ms" x-occurrence="1" x-occurrences="1" x-content="וּ⁠פְקֻדָ֕י⁠ו"\*\w ones|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*
+\w ones|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*
 \zaln-s |x-strong="H0834a" x-lemma="אֲשֶׁר" x-morph="He,Tr" x-occurrence="1" x-occurrences="1" x-content="אֲשֶׁר"\*\w that|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*
 \zaln-s |x-strong="H3068" x-lemma="יְהֹוָה" x-morph="He,Np" x-occurrence="1" x-occurrences="1" x-content="יְהוָ֖ה"\*\w Yahweh|x-occurrence="2" x-occurrences="2"\w*\zaln-e\*
 \zaln-s |x-strong="H6680" x-lemma="צָוָה" x-morph="He,Vpp3ms" x-occurrence="1" x-occurrences="1" x-content="צִוָּ֥ה"\*\w had|x-occurrence="1" x-occurrences="1"\w*

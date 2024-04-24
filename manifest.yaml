@@ -67,12 +67,12 @@ dublin_core:
     closely to the word order and structure of the originals.
   format: text/usfm3
   identifier: ult
-  issued: '2024-03-19'
+  issued: '2024-04-24'
   language:
     direction: ltr
     identifier: en
     title: English
-  modified: '2024-03-19'
+  modified: '2024-04-24'
   publisher: unfoldingWord
   relation:
     - en/tw
@@ -93,11 +93,11 @@ dublin_core:
       version: '0.26'
     - identifier: ult
       language: en
-      version: '78'
+      version: '79'
   subject: Aligned Bible
   title: unfoldingWord® Literal Text
   type: bundle
-  version: '79'
+  version: '80'
 checking:
   checking_entity:
     - unfoldingWord

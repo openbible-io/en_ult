@@ -10,6 +10,8 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+        with:
+          ref: upstream
       - name: Transform USFM
         run: npx --yes @openbible/usfm -o dist *.usfm
       - name: Setup Rclone

@@ -18,4 +18,5 @@ jobs:
         uses: AnimMouse/setup-rclone@v1
         with:
           rclone_config: ${{ secrets.RCLONE_CONFIG }}
+          disable_base64: true
       - run: rclone sync dist static:bibles/en_ult

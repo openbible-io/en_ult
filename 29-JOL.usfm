@@ -1271,7 +1271,7 @@
 \w will|x-occurrence="1" x-occurrences="3"\w*
 \w eat|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*
 \zaln-s |x-strong="c:H7646" x-lemma="שָׂבַע" x-morph="He,C:Vqa" x-occurrence="1" x-occurrences="1" x-content="וְ⁠שָׂב֔וֹעַ"\*\w and|x-occurrence="1" x-occurrences="3"\w*
-\w be|x-occurrence="1" x-occurrences="2"\w*
+\w be|x-occurrence="1" x-occurrences="1"\w*
 \w full|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*,
 \q2 \zaln-s |x-strong="c:H1984b" x-lemma="הָלַל" x-morph="He,C:Vpq2mp" x-occurrence="1" x-occurrences="1" x-content="וְ⁠הִלַּלְתֶּ֗ם"\*\w and|x-occurrence="2" x-occurrences="3"\w*
 \w you|x-occurrence="2" x-occurrences="3"\w*
@@ -1288,9 +1288,8 @@
 \w done|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*
 \zaln-s |x-strong="H5973a" x-lemma="עִם" x-morph="He,R:Sp2mp" x-occurrence="1" x-occurrences="1" x-content="עִמָּ⁠כֶ֖ם"\*\w with|x-occurrence="1" x-occurrences="1"\w*
 \w you|x-occurrence="3" x-occurrences="3"\w*\zaln-e\*
-\zaln-s |x-strong="l:H6381" x-lemma="פָּלָא" x-morph="He,R:Vhc" x-occurrence="1" x-occurrences="1" x-content="לְ⁠הַפְלִ֑יא"\*\w to|x-occurrence="1" x-occurrences="1"\w*
-\w be|x-occurrence="2" x-occurrences="2"\w*
-\w wondrous|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*,
+\zaln-s |x-strong="l:H6381" x-lemma="פָּלָא" x-morph="He,R:Vhc" x-occurrence="1" x-occurrences="1" x-content="לְ⁠הַפְלִ֑יא"\*\w doing|x-occurrence="1" x-occurrences="1"\w*
+\w wondrously|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*,
 \q2 \zaln-s |x-strong="c:H3808" x-lemma="לֹא" x-morph="He,C:Tn" x-occurrence="1" x-occurrences="1" x-content="וְ⁠לֹא"\*\w and|x-occurrence="3" x-occurrences="3"\w*\zaln-e\*
 \zaln-s |x-strong="l:H5769" x-lemma="עוֹלָם" x-morph="He,R:Ncmsa" x-occurrence="1" x-occurrences="1" x-content="לְ⁠עוֹלָֽם"\*\w forever|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*
 \zaln-s |x-strong="H5971a" x-lemma="עַם" x-morph="He,Ncmsc:Sp1cs" x-occurrence="1" x-occurrences="1" x-content="עַמִּ֖⁠י"\*\w my|x-occurrence="1" x-occurrences="1"\w*
@@ -1299,7 +1298,7 @@
 \zaln-s |x-strong="c:H3808" x-lemma="לֹא" x-morph="He,C:Tn" x-occurrence="1" x-occurrences="1" x-content="וְ⁠לֹא"\*\w not|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*
 \zaln-s |x-strong="H0954" x-lemma="בּוּשׁ" x-morph="He,Vqi3mp" x-occurrence="1" x-occurrences="1" x-content="יֵבֹ֥שׁוּ"\*\w feel|x-occurrence="1" x-occurrences="1"\w*
 \w shame|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*.
-\q1 \v 27 \zaln-s |x-strong="c:H3045" x-lemma="יָדַע" x-morph="He,C:Vqq2mp" x-occurrence="1" x-occurrences="1" x-content="וִ⁠ידַעְתֶּ֗ם"\*\w And|x-occurrence="1" x-occurrences="1"\w*
+\q1  \v 27 \zaln-s |x-strong="c:H3045" x-lemma="יָדַע" x-morph="He,C:Vqq2mp" x-occurrence="1" x-occurrences="1" x-content="וִ⁠ידַעְתֶּ֗ם"\*\w And|x-occurrence="1" x-occurrences="1"\w*
 \w you|x-occurrence="1" x-occurrences="1"\w*
 \w will|x-occurrence="1" x-occurrences="2"\w*
 \w know|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*
@@ -1458,8 +1457,8 @@
 \w will|x-occurrence="3" x-occurrences="3"\w*
 \w be|x-occurrence="3" x-occurrences="3"\w*\zaln-e\*
 \zaln-s |x-strong="H6413" x-lemma="פְּלֵיטָה" x-morph="He,Ncfsa" x-occurrence="1" x-occurrences="1" x-content="פְלֵיטָ֗ה"\*\w escape|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*,
-\q2 \zaln-s |x-strong="k:H0834d" x-lemma="אֲשֶׁר" x-morph="He,R:Tr" x-occurrence="1" x-occurrences="1" x-content="כַּֽ⁠אֲשֶׁר֙"\*\w as|x-occurrence="1" x-occurrences="1"\w*
-\w that|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*
+\q2 \zaln-s |x-strong="k:H0834d" x-lemma="אֲשֶׁר" x-morph="He,R:Tr" x-occurrence="1" x-occurrences="1" x-content="כַּֽ⁠אֲשֶׁר֙"\*\w just|x-occurrence="1" x-occurrences="1"\w*
+\w as|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*
 \zaln-s |x-strong="H3068" x-lemma="יְהֹוָה" x-morph="He,Np" x-occurrence="1" x-occurrences="1" x-content="יְהוָ֔ה"\*\w Yahweh|x-occurrence="2" x-occurrences="3"\w*\zaln-e\*
 \zaln-s |x-strong="H0559" x-lemma="אָמַר" x-morph="He,Vqp3ms" x-occurrence="1" x-occurrences="1" x-content="אָמַ֣ר"\*\w has|x-occurrence="1" x-occurrences="1"\w*
 \w said|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*,

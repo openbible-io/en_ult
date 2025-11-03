@@ -3233,7 +3233,7 @@
 \w 30|x-occurrence="1" x-occurrences="1"\w*
 \w years|x-occurrence="1" x-occurrences="2"\w*
 \w and|x-occurrence="1" x-occurrences="2"\w*
-\w upward|x-occurrence="1" x-occurrences="1"\w*
+\w upward|x-occurrence="1" x-occurrences="1"\w*,
 \w and|x-occurrence="2" x-occurrences="2"\w*
 \w up|x-occurrence="1" x-occurrences="1"\w*
 \w to|x-occurrence="1" x-occurrences="3"\w*
@@ -3242,7 +3242,8 @@
 \w of|x-occurrence="2" x-occurrences="3"\w*
 \w 50|x-occurrence="1" x-occurrences="1"\w*
 \w years|x-occurrence="2" x-occurrences="2"\w*,
-\w everyone|x-occurrence="1" x-occurrences="1"\w*
+\w every|x-occurrence="1" x-occurrences="1"\w*
+\w one|x-occurrence="1" x-occurrences="1"\w*
 \w who|x-occurrence="1" x-occurrences="1"\w*
 \w comes|x-occurrence="1" x-occurrences="1"\w*
 \w to|x-occurrence="2" x-occurrences="3"\w*
@@ -3606,10 +3607,10 @@
 \w trays|x-occurrence="1" x-occurrences="1"\w*,
 \w the|x-occurrence="2" x-occurrences="6"\w*
 \w meat|x-occurrence="1" x-occurrences="1"\w*
-\w forks|x-occurrence="1" x-occurrences="1"\w*
+\w forks|x-occurrence="1" x-occurrences="1"\w*,
 \w and|x-occurrence="1" x-occurrences="3"\w*
 \w the|x-occurrence="3" x-occurrences="6"\w*
-\w shovels|x-occurrence="1" x-occurrences="1"\w*
+\w shovels|x-occurrence="1" x-occurrences="1"\w*,
 \w and|x-occurrence="2" x-occurrences="3"\w*
 \w the|x-occurrence="4" x-occurrences="6"\w*
 \w basins|x-occurrence="1" x-occurrences="1"\w*—\w all|x-occurrence="2" x-occurrences="2"\w*
@@ -3889,7 +3890,8 @@
 \w shall|x-occurrence="1" x-occurrences="1"\w*
 \w count|x-occurrence="1" x-occurrences="1"\w*
 \w them|x-occurrence="1" x-occurrences="1"\w*,
-\w everyone|x-occurrence="1" x-occurrences="1"\w*
+\w every|x-occurrence="1" x-occurrences="1"\w*
+\w one|x-occurrence="1" x-occurrences="1"\w*
 \w who|x-occurrence="1" x-occurrences="1"\w*
 \w comes|x-occurrence="1" x-occurrences="1"\w*
 \w to|x-occurrence="2" x-occurrences="3"\w*
@@ -3948,7 +3950,7 @@
 \w on|x-occurrence="1" x-occurrences="1"\w*
 \w it|x-occurrence="1" x-occurrences="1"\w*
 \w from|x-occurrence="1" x-occurrences="1"\w*
-\w above|x-occurrence="1" x-occurrences="1"\w*
+\w above|x-occurrence="1" x-occurrences="1"\w*,
 \w and|x-occurrence="3" x-occurrences="3"\w*
 \w the|x-occurrence="5" x-occurrences="7"\w*
 \w curtain|x-occurrence="1" x-occurrences="1"\w*
@@ -4327,7 +4329,8 @@
 \w of|x-occurrence="2" x-occurrences="5"\w*
 \w the|x-occurrence="3" x-occurrences="6"\w*
 \w Kohathite|x-occurrence="1" x-occurrences="1"\w*,
-\w everyone|x-occurrence="1" x-occurrences="1"\w*
+\w every|x-occurrence="1" x-occurrences="1"\w*
+\w one|x-occurrence="1" x-occurrences="1"\w*
 \w who|x-occurrence="1" x-occurrences="1"\w*
 \w serves|x-occurrence="1" x-occurrences="1"\w*
 \w in|x-occurrence="1" x-occurrences="2"\w*
@@ -4434,7 +4437,8 @@
 \w sons|x-occurrence="1" x-occurrences="1"\w*
 \w of|x-occurrence="3" x-occurrences="5"\w*
 \w Gershon|x-occurrence="1" x-occurrences="1"\w*,
-\w everyone|x-occurrence="1" x-occurrences="1"\w*
+\w every|x-occurrence="1" x-occurrences="1"\w*
+\w one|x-occurrence="1" x-occurrences="1"\w*
 \w who|x-occurrence="1" x-occurrences="1"\w*
 \w serves|x-occurrence="1" x-occurrences="1"\w*
 \w in|x-occurrence="1" x-occurrences="1"\w*
@@ -5705,12 +5709,12 @@
 \w shall|x-occurrence="2" x-occurrences="4"\w*
 \w not|x-occurrence="1" x-occurrences="3"\w*
 \w drink|x-occurrence="2" x-occurrences="4"\w*
-\w the|x-occurrence="1" x-occurrences="4"\w*
+\w the|x-occurrence="1" x-occurrences="3"\w*
 \w vinegar|x-occurrence="1" x-occurrences="2"\w*
 \w of|x-occurrence="1" x-occurrences="3"\w*
 \w wine|x-occurrence="2" x-occurrences="2"\w*
 \w and|x-occurrence="2" x-occurrences="5"\w*
-\w the|x-occurrence="2" x-occurrences="4"\w*
+\w the|x-occurrence="2" x-occurrences="3"\w*
 \w vinegar|x-occurrence="2" x-occurrences="2"\w*
 \w of|x-occurrence="2" x-occurrences="3"\w*
 \w intoxicating|x-occurrence="2" x-occurrences="2"\w*
@@ -5721,8 +5725,7 @@
 \w not|x-occurrence="2" x-occurrences="3"\w*
 \w drink|x-occurrence="4" x-occurrences="4"\w*
 \w all|x-occurrence="1" x-occurrences="1"\w*
-\w the|x-occurrence="3" x-occurrences="4"\w*
-\w the|x-occurrence="4" x-occurrences="4"\w*
+\w the|x-occurrence="3" x-occurrences="3"\w*
 \w juice|x-occurrence="1" x-occurrences="1"\w*
 \w of|x-occurrence="3" x-occurrences="3"\w*
 \w grapes|x-occurrence="1" x-occurrences="2"\w*,
@@ -6541,7 +6544,7 @@
 \w two|x-occurrence="1" x-occurrences="1"\w*
 \w of|x-occurrence="2" x-occurrences="3"\w*
 \w the|x-occurrence="2" x-occurrences="4"\w*
-\w leaders|x-occurrence="1" x-occurrences="1"\w*
+\w leaders|x-occurrence="1" x-occurrences="1"\w*,
 \w and|x-occurrence="2" x-occurrences="2"\w*
 \w an|x-occurrence="1" x-occurrences="1"\w*
 \w ox|x-occurrence="1" x-occurrences="1"\w*

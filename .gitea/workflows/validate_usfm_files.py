@@ -387,7 +387,7 @@ def validate_usfm_header(
         if not header[7].startswith("\\mt1 ") or len(header[7]) <= 4:
             errors.add(
                 rule=CHECK_USFM_HEADER, file=file_name, line=8,
-                message=f"Expected '\\mt <text>' but found '{header[7]}'.",
+                message=f"Expected '\\mt1 <text>' but found '{header[7]}'.",
             )
 
 

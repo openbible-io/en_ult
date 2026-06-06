@@ -20197,9 +20197,10 @@
 
 \ts\*
 \c 72
-\d \w Of|x-occurrence="1" x-occurrences="1"\w*
-\w Solomon|x-occurrence="1" x-occurrences="1"\w*.
-\q1 \v 1 \zaln-s |x-strong="H0430" x-lemma="אֱלֹהִים" x-morph="He,Ncmpa" x-occurrence="1" x-occurrences="1" x-content="אֱֽלֹהִ֗ים"\*\w God|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*,
+\p
+\v 1 \d \zaln-s |x-strong="l:H8010" x-lemma="שְׁלֹמֹה" x-morph="He,R:Np" x-occurrence="1" x-occurrences="1" x-content="לִ⁠שְׁלֹמֹ֨ה"\*\w Of|x-occurrence="1" x-occurrences="1"\w*
+\w Solomon|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*.
+\q1 \zaln-s |x-strong="H0430" x-lemma="אֱלֹהִים" x-morph="He,Ncmpa" x-occurrence="1" x-occurrences="1" x-content="אֱֽלֹהִ֗ים"\*\w God|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*,
 \zaln-s |x-strong="H5414" x-lemma="נָתַן" x-morph="He,Vqv2ms" x-occurrence="1" x-occurrences="1" x-content="תֵּ֑ן"\*\w give|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*
 \zaln-s |x-strong="H4941" x-lemma="מִשְׁפָּט" x-morph="He,Ncmpc:Sp2ms" x-occurrence="1" x-occurrences="1" x-content="מִ֭שְׁפָּטֶי⁠ךָ"\*\w your|x-occurrence="1" x-occurrences="2"\w*
 \w judgments|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*
@@ -27374,7 +27375,14 @@
 
 \ts\*
 \c 92
-\d A psalm, a song for the Sabbath day.
+\d \zaln-s |x-strong="H4210" x-lemma="מִזְמוֹר" x-morph="He,Ncmsa" x-occurrence="1" x-occurrences="1" x-content="מִזְמ֥וֹר"\*\w A|x-occurrence="1" x-occurrences="1"\w*
+\w psalm|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*,
+\zaln-s |x-strong="H7892a" x-lemma="שִׁיר" x-morph="He,Ncbsa" x-occurrence="1" x-occurrences="1" x-content="שִׁ֗יר"\*\w a|x-occurrence="1" x-occurrences="1"\w*
+\w song|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*
+\zaln-s |x-strong="l:H3117" x-lemma="יוֹם" x-morph="He,R:Ncmsc" x-occurrence="1" x-occurrences="1" x-content="לְ⁠י֣וֹם"\*\w for|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*
+\zaln-s |x-strong="d:H7676" x-lemma="שַׁבָּת" x-morph="He,Td:Ncbsa" x-occurrence="1" x-occurrences="1" x-content="הַ⁠שַּׁבָּֽת"\*\w the|x-occurrence="1" x-occurrences="1"\w*
+\w Sabbath|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*
+\zaln-s |x-strong="l:H3117" x-lemma="יוֹם" x-morph="He,R:Ncmsc" x-occurrence="1" x-occurrences="1" x-content="לְ⁠י֣וֹם"\*\w day|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*.
 \q1 \v 1 \zaln-s |x-strong="H2896a" x-lemma="טוֹב" x-morph="He,Aamsa" x-occurrence="1" x-occurrences="1" x-content="ט֗וֹב"\*\w It|x-occurrence="1" x-occurrences="1"\w*
 \w is|x-occurrence="1" x-occurrences="1"\w*
 \w good|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*
@@ -28661,8 +28669,10 @@
 
 \ts\*
 \c 98
-\d A psalm.
-\q1 \v 1 \zaln-s |x-strong="H7891" x-lemma="שִׁיר" x-morph="He,Vqv2mp" x-occurrence="1" x-occurrences="1" x-content="שִׁ֤ירוּ"\*\w Sing|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*
+\p
+\v 1 \d \zaln-s |x-strong="H4210" x-lemma="מִזְמוֹר" x-morph="He,Ncmsa" x-occurrence="1" x-occurrences="1" x-content="מִזְמ֡וֹר"\*\w A|x-occurrence="1" x-occurrences="1"\w*
+\w psalm|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*.
+\q1 \zaln-s |x-strong="H7891" x-lemma="שִׁיר" x-morph="He,Vqv2mp" x-occurrence="1" x-occurrences="1" x-content="שִׁ֤ירוּ"\*\w Sing|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*
 \zaln-s |x-strong="l:H3068" x-lemma="יְהֹוָה" x-morph="He,R:Np" x-occurrence="1" x-occurrences="1" x-content="לַֽ⁠יהוָ֨ה"\*\w to|x-occurrence="1" x-occurrences="1"\w*
 \w Yahweh|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*
 \zaln-s |x-strong="H7892a" x-lemma="שִׁיר" x-morph="He,Ncbsa" x-occurrence="1" x-occurrences="1" x-content="שִׁ֣יר"\*\w a|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*
@@ -28993,8 +29003,12 @@
 
 \ts\*
 \c 100
-\d A psalm of thanksgiving.
-\q1 \v 1 \zaln-s |x-strong="H7321" x-lemma="רוּעַ" x-morph="He,Vhv2mp" x-occurrence="1" x-occurrences="1" x-content="הָרִ֥יעוּ"\*\w Shout|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*
+\p
+\v 1 \d \zaln-s |x-strong="H4210" x-lemma="מִזְמוֹר" x-morph="He,Ncmsa" x-occurrence="1" x-occurrences="1" x-content="מִזְמ֥וֹר"\*\w A|x-occurrence="1" x-occurrences="1"\w*
+\w psalm|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*
+\zaln-s |x-strong="l:H8426" x-lemma="תּוֹדָה" x-morph="He,R:Ncfsa" x-occurrence="1" x-occurrences="1" x-content="לְ⁠תוֹדָ֑ה"\*\w of|x-occurrence="1" x-occurrences="1"\w*
+\w thanksgiving|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*.
+\q1 \zaln-s |x-strong="H7321" x-lemma="רוּעַ" x-morph="He,Vhv2mp" x-occurrence="1" x-occurrences="1" x-content="הָרִ֥יעוּ"\*\w Shout|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*
 \zaln-s |x-strong="l:H3068" x-lemma="יְהֹוָה" x-morph="He,R:Np" x-occurrence="1" x-occurrences="1" x-content="לַ֝⁠יהוָ֗ה"\*\w to|x-occurrence="1" x-occurrences="1"\w*
 \w Yahweh|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*,
 \zaln-s |x-strong="H3605" x-lemma="כֹּל" x-morph="He,Ncmsc" x-occurrence="1" x-occurrences="1" x-content="כָּל"\*\w all|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*
